@@ -1,45 +1,148 @@
-# BIOS Signal Radar
+# BIOS Signal Radar 🛰️
 
-**Avrupa Endüstriyel Haber Tarama Ajanı** — RSS tabanlı, yapay zekâ destekli, gerçek zamanlı haber analiz sistemi.
+**Avrupa Endüstriyel Haber Tarama Ajanı** — RSS tabanlı, yapay zekâ destekli, gerçek zamanlı haber analiz ve fırsat takip sistemi.
 
 ---
 
-## Kurulum
+## 📖 Proje Hakkında
+
+**BIOS Signal Radar**, Avrupa genelindeki endüstriyel hareketliliği (fabrika taşımaları, yeni tesis yatırımları, kapasite artışları ve kapanışlar) otomatik olarak takip etmek için tasarlanmış bir akıllı asistan sistemidir. Onlarca farklı haber kaynağını manuel taramak yerine, sistem bu kaynakları RSS üzerinden izler, yapay zekâ (LLM) ile analiz eder ve "BIOS-Fit" skorlama modeli ile iş geliştirme fırsatlarını önceliklendirir.
+
+### Neden BIOS Signal Radar?
+Sanayi dünyasında "zamanlama" her şeydir. Bir fabrikanın taşınacağını 6 ay önceden bilmek, o şirkete lojistik, ekipman veya danışmanlık hizmeti sunmak isteyen ekipler için paha biçilemez bir avantajdır. BIOS Signal Radar, bu dağınık veriyi toplayıp aksiyona dönüştürülebilir sinyallere çevirir.
+
+---
+
+## 🛠️ Teknoloji Yığını
+
+| Katman | Teknoloji | Açıklama |
+|--------|-----------|----------|
+| **Frontend** | React 19, Vite, TailwindCSS 4 | Modern, hızlı ve responsive UI. |
+| **State Management** | Zustand | Hafif ve performanslı state yönetimi. |
+| **Backend** | FastAPI (Python 3.11) | Yüksek performanslı asenkron API. |
+| **Yapay Zekâ** | Ollama (Llama 3 / 3.2) | Yerel, gizlilik odaklı ve maliyetsiz LLM. |
+| **Veri Yapısı** | JSON / Local Files | Karmaşık veritabanı kurulumu gerektirmeyen esnek yapı. |
+| **Analiz** | Feedparser, Langdetect | RSS çekme ve otomatik dil algılama. |
+
+---
+
+## 🚀 Kurulum ve Başlatma
 
 ### Gereksinimler
-- Python 3.11+
-- Node.js 18+
-- [Ollama](https://ollama.ai) + `llama3` modeli (yerel LLM)
+- **Python 3.11+**
+- **Node.js 18+**
+- **Ollama** ([İndir](https://ollama.ai))
 
-### Backend
-
+### 1. Ollama Hazırlığı
+Sistem yerel olarak çalışan Ollama'yı kullanır. Kurulumdan sonra aşağıdaki modeli çekin:
 ```bash
-cd backend
-python -m venv venv
-# Windows:
-venv\Scripts\activate
-# Linux/macOS:
-source venv/bin/activate
-
-pip install -r requirements.txt
-cp .env.example .env   # OLLAMA_BASE_URL ve MODEL ayarlayın
-uvicorn main:app --reload --port 8000
+ollama pull llama3
 ```
 
-### Frontend
-
+### 2. Backend Kurulumu
 ```bash
-cd frontend
+cd bios-signal-radar/backend
+python -m venv .venv
+
+# Windows:
+.venv\Scripts\activate
+# Linux/macOS:
+source .venv/bin/activate
+
+pip install -r requirements.txt
+cp .env.example .env
+# .env dosyasında OLLAMA_BASE_URL=http://localhost:11434 ayarını kontrol edin.
+
+python main.py
+```
+
+### 3. Frontend Kurulumu
+```bash
+cd bios-signal-radar/frontend
 npm install
 npm run dev
-# http://localhost:5173 adresinden erişin
+```
+UI'a `http://localhost:5173` adresinden erişebilirsiniz.
+
+---
+
+## 🧠 Yapay Zekâ Pipeline ve Promptlar
+
+Sistem, token verimliliğini artırmak ve isabet oranını yükseltmek için **2-turlu analiz (Two-Turn Analysis)** yaklaşımını kullanır.
+
+### Tur 1: Ön Sınıflandırma (Relevance Filter)
+Bu aşamada haberin endüstriyel bir sinyal taşıyıp taşımadığı kontrol edilir. Gereksiz haberler (spor, magazin vb.) burada elenir.
+
+**Sistem Promptu:**
+```text
+You are an industrial news classifier for BIOS Signal Radar.
+Classify whether a news article belongs to one of these RELEVANT signal categories:
+1. FACTORY & PRODUCTION MOVEMENT - relocation, closure, new plant
+2. WORKFORCE & RESTRUCTURING - mass layoffs, consolidation
+3. STRATEGIC CORPORATE NEWS - M&A, bankruptcy, outsourcing
+4. INVESTMENT & TENDER - major CapEx, equipment tenders
+5. SECTOR DISRUPTION - industrial crisis
+Return ONLY JSON: {"relevant": true/false, "confidence": 0.0-1.0, "signal_hint": "..."}
+```
+
+### Tur 2: Derin Analiz ve Veri Çıkarımı
+İlk turdan geçen haberler için yapılandırılmış veri çıkarımı yapılır.
+
+**Sistem Promptu:**
+```text
+Sen kıdemli bir endüstriyel istihbarat analistisin. 
+Bu haberdeki olay tipini (relocation, expansion, closure vb.), şirket adını, 
+lokasyonları, sektörü ve zaman çizelgesini çıkar. 
+SADECE JSON döndür. Özeti Türkçe 2-4 cümle ile yaz.
 ```
 
 ---
 
-## Test RSS Kaynakları
+## 📊 BIOS-Fit Skor Modeli
 
-Sistemi test etmek için aşağıdaki RSS bağlantılarını ekleyebilirsiniz:
+Haberlerin önem derecesi aşağıdaki formüle göre hesaplanır:
+
+$$Score = 100 \times (0.30 \cdot E + 0.25 \cdot A + 0.20 \cdot G + 0.15 \cdot T + 0.10 \cdot C)$$
+
+### Bileşenler ve Ağırlıklar
+- **E (Event Type) - %30:** Olayın tipi (Taşıma=1.0, Yeni Fabrika=0.9, Kapanış=0.45).
+- **A (Actor Clarity) - %25:** Şirket, Nereden, Nereye ve Sektör bilgilerinin ne kadar net olduğu.
+- **G (Geography) - %20:** Avrupa içi operasyonlar en yüksek puanı alır.
+- **T (Timeline) - %15:** Olayın ne kadar yakın bir gelecekte gerçekleşeceği.
+- **C (Source Trust) - %10:** Kaynağın güvenilirliği (Resmi site > Ajans > Blog).
+
+### ⚖️ Ağırlıkların Gerekçelendirilmesi
+*   **Olay Tipi (%30):** En belirleyici faktördür. Bir ihale haberi ile komple bir fabrika taşıma haberi BIOS için farklı ticari değerler taşır.
+*   **Aktör Netliği (%25):** İkinci önceliktir. Hangi şirketin, hangi şehirden nereye gittiği bilinmiyorsa, satış veya iş geliştirme ekipleri için bu haber "eyleme dönüştürülemez" bir veridir.
+*   **Coğrafya (%20):** Pro Sicht'in ana operasyon alanı Avrupa olduğu için, kıta içi hareketlilik stratejik öneme sahiptir.
+*   **Zaman ve Kaynak (%25 Toplam):** Bu bileşenler, yüksek kaliteli sinyalleri "ince ayar" ile öne çıkarmak için kullanılır.
+
+> [!IMPORTANT]
+> **Güven Cezası (Confidence Penalty):** Eğer AI tarafından çıkarılan kritik alanların doluluk oranı %40'ın altındaysa, skor otomatik olarak **0.50 ile çarpılarak** cezalandırılır. Bu, eksik veriye dayalı yanıltıcı sinyalleri engeller.
+
+---
+
+## 🏗️ Mimari Yapı
+
+```mermaid
+graph TD
+    A[RSS Kaynakları] --> B[Collector Service]
+    B --> C[Normalizer & Dedup]
+    C --> D{AI Tur 1: Alaka?}
+    D -- Evet --> E[AI Tur 2: Detay Analiz]
+    D -- Hayır --> F[Arşiv]
+    E --> G[BIOS-Fit Scorer]
+    G --> H[Synapse AI Enrichment]
+    H --> I[JSON Storage]
+    I --> J[FastAPI API]
+    J --> K[React Frontend]
+```
+
+---
+
+## 🔗 Test İçin RSS Kaynakları
+
+Sistemi test etmek için aşağıdaki kaynakları kullanabilirsiniz:
 
 | Kaynak | URL |
 |--------|-----|
@@ -51,145 +154,7 @@ Sistemi test etmek için aşağıdaki RSS bağlantılarını ekleyebilirsiniz:
 
 ---
 
-## Yapay Zekâ Prompt'ları
-
-### Tur 1 — Ön Sınıflandırma (Relevance Filter)
-
-Sistem prompt:
-```
-You are an industrial news classifier for BIOS Signal Radar.
-
-Classify whether a news article belongs to one of these RELEVANT signal categories:
-1. FACTORY & PRODUCTION MOVEMENT - factory relocation, closure, new plant, capacity change
-2. WORKFORCE & RESTRUCTURING - mass layoffs (500+ people), workforce reduction, consolidation
-3. STRATEGIC CORPORATE NEWS - major M&A, bankruptcy, outsourcing decisions, supply chain restructuring
-4. INVESTMENT & TENDER - major CapEx announcements, industrial equipment tenders, government-backed factory investments
-5. SECTOR DISRUPTION - crisis in automotive, steel, chemical, textile, electronics
-
-IRRELEVANT: sports, culture, food, travel, pure stock market commentary, central bank rate decisions without industrial impact.
-```
-
-JSON çıktı şeması (Tur 1):
-```json
-{
-  "relevant": true,
-  "confidence": 0.92,
-  "signal_hint": "Factory relocation signal detected"
-}
-```
-
-### Tur 2 — Derin Analiz ve Çıkarım
-
-Sistem prompt:
-```
-Sen bir endüstriyel haber analistsin. Aşağıdaki haber metninden olay tipini,
-şirket adını, lokasyonları ve sektörü çıkar. Haberin Avrupa'daki bir fabrika
-taşıması, kapanışı, genişlemesi veya yeni yatırımı ile ilgili olup olmadığına
-göre 0–100 arası alaka skoru ver. SADECE JSON döndür, başka hiçbir şey yazma.
-Bilmediğin alanları null bırak. Özeti Türkçe yaz.
-
-METIN: {{article_text}}
-```
-
-JSON çıktı şeması (Tur 2):
-```json
-{
-  "event_type": "relocation | closure | expansion | new_plant | tender | other",
-  "summary_tr": "Türkçe 2–4 cümlelik özet",
-  "company": "Şirket adı veya null",
-  "from_location": "Çıkış lokasyonu veya null",
-  "to_location": "Hedef lokasyon veya null",
-  "sector": "Sektör veya null",
-  "subsector": "Alt sektör veya null",
-  "timeline": "Zaman bilgisi veya null",
-  "capex_eur": null,
-  "jobs_impact": null,
-  "signal_type": "positive | negative | neutral",
-  "confidence": 0.85,
-  "reasoning": "Karar gerekçesi",
-  "assumptions": []
-}
-```
-
-### Synapse AI Skoru
-
-```
-Sen BIOS Signal Radar için 'Synapse AI' skorlayıcısın.
-Amaç: Bu haberi grafik ağındaki bağlamına göre 0-100 arası 'Synapse AI' skoru üretmek.
-- Her zaman Türkçe cevap ver.
-- Skor 0-100 tam sayı.
-- Çıktı SADECE JSON olsun (markdown yok).
-
-JSON Şeması:
-{
-  "synapse_ai_score": 0,
-  "reasoning_tr": "2-4 cümle kısa gerekçe",
-  "key_factors": ["madde", "madde"]
-}
-```
-
-### RAG Asistan
-
-```
-Sen BIOS Signal Radar'ın Türkçe konuşan AI asistanısın.
-Görevin: Verilen kaynak dökümanlarına dayalı olarak kullanıcının sorularını yanıtlamak.
-- Yanıtlarını 3–5 cümle ile sınırla.
-- Kaynakta olmayan bilgiler için "Bu konuda kaynağımda yeterli veri yok." de.
-- Her zaman Türkçe yanıt ver.
-```
-
----
-
-## BIOS-Fit Skor Formülü
-
-```
-Score = 100 × (0.30·E + 0.25·A + 0.20·G + 0.15·T + 0.10·C)
-```
-
-| Bileşen | Açıklama | Max Puan |
-|---------|----------|----------|
-| E — Olay Tipi | relocation=1.0, new_plant=0.9, expansion=0.75 | 30 |
-| A — Aktör Netliği | şirket+from+to+sektör dolduğu kadar | 25 |
-| G — Coğrafya | Avrupa içi=1.0, komşu=0.5, diğer=0.1 | 20 |
-| T — Zaman Penceresi | 0-6 ay=1.0, 6-18 ay=0.7, belirsiz=0.2 | 15 |
-| C — Kaynak Güveni | Resmi site=1.0, Reuters/FT=0.85, Sektörel=0.7 | 10 |
-
-> Confidence < 0.40 ise Score × 0.50 uygulanır (ceza).
-
-### Örnek Hesaplama
-
-**Haber:** BMW, Münih'teki üretim hattını Macaristan/Debrecen'e taşıyor (Reuters, 2026 Q1)
-
-| Bileşen | Değer | Puan |
-|---------|-------|------|
-| E (relocation) | 1.00 | 30.0 |
-| A (tüm alanlar dolu) | 1.00 | 25.0 |
-| G (Almanya→Macaristan, Avrupa içi) | 1.00 | 20.0 |
-| T (2026 Q1, <6 ay) | 1.00 | 15.0 |
-| C (Reuters) | 0.85 | 8.5 |
-| **Toplam** | | **98.5 → 99** |
-
----
-
-## Mimari
-
-```
-RSS Kaynakları → Collector → Normalizer → Dedup → Turn1 (LLM) → Turn2 (LLM)
-                                                                      ↓
-                                                              BIOS Scorer
-                                                                      ↓
-                                                         Graph Engine + Anomaly
-                                                                      ↓
-                                                              Frontend (React)
-```
-
-## Teknoloji Yığını
-
-| Katman | Teknoloji |
-|--------|-----------|
-| Frontend | React 19, Vite, TailwindCSS 4, Zustand, Sonner |
-| Backend | FastAPI, Python 3.11, Pydantic |
-| LLM | Ollama (llama3 / llama3.2) |
-| RSS | feedparser |
-| Grafik | react-force-graph-2d |
-| Veri | JSON dosya tabanlı (SQLite-free) |
+## 📄 Lisans ve Etik
+Bu proje **BSMT Hackathon** kapsamında geliştirilmiştir. 
+- **Veri Gizliliği:** Yerel LLM (Ollama) kullanımı sayesinde haber içerikleri dışarıya sızmaz.
+- **Etik Kullanım:** Sadece herkese açık RSS kaynakları ve robots.txt uyumlu tarama yapılır.
