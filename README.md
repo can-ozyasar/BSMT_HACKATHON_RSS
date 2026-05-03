@@ -6,10 +6,10 @@
 
 ## 📖 Proje Hakkında
 
-**BIOS Signal Radar**, Avrupa genelindeki endüstriyel hareketliliği (fabrika taşımaları, yeni tesis yatırımları, kapasite artışları ve kapanışlar) otomatik olarak takip etmek için tasarlanmış bir akıllı asistan sistemidir. Onlarca farklı haber kaynağını manuel taramak yerine, sistem bu kaynakları RSS üzerinden izler, yapay zekâ (LLM) ile analiz eder ve "BIOS-Fit" skorlama modeli ile iş geliştirme fırsatlarını önceliklendirir.
+**Synapse**, Avrupa genelindeki endüstriyel hareketliliği (fabrika taşımaları, yeni tesis yatırımları, kapasite artışları ve kapanışlar) otomatik olarak takip etmek için tasarlanmış bir akıllı asistan sistemidir. Onlarca farklı haber kaynağını manuel taramak yerine, sistem bu kaynakları RSS üzerinden izler, yapay zekâ (LLM) ile analiz eder ve "BIOS-Fit" skorlama modeli ile iş geliştirme fırsatlarını önceliklendirir.
 
-### Neden BIOS Signal Radar?
-Sanayi dünyasında "zamanlama" her şeydir. Bir fabrikanın taşınacağını 6 ay önceden bilmek, o şirkete lojistik, ekipman veya danışmanlık hizmeti sunmak isteyen ekipler için paha biçilemez bir avantajdır. BIOS Signal Radar, bu dağınık veriyi toplayıp aksiyona dönüştürülebilir sinyallere çevirir.
+### Neden Synapse?
+Sanayi dünyasında "zamanlama" her şeydir. Bir fabrikanın taşınacağını 6 ay önceden bilmek, o şirkete lojistik, ekipman veya danışmanlık hizmeti sunmak isteyen ekipler için paha biçilemez bir avantajdır. Synapse, bu dağınık veriyi toplayıp aksiyona dönüştürülebilir sinyallere çevirir.
 
 ---
 
@@ -75,7 +75,7 @@ Bu aşamada haberin endüstriyel bir sinyal taşıyıp taşımadığı kontrol e
 
 **Sistem Promptu:**
 ```text
-You are an industrial news classifier for BIOS Signal Radar.
+You are an industrial news classifier for Synapse.
 Classify whether a news article belongs to one of these RELEVANT signal categories:
 1. FACTORY & PRODUCTION MOVEMENT - relocation, closure, new plant
 2. WORKFORCE & RESTRUCTURING - mass layoffs, consolidation
