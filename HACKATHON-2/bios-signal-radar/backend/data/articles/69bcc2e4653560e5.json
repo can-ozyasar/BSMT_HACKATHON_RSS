@@ -1,0 +1,261 @@
+{
+  "title": "Emtia piyasalarında jeopolitik riskler ve merkez bankalarının kararları etkili oldu",
+  "original_url": "https://www.haberler.com/ekonomi/emtia-piyasalarinda-jeopolitik-riskler-ve-merkez-19798901-haberi/",
+  "content": "Petrol fiyatlamalarında Petrol İhraç Eden Ülkeler Örgütü (OPEC) ve OPEC+ cephesinden gelen haber akışı bu hafta yatırımcılar tarafından takip edilirken, Birleşik Arap Emirlikleri, 1 Mayıs itibarıyla OPEC ve OPEC+ üyeliklerinden ayrılma kararı aldığını duyurdu - Enerji fiyatlarındaki yükseliş, biyoyakıt üretiminin artacağına yönelik beklentiler üzerinden mısır, soya fasulyesi ve şeker fiyatlarını desteklerken, gübre ve lojistik maliyetlerine ilişkin endişeler de tahıl piyasalarında yukarı yönlü fiyatlamaları güçlendirdi",
+  "source_id": "rss_9d9d554e",
+  "source_name": "Fabrika",
+  "source_url": "https://rss.haberler.com/rss.asp?kategori=fabrika",
+  "published_at": "2026-05-03T08:19:53+00:00",
+  "raw_hash": "69bcc2e4653560e5",
+  "content_preview": "Petrol fiyatlamalarında Petrol İhraç Eden Ülkeler Örgütü (OPEC) ve OPEC+ cephesinden gelen haber akışı bu hafta yatırımcılar tarafından takip edilirken, Birleşik Arap Emirlikleri, 1 Mayıs itibarıyla OPEC ve OPEC+ üyeliklerinden ayrılma kararı aldığını duyurdu - Enerji fiyatlarındaki yükseliş, biyoya",
+  "language": "tr",
+  "content_hash": "82bef262019781cf",
+  "company": null,
+  "from_location": "OPEC/OPEC+",
+  "to_location": "null",
+  "id": "69bcc2e4653560e5",
+  "url_hash": "69bcc2e4653560e5",
+  "simhash_fp": 15533707566081154841,
+  "text": "Emtia piyasalarında jeopolitik riskler ve merkez bankalarının kararları etkili oldu. Petrol fiyatlamalarında Petrol İhraç Eden Ülkeler Örgütü (OPEC) ve OPEC+ cephesinden gelen haber akışı bu hafta yatırımcılar tarafından takip edilirken, Birleşik Arap Emirlikleri, 1 Mayıs itibarıyla OPEC ve OPEC+ üyeliklerinden ayrılma kararı aldığını duyurdu - Enerji fiyatlarındaki yükseliş, biyoyakıt üretiminin artacağına yönelik beklentiler üzerinden mısır, soya fasulyesi ve şeker fiyatlarını desteklerken, gübre ve lojistik maliyetlerine ilişkin endişeler de tahıl piyasalarında yukarı yönlü fiyatlamaları güçlendirdi",
+  "fetched_at": "2026-05-03T08:36:30.691340+00:00",
+  "analysis_status": "processed",
+  "event_type": "restructuring",
+  "summary_tr": "OEÇ+ üyesi Birleşik Arap Emirlikleri örgütten ayrıldı. Enerji fiyatları yükseliyor, bu da mısır, soya fasulyası ve şeker fiyatlarını destekliyor. Gübre ve lojistik maliyetler kaygısı tahıl piyasalarını artırdı.",
+  "sector": "Energy|Agriculture",
+  "subsector": "null",
+  "timeline": "1 May onwards",
+  "capex_eur": null,
+  "jobs_impact": null,
+  "line_type": null,
+  "equipment_keywords": [],
+  "signal_type": "negative",
+  "ai_confidence": 1.0,
+  "reasoning": "UAE's departure from OPEC+ led to increased energy prices, which in turn supported agricultural commodity prices.",
+  "assumptions": [],
+  "bios_fit": {
+    "score": 41,
+    "score_final": 41,
+    "raw_score": 40.5,
+    "confidence": 0.8,
+    "components": {
+      "E": 0.5,
+      "A": 0.6,
+      "G": 0.1,
+      "T": 0.2,
+      "C": 0.55
+    },
+    "adjustments": {
+      "sector_mult": 1.0,
+      "industry_focus": 1.0,
+      "industry_bonus": 0.0,
+      "freshness_bonus": 0.0,
+      "confidence_penalty": false,
+      "graph_delta": 0.0
+    },
+    "label": "Düşük Alaka",
+    "color": "gray",
+    "action": "archive",
+    "source_tier": "general",
+    "audit_trail": [
+      {
+        "step": 1,
+        "title": "Alan Kontrolü",
+        "detail": "from_location=✅ | to_location=✅ | sector=✅ | event_type=✅ | company=❌",
+        "confidence": 0.8,
+        "filled_count": 4,
+        "total_fields": 5
+      },
+      {
+        "step": 2,
+        "title": "BIOS Bileşen Puanları",
+        "detail": "E(Olay)=0.5×0.30=0.15 | A(Aktör)=0.6×0.25=0.15 | G(Coğrafya)=0.1×0.20=0.02 | T(Zaman)=0.2×0.15=0.03 | C(Kaynak)=0.55×0.10=0.055",
+        "raw_score": 40.5,
+        "components": {
+          "E": 0.5,
+          "A": 0.6,
+          "G": 0.1,
+          "T": 0.2,
+          "C": 0.55
+        }
+      },
+      {
+        "step": 3,
+        "title": "Düzeltmeler",
+        "detail": "Düzeltme uygulanmadı",
+        "adjustments": {
+          "sector_mult": 1.0,
+          "industry_focus": 1.0,
+          "industry_bonus": 0.0,
+          "freshness_bonus": 0.0,
+          "confidence_penalty": false,
+          "graph_delta": 0.0
+        }
+      },
+      {
+        "step": 4,
+        "title": "Nihai Skor",
+        "detail": "Ham=40.5 → Düzeltmeli → Final=41 (Düşük Alaka)",
+        "final_score": 41,
+        "label": "Düşük Alaka",
+        "color": "gray"
+      }
+    ]
+  },
+  "has_anomaly": true,
+  "anomaly_multiplier": 4.0,
+  "synapse_score": 55,
+  "synapse_breakdown": [
+    {
+      "reason": "Ağ Taban Puanı",
+      "points": 5.0,
+      "type": "base"
+    },
+    {
+      "reason": "Bağlantı Yoğunluğu (10 bağ)",
+      "points": 19.2,
+      "type": "connectivity"
+    },
+    {
+      "reason": "Anlamsal Yakınlık (şirket:0, lokasyon:0, olay:10, sektör:0)",
+      "points": 7.2,
+      "type": "semantic"
+    },
+    {
+      "reason": "Momentum (poz:4, neg:6)",
+      "points": -1.0,
+      "type": "momentum"
+    },
+    {
+      "reason": "Tazelik (48s içinde komşu:9)",
+      "points": 7.0,
+      "type": "recency"
+    },
+    {
+      "reason": "Toplam",
+      "points": 55,
+      "type": "total"
+    }
+  ],
+  "graph_neighbors": [
+    {
+      "id": "bb4d6ec4ebd01b00",
+      "title": "TK Steel Europe: Thyssenkrupp stoppt Gespräche mit indischem Konkurrenten Jindal über Verkauf der Stahlsparte",
+      "company": "TK Steel Europe",
+      "event_type": "restructuring",
+      "signal_type": "negative",
+      "score": 39,
+      "relationship": "negative_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "d95f4f733ac121b5",
+      "title": "TK Steel Europe: Thyssenkrupp legt Gespräche mit indischem Konkurrenten Jindal über Verkauf der Stahlsparte auf Eis",
+      "company": "Thyssenkrupp",
+      "event_type": "restructuring",
+      "signal_type": "negative",
+      "score": 39,
+      "relationship": "negative_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "175b12632162cd25",
+      "title": "Thyssenkrupp: Kein Partner für Thyssen–Stahlsparte – Gespräche auf Eis",
+      "company": "Thyssenkrupp",
+      "event_type": "restructuring",
+      "signal_type": "negative",
+      "score": 39,
+      "relationship": "negative_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "81e8cc0117eebc50",
+      "title": "Thyssenkrupp, Jindal Steel Pause Talks on Steel Unit Stake",
+      "company": "Thyssenkrupp",
+      "event_type": "restructuring",
+      "signal_type": "negative",
+      "score": 39,
+      "relationship": "negative_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "efef361d2a7bc11a",
+      "title": "Chinese Court Rules Firms Can’t Lay Off Workers on AI Grounds",
+      "company": null,
+      "event_type": "restructuring",
+      "signal_type": "positive",
+      "score": 29,
+      "relationship": "negative_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "seed_tk_001",
+      "title": "ThyssenKrupp Steel announces 11,000 layoffs amid restructuring",
+      "company": "ThyssenKrupp",
+      "event_type": "restructuring",
+      "signal_type": "negative",
+      "score": 73,
+      "relationship": "negative_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "seed_siemens_001",
+      "title": "Siemens Energy to cut 4,100 jobs at Gamesa wind division",
+      "company": "Siemens Energy",
+      "event_type": "restructuring",
+      "signal_type": "negative",
+      "score": 77,
+      "relationship": "negative_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "e0e88ed8e586deac",
+      "title": "Understanding Identity System Protections in Modern IT and IoT Environments",
+      "company": null,
+      "event_type": "restructuring",
+      "signal_type": "positive",
+      "score": 26,
+      "relationship": "negative_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "cd7ca7e657b5d7c2",
+      "title": "Shopify Analyst Who Saw Selloff Coming Says Too Soon to Buy",
+      "company": "Shopify Inc.",
+      "event_type": "restructuring",
+      "signal_type": "positive",
+      "score": 39,
+      "relationship": "negative_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "35da28cb53ec4301",
+      "title": "Using IoT to Enable Predictive Facility Management in Large Enterprises",
+      "company": null,
+      "event_type": "restructuring",
+      "signal_type": "positive",
+      "score": 26,
+      "relationship": "negative_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    }
+  ]
+}

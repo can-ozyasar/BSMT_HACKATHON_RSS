@@ -1,0 +1,137 @@
+{
+  "title": "Japan’s Katayama Declines to Comment on FX Intervention For Now",
+  "original_url": "https://www.bloomberg.com/news/articles/2026-05-03/japan-s-katayama-declines-to-comment-on-fx-intervention-for-now",
+  "content": "Satsuki Katayama, Japan's finance minister, during a budget committee session at the upper house of parliament in Tokyo, Japan, on Monday, April 27, 2026. The war in the Middle East is putting pressure on the Japanese government to consider energy-saving measures, a challenge for Prime Minister Sanae Takaichi as she seeks to calm public anxiety over potential shortages.",
+  "source_id": "rss_e8ff8006",
+  "source_name": "feeds.bloomberg.com",
+  "source_url": "https://feeds.bloomberg.com/markets/news.rss",
+  "published_at": "2026-05-03T00:52:43+00:00",
+  "raw_hash": "bd4276418e3fc927",
+  "content_preview": "Satsuki Katayama, Japan's finance minister, during a budget committee session at the upper house of parliament in Tokyo, Japan, on Monday, April 27, 2026. The war in the Middle East is putting pressure on the Japanese government to consider energy-saving measures, a challenge for Prime Minister Sana",
+  "language": "en",
+  "content_hash": "b52bfbbdf6883f83",
+  "company": "Japan's finance minister",
+  "from_location": "Tokyo, Japan",
+  "to_location": null,
+  "id": "bd4276418e3fc927",
+  "url_hash": "bd4276418e3fc927",
+  "text": "Japan’s Katayama Declines to Comment on FX Intervention For Now. Satsuki Katayama, Japan's finance minister, during a budget committee session at the upper house of parliament in Tokyo, Japan, on Monday, April 27, 2026. The war in the Middle East is putting pressure on the Japanese government to consider energy-saving measures, a challenge for Prime Minister Sanae Takaichi as she seeks to calm public anxiety over potential shortages.",
+  "fetched_at": "2026-05-03T01:13:50.168370+00:00",
+  "analysis_status": "processed",
+  "event_type": null,
+  "summary_tr": "",
+  "sector": "Energy|Government",
+  "subsector": null,
+  "timeline": "2026-04-27",
+  "capex_eur": null,
+  "jobs_impact": null,
+  "line_type": null,
+  "equipment_keywords": [],
+  "signal_type": "neutral",
+  "ai_confidence": 0.75,
+  "reasoning": "Government statement, no specific action announced",
+  "assumptions": [],
+  "bios_fit": {
+    "score": 43,
+    "score_final": 43,
+    "raw_score": 42.75,
+    "confidence": 0.6,
+    "components": {
+      "E": 0.1,
+      "A": 0.75,
+      "G": 0.1,
+      "T": 0.7,
+      "C": 0.85
+    },
+    "adjustments": {
+      "sector_mult": 1.0,
+      "industry_focus": 1.0,
+      "industry_bonus": 0.0,
+      "freshness_bonus": 0.0,
+      "confidence_penalty": false,
+      "graph_delta": 0.0
+    },
+    "label": "Düşük Alaka",
+    "color": "gray",
+    "action": "archive",
+    "source_tier": "tier1",
+    "audit_trail": [
+      {
+        "step": 1,
+        "title": "Alan Kontrolü",
+        "detail": "company=✅ | from_location=✅ | sector=✅ | to_location=❌ | event_type=❌",
+        "confidence": 0.6,
+        "filled_count": 3,
+        "total_fields": 5
+      },
+      {
+        "step": 2,
+        "title": "BIOS Bileşen Puanları",
+        "detail": "E(Olay)=0.1×0.30=0.03 | A(Aktör)=0.75×0.25=0.19 | G(Coğrafya)=0.1×0.20=0.02 | T(Zaman)=0.7×0.15=0.10 | C(Kaynak)=0.85×0.10=0.085",
+        "raw_score": 42.75,
+        "components": {
+          "E": 0.1,
+          "A": 0.75,
+          "G": 0.1,
+          "T": 0.7,
+          "C": 0.85
+        }
+      },
+      {
+        "step": 3,
+        "title": "Düzeltmeler",
+        "detail": "Düzeltme uygulanmadı",
+        "adjustments": {
+          "sector_mult": 1.0,
+          "industry_focus": 1.0,
+          "industry_bonus": 0.0,
+          "freshness_bonus": 0.0,
+          "confidence_penalty": false,
+          "graph_delta": 0.0
+        }
+      },
+      {
+        "step": 4,
+        "title": "Nihai Skor",
+        "detail": "Ham=42.75 → Düzeltmeli → Final=43 (Düşük Alaka)",
+        "final_score": 43,
+        "label": "Düşük Alaka",
+        "color": "gray"
+      }
+    ]
+  },
+  "synapse_score": 7,
+  "synapse_breakdown": [
+    {
+      "reason": "Ağ Taban Puanı",
+      "points": 5.0,
+      "type": "base"
+    },
+    {
+      "reason": "Bağlantı Yoğunluğu (0 bağ)",
+      "points": 0.0,
+      "type": "connectivity"
+    },
+    {
+      "reason": "Anlamsal Yakınlık (şirket:0, lokasyon:0, olay:0, sektör:0)",
+      "points": 0.0,
+      "type": "semantic"
+    },
+    {
+      "reason": "Momentum (poz:0, neg:0)",
+      "points": 0.0,
+      "type": "momentum"
+    },
+    {
+      "reason": "Tazelik (48s içinde komşu:0)",
+      "points": 0.0,
+      "type": "recency"
+    },
+    {
+      "reason": "Toplam",
+      "points": 7,
+      "type": "total"
+    }
+  ],
+  "graph_neighbors": []
+}

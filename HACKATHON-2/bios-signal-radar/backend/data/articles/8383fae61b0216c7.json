@@ -1,0 +1,396 @@
+{
+  "title": "Le volume des exportations de GAC atteint de nouveaux sommets, avec une hausse de 133,9 % en glissement annuel de janvier à avril, alors que son expansion mondiale s'accélère",
+  "original_url": "https://www.prnewswire.com/news-releases/le-volume-des-exportations-de-gac-atteint-de-nouveaux-sommets-avec-une-hausse-de-133-9--en-glissement-annuel-de-janvier-a-avril-alors-que-son-expansion-mondiale-saccelere-302760665.html",
+  "content": "GUANGZHOU, Chine, 2 mai 2026 /PRNewswire/ -- S'appuyant sur de solides ventes à l'étranger avec une croissance de 86 % en glissement annuel au premier trimestre, GAC a encore accéléré son expansion mondiale. De janvier à avril, la société a exporté 70 474 véhicules, soit une augmentation...",
+  "source_id": "rss_f089920f",
+  "source_name": "PR Newswire",
+  "source_url": "https://www.prnewswire.com/rss/news-releases-list.rss",
+  "published_at": "2026-05-02T18:27:00+00:00",
+  "raw_hash": "8383fae61b0216c7",
+  "content_preview": "GUANGZHOU, Chine, 2 mai 2026 /PRNewswire/ -- S'appuyant sur de solides ventes à l'étranger avec une croissance de 86 % en glissement annuel au premier trimestre, GAC a encore accéléré son expansion mondiale. De janvier à avril, la société a exporté 70 474 véhicules, soit une augmentation...",
+  "language": "fr",
+  "content_hash": "d24477c80abfd267",
+  "company": "GAC",
+  "from_location": null,
+  "to_location": null,
+  "id": "8383fae61b0216c7",
+  "url_hash": "8383fae61b0216c7",
+  "text": "Le volume des exportations de GAC atteint de nouveaux sommets, avec une hausse de 133,9 % en glissement annuel de janvier à avril, alors que son expansion mondiale s'accélère. GUANGZHOU, Chine, 2 mai 2026 /PRNewswire/ -- S'appuyant sur de solides ventes à l'étranger avec une croissance de 86 % en glissement annuel au premier trimestre, GAC a encore accéléré son expansion mondiale. De janvier à avril, la société a exporté 70 474 véhicules, soit une augmentation...",
+  "fetched_at": "2026-05-02T23:53:08.946662+00:00",
+  "analysis_status": "processed",
+  "event_type": "expansion",
+  "summary_tr": "GAC'ın Ocak-Ağustos dönemi ihracatı yüzde 133,9'luk yıllık artışla yeni yüksek noktaya ulaştı, küresel genişlemesinin hızlanmasıyla.",
+  "sector": "Automotive",
+  "subsector": null,
+  "timeline": "January-April 2026",
+  "capex_eur": null,
+  "jobs_impact": null,
+  "line_type": null,
+  "equipment_keywords": [],
+  "signal_type": "positive",
+  "ai_confidence": 0.75,
+  "reasoning": "The article highlights GAC's strong foreign sales growth, which led to its global expansion acceleration.",
+  "assumptions": [],
+  "bios_fit": {
+    "score": 51,
+    "score_final": 51,
+    "raw_score": 51.0,
+    "confidence": 0.6,
+    "components": {
+      "E": 0.75,
+      "A": 0.5,
+      "G": 0.0,
+      "T": 0.7,
+      "C": 0.55
+    },
+    "adjustments": {
+      "sector_mult": 1.0,
+      "industry_focus": 1.0,
+      "industry_bonus": 0.0,
+      "freshness_bonus": 0.0,
+      "confidence_penalty": false,
+      "graph_delta": 0.0
+    },
+    "label": "Şartlı İlgi",
+    "color": "yellow",
+    "action": "monitor",
+    "source_tier": "general",
+    "audit_trail": [
+      {
+        "step": 1,
+        "title": "Alan Kontrolü",
+        "detail": "company=✅ | sector=✅ | event_type=✅ | from_location=❌ | to_location=❌",
+        "confidence": 0.6,
+        "filled_count": 3,
+        "total_fields": 5
+      },
+      {
+        "step": 2,
+        "title": "BIOS Bileşen Puanları",
+        "detail": "E(Olay)=0.75×0.30=0.22 | A(Aktör)=0.5×0.25=0.12 | G(Coğrafya)=0.0×0.20=0.00 | T(Zaman)=0.7×0.15=0.10 | C(Kaynak)=0.55×0.10=0.055",
+        "raw_score": 51.0,
+        "components": {
+          "E": 0.75,
+          "A": 0.5,
+          "G": 0.0,
+          "T": 0.7,
+          "C": 0.55
+        }
+      },
+      {
+        "step": 3,
+        "title": "Düzeltmeler",
+        "detail": "Düzeltme uygulanmadı",
+        "adjustments": {
+          "sector_mult": 1.0,
+          "industry_focus": 1.0,
+          "industry_bonus": 0.0,
+          "freshness_bonus": 0.0,
+          "confidence_penalty": false,
+          "graph_delta": 0.0
+        }
+      },
+      {
+        "step": 4,
+        "title": "Nihai Skor",
+        "detail": "Ham=51.0 → Düzeltmeli → Final=51 (Şartlı İlgi)",
+        "final_score": 51,
+        "label": "Şartlı İlgi",
+        "color": "yellow"
+      }
+    ]
+  },
+  "has_anomaly": true,
+  "anomaly_multiplier": 4.0,
+  "graph_neighbors": [
+    {
+      "id": "731a9236658f49db",
+      "title": "Bakan Uraloğlu: Hızlı Tren Projesi&apos;nin Mersin- Adana arasını önümüzdeki sene hizmete açacağız",
+      "company": null,
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 56,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "c707f21db844d68f",
+      "title": "Nvidia’s Push Into Physical AI Sparks Rally in Asian Partners",
+      "company": "Nvidia Corp.",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 47,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "77f44acb12005fb0",
+      "title": "Globale Expansion auf der Überholspur: Exportvolumen von GAC in Übersee erreicht mit einem Anstieg von 133,9 % von Januar bis April im Vergleich zum Vorjahr neuen Höchststand",
+      "company": "GAC",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 59,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_company",
+        "same_sector",
+        "same_event"
+      ]
+    },
+    {
+      "id": "2a9473bcc422d2d4",
+      "title": "Performance Brokerage Services Advises on the Sale of Carver Toyota of Columbus in Taylorsville, Indiana to Carlock Automotive Group",
+      "company": null,
+      "event_type": "acquisition",
+      "signal_type": "positive",
+      "score": 46,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "seed_northvolt_001",
+      "title": "Northvolt secures $5B for first circular gigafactory in Sweden",
+      "company": "Northvolt",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 80,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "seed_bmw_001",
+      "title": "BMW opens €1.7B gigafactory for battery cells in Leipzig",
+      "company": "BMW",
+      "event_type": "new_plant",
+      "signal_type": "positive",
+      "score": 86,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "efef361d2a7bc11a",
+      "title": "Chinese Court Rules Firms Can’t Lay Off Workers on AI Grounds",
+      "company": null,
+      "event_type": "restructuring",
+      "signal_type": "positive",
+      "score": 29,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "seed_vw_001",
+      "title": "Volkswagen to close two German plants, cutting 35,000 jobs",
+      "company": "Volkswagen",
+      "event_type": "closure",
+      "signal_type": "negative",
+      "score": 76,
+      "relationship": "positive_to_negative",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "seed_vw_002",
+      "title": "Volkswagen shifts EV production to new €2B Slovakia plant",
+      "company": "Volkswagen",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 87,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_sector",
+        "same_event"
+      ]
+    },
+    {
+      "id": "6fed3367a5893fd2",
+      "title": "Hyundai unveils Pleos Connect for software-defined vehicle architecture",
+      "company": "Hyundai Motor",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 56,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "0635531dffd01b3b",
+      "title": "Rivian raises US (Georgia) plant capacity by 50%",
+      "company": "Rivian",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 69,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "49f3e402415fcbad",
+      "title": "Toyota plans three Maharashtra plants to lift India output – report",
+      "company": "Toyota Motor",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 56,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "19649393a8163384",
+      "title": "Elektroautohersteller: Rivian reduziert Verluste und erhöht Kapazitätsplanung für neues Werk",
+      "company": "Rivian",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 63,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "seed_stellantis_001",
+      "title": "Stellantis closes Vauxhall Ellesmere Port plant after EV pivot fails",
+      "company": "Stellantis",
+      "event_type": "closure",
+      "signal_type": "negative",
+      "score": 68,
+      "relationship": "positive_to_negative",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "37f45ec030f5213f",
+      "title": "Apple Forecast Tops Estimates Even as Mac Shortages Linger",
+      "company": "Apple",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 59,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "119010a7cdd71dac",
+      "title": "Nexteer puts steer-by-wire into series production",
+      "company": "Nexteer Automotive",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 53,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "seed_bmw_002",
+      "title": "BMW relocates motorcycle production from Berlin to Hungary",
+      "company": "BMW",
+      "event_type": "relocation",
+      "signal_type": "negative",
+      "score": 91,
+      "relationship": "positive_to_negative",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "3b596f865f1978a2",
+      "title": "Telefónica and Sateliot target hybrid 5G-satellite coverage for defense and remote operations",
+      "company": "Telefónica España",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 44,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "b2e8fb1f5e95422d",
+      "title": "Cellular POS Terminals to Reach 247 Million by 2029 as Retail IoT Expands",
+      "company": null,
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 45,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "seed_stellantis_002",
+      "title": "Stellantis invests €1.5B in new EV hub in Mirafiori, Turin",
+      "company": "Stellantis",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 73,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_sector",
+        "same_event"
+      ]
+    },
+    {
+      "id": "seed_intel_001",
+      "title": "Intel pauses €17B German chip fab in Magdeburg amid financial struggles",
+      "company": "Intel",
+      "event_type": "expansion",
+      "signal_type": "negative",
+      "score": 73,
+      "relationship": "positive_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    }
+  ],
+  "synapse_score": 89,
+  "synapse_breakdown": [
+    {
+      "reason": "Ağ Taban Puanı",
+      "points": 5.0,
+      "type": "base"
+    },
+    {
+      "reason": "Bağlantı Yoğunluğu (21 bağ)",
+      "points": 24.7,
+      "type": "connectivity"
+    },
+    {
+      "reason": "Anlamsal Yakınlık (şirket:1, lokasyon:0, olay:15, sektör:9)",
+      "points": 17.3,
+      "type": "semantic"
+    },
+    {
+      "reason": "Momentum (poz:17, neg:4)",
+      "points": 8.0,
+      "type": "momentum"
+    },
+    {
+      "reason": "Tazelik (48s içinde komşu:12)",
+      "points": 7.0,
+      "type": "recency"
+    },
+    {
+      "reason": "Toplam",
+      "points": 89,
+      "type": "total"
+    }
+  ]
+}

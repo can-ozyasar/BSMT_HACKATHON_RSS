@@ -1,0 +1,282 @@
+{
+  "title": "Performance Brokerage Services Advises on the Sale of Carver Toyota of Columbus in Taylorsville, Indiana to Carlock Automotive Group",
+  "original_url": "https://www.prnewswire.com/news-releases/performance-brokerage-services-advises-on-the-sale-of-carver-toyota-of-columbus-in-taylorsville-indiana-to-carlock-automotive-group-302760635.html",
+  "content": "Performance Brokerage Services, the leader in dealership buy-sell activity, announces the sale of Carver Toyota of Columbus in Taylorsville, Indiana from Roy J. Carver, Jr. and Ashley Jannie to Clay Carlock of Carlock Automotive Group. IRVINE, Calif., May 2, 2026 /PRNewswire/ --...",
+  "source_id": "rss_f089920f",
+  "source_name": "PR Newswire",
+  "source_url": "https://www.prnewswire.com/rss/news-releases-list.rss",
+  "published_at": "2026-05-02T15:51:00+00:00",
+  "raw_hash": "2a9473bcc422d2d4",
+  "content_preview": "Performance Brokerage Services, the leader in dealership buy-sell activity, announces the sale of Carver Toyota of Columbus in Taylorsville, Indiana from Roy J. Carver, Jr. and Ashley Jannie to Clay Carlock of Carlock Automotive Group. IRVINE, Calif., May 2, 2026 /PRNewswire/ --...",
+  "language": "en",
+  "content_hash": "29f87ab7eadcd16b",
+  "company": null,
+  "from_location": "Taylorsville, Indiana",
+  "to_location": null,
+  "id": "2a9473bcc422d2d4",
+  "url_hash": "2a9473bcc422d2d4",
+  "text": "Performance Brokerage Services Advises on the Sale of Carver Toyota of Columbus in Taylorsville, Indiana to Carlock Automotive Group. Performance Brokerage Services, the leader in dealership buy-sell activity, announces the sale of Carver Toyota of Columbus in Taylorsville, Indiana from Roy J. Carver, Jr. and Ashley Jannie to Clay Carlock of Carlock Automotive Group. IRVINE, Calif., May 2, 2026 /PRNewswire/ --...",
+  "fetched_at": "2026-05-02T23:53:52.362011+00:00",
+  "analysis_status": "processed",
+  "event_type": "acquisition",
+  "summary_tr": "Kolumbus'taki Taylorsville'de bulunan Carver Toyota, Carlock Otomotiv Grubu'na satıldı.",
+  "sector": "Automotive",
+  "subsector": null,
+  "timeline": "May 2, 2026",
+  "capex_eur": null,
+  "jobs_impact": null,
+  "line_type": null,
+  "equipment_keywords": [],
+  "signal_type": "positive",
+  "ai_confidence": 0.75,
+  "reasoning": "The sale of Carver Toyota of Columbus to Carlock Automotive Group is classified as a positive signal due to the change in ownership and potential for growth.",
+  "assumptions": [],
+  "bios_fit": {
+    "score": 46,
+    "score_final": 46,
+    "raw_score": 46.25,
+    "confidence": 0.6,
+    "components": {
+      "E": 0.65,
+      "A": 0.35,
+      "G": 0.1,
+      "T": 0.7,
+      "C": 0.55
+    },
+    "adjustments": {
+      "sector_mult": 1.0,
+      "industry_focus": 1.0,
+      "industry_bonus": 0.0,
+      "freshness_bonus": 0.0,
+      "confidence_penalty": false,
+      "graph_delta": 0.0
+    },
+    "label": "Düşük Alaka",
+    "color": "gray",
+    "action": "archive",
+    "source_tier": "general",
+    "audit_trail": [
+      {
+        "step": 1,
+        "title": "Alan Kontrolü",
+        "detail": "from_location=✅ | sector=✅ | event_type=✅ | company=❌ | to_location=❌",
+        "confidence": 0.6,
+        "filled_count": 3,
+        "total_fields": 5
+      },
+      {
+        "step": 2,
+        "title": "BIOS Bileşen Puanları",
+        "detail": "E(Olay)=0.65×0.30=0.20 | A(Aktör)=0.35×0.25=0.09 | G(Coğrafya)=0.1×0.20=0.02 | T(Zaman)=0.7×0.15=0.10 | C(Kaynak)=0.55×0.10=0.055",
+        "raw_score": 46.25,
+        "components": {
+          "E": 0.65,
+          "A": 0.35,
+          "G": 0.1,
+          "T": 0.7,
+          "C": 0.55
+        }
+      },
+      {
+        "step": 3,
+        "title": "Düzeltmeler",
+        "detail": "Düzeltme uygulanmadı",
+        "adjustments": {
+          "sector_mult": 1.0,
+          "industry_focus": 1.0,
+          "industry_bonus": 0.0,
+          "freshness_bonus": 0.0,
+          "confidence_penalty": false,
+          "graph_delta": 0.0
+        }
+      },
+      {
+        "step": 4,
+        "title": "Nihai Skor",
+        "detail": "Ham=46.25 → Düzeltmeli → Final=46 (Düşük Alaka)",
+        "final_score": 46,
+        "label": "Düşük Alaka",
+        "color": "gray"
+      }
+    ]
+  },
+  "synapse_score": 69,
+  "synapse_breakdown": [
+    {
+      "reason": "Ağ Taban Puanı",
+      "points": 5.0,
+      "type": "base"
+    },
+    {
+      "reason": "Bağlantı Yoğunluğu (12 bağ)",
+      "points": 20.5,
+      "type": "connectivity"
+    },
+    {
+      "reason": "Anlamsal Yakınlık (şirket:0, lokasyon:0, olay:3, sektör:9)",
+      "points": 7.6,
+      "type": "semantic"
+    },
+    {
+      "reason": "Momentum (poz:8, neg:4)",
+      "points": 8.0,
+      "type": "momentum"
+    },
+    {
+      "reason": "Tazelik (48s içinde komşu:7)",
+      "points": 7.0,
+      "type": "recency"
+    },
+    {
+      "reason": "Toplam",
+      "points": 69,
+      "type": "total"
+    }
+  ],
+  "graph_neighbors": [
+    {
+      "id": "77f44acb12005fb0",
+      "title": "Globale Expansion auf der Überholspur: Exportvolumen von GAC in Übersee erreicht mit einem Anstieg von 133,9 % von Januar bis April im Vergleich zum Vorjahr neuen Höchststand",
+      "company": "GAC",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 59,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "8383fae61b0216c7",
+      "title": "Le volume des exportations de GAC atteint de nouveaux sommets, avec une hausse de 133,9 % en glissement annuel de janvier à avril, alors que son expansion mondiale s'accélère",
+      "company": "GAC",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 51,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "seed_bmw_001",
+      "title": "BMW opens €1.7B gigafactory for battery cells in Leipzig",
+      "company": "BMW",
+      "event_type": "new_plant",
+      "signal_type": "positive",
+      "score": 86,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "efef361d2a7bc11a",
+      "title": "Chinese Court Rules Firms Can’t Lay Off Workers on AI Grounds",
+      "company": null,
+      "event_type": "restructuring",
+      "signal_type": "positive",
+      "score": 29,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "seed_vw_001",
+      "title": "Volkswagen to close two German plants, cutting 35,000 jobs",
+      "company": "Volkswagen",
+      "event_type": "closure",
+      "signal_type": "negative",
+      "score": 76,
+      "relationship": "positive_to_negative",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "seed_vw_002",
+      "title": "Volkswagen shifts EV production to new €2B Slovakia plant",
+      "company": "Volkswagen",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 87,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "a1a9707e115ba74f",
+      "title": "CIP acquires Ørsted’s onshore business in Europe",
+      "company": "CIP",
+      "event_type": "acquisition",
+      "signal_type": "positive",
+      "score": 41,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "e166fe29fd21da65",
+      "title": "Posco signs US$765m deal for 30% stake in Australian lithium mines",
+      "company": "Posco Holdings",
+      "event_type": "acquisition",
+      "signal_type": "positive",
+      "score": 50,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "seed_stellantis_001",
+      "title": "Stellantis closes Vauxhall Ellesmere Port plant after EV pivot fails",
+      "company": "Stellantis",
+      "event_type": "closure",
+      "signal_type": "negative",
+      "score": 68,
+      "relationship": "positive_to_negative",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "seed_bmw_002",
+      "title": "BMW relocates motorcycle production from Berlin to Hungary",
+      "company": "BMW",
+      "event_type": "relocation",
+      "signal_type": "negative",
+      "score": 91,
+      "relationship": "positive_to_negative",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "seed_tk_002",
+      "title": "ThyssenKrupp sells specialty steel division to Liberty Steel",
+      "company": "ThyssenKrupp",
+      "event_type": "acquisition",
+      "signal_type": "negative",
+      "score": 85,
+      "relationship": "positive_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "seed_stellantis_002",
+      "title": "Stellantis invests €1.5B in new EV hub in Mirafiori, Turin",
+      "company": "Stellantis",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 73,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_sector"
+      ]
+    }
+  ]
+}

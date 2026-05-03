@@ -1,0 +1,167 @@
+{
+  "id": "seed_basf_001",
+  "title": "BASF shuts Ludwigshafen chemical complex amid energy cost crisis",
+  "content": "BASF SE has begun shutting down major production units at its flagship Ludwigshafen site in Germany, affecting 2,600 workers. CEO Martin Brudermüller cited unsustainable European natural gas prices as the primary driver. The company is redirecting €10 billion in chemical investments to its new Zhanjiang complex in China.",
+  "url": "https://www.faz.net/aktuell/wirtschaft/basf-schliessung-ludwigshafen-energiekosten-china/",
+  "original_url": "https://www.faz.net/aktuell/wirtschaft/basf-schliessung-ludwigshafen-energiekosten-china/",
+  "source_id": "seed",
+  "source_name": "FAZ Wirtschaft",
+  "source_url": "https://faz.net",
+  "published_at": "2026-04-29T09:00:00Z",
+  "fetched_at": "2026-04-29T10:00:00Z",
+  "analysis_status": "processed",
+  "event_type": "closure",
+  "summary_tr": "BASF SE, Almanya'daki Ludwigshafen tesisinde büyük üretim birimlerini kapatıyor. 2.600 çalışanı etkileyen karar, Avrupa'daki yüksek doğal gaz fiyatlarına bağlanıyor. Şirket 10 milyar Euroluk kimya yatırımını Çin'e yönlendiriyor.",
+  "company": "BASF",
+  "from_location": "Ludwigshafen, Germany",
+  "to_location": "Zhanjiang, China",
+  "sector": "Chemicals",
+  "subsector": "Petrochemicals",
+  "timeline": "2025-2026",
+  "capex_eur": null,
+  "jobs_impact": -2600,
+  "signal_type": "negative",
+  "ai_confidence": 0.97,
+  "raw_hash": "seed_basf_001",
+  "url_hash": "seed_basf_001_url",
+  "bios_fit": {
+    "score": 74,
+    "score_final": 74,
+    "raw_score": 74.0,
+    "confidence": 1.0,
+    "components": {
+      "E": 0.45,
+      "A": 1.0,
+      "G": 0.75,
+      "T": 1.0,
+      "C": 0.55
+    },
+    "adjustments": {
+      "sector_mult": 1.0,
+      "industry_focus": 1.0,
+      "industry_bonus": 0.0,
+      "freshness_bonus": 0.0,
+      "confidence_penalty": false,
+      "graph_delta": 0.0
+    },
+    "label": "İzlenecek",
+    "color": "blue",
+    "action": "watchlist",
+    "source_tier": "general",
+    "audit_trail": [
+      {
+        "step": 1,
+        "title": "Alan Kontrolü",
+        "detail": "company=✅ | from_location=✅ | to_location=✅ | sector=✅ | event_type=✅",
+        "confidence": 1.0,
+        "filled_count": 5,
+        "total_fields": 5
+      },
+      {
+        "step": 2,
+        "title": "BIOS Bileşen Puanları",
+        "detail": "E(Olay)=0.45×0.30=0.14 | A(Aktör)=1.0×0.25=0.25 | G(Coğrafya)=0.75×0.20=0.15 | T(Zaman)=1.0×0.15=0.15 | C(Kaynak)=0.55×0.10=0.055",
+        "raw_score": 74.0,
+        "components": {
+          "E": 0.45,
+          "A": 1.0,
+          "G": 0.75,
+          "T": 1.0,
+          "C": 0.55
+        }
+      },
+      {
+        "step": 3,
+        "title": "Düzeltmeler",
+        "detail": "Düzeltme uygulanmadı",
+        "adjustments": {
+          "sector_mult": 1.0,
+          "industry_focus": 1.0,
+          "industry_bonus": 0.0,
+          "freshness_bonus": 0.0,
+          "confidence_penalty": false,
+          "graph_delta": 0.0
+        }
+      },
+      {
+        "step": 4,
+        "title": "Nihai Skor",
+        "detail": "Ham=74.0 → Düzeltmeli → Final=74 (İzlenecek)",
+        "final_score": 74,
+        "label": "İzlenecek",
+        "color": "blue"
+      }
+    ]
+  },
+  "synapse_score": 31,
+  "synapse_breakdown": [
+    {
+      "reason": "Ağ Taban Puanı",
+      "points": 5.0,
+      "type": "base"
+    },
+    {
+      "reason": "Bağlantı Yoğunluğu (3 bağ)",
+      "points": 11.1,
+      "type": "connectivity"
+    },
+    {
+      "reason": "Anlamsal Yakınlık (şirket:0, lokasyon:0, olay:3, sektör:0)",
+      "points": 4.2,
+      "type": "semantic"
+    },
+    {
+      "reason": "Momentum (poz:0, neg:3)",
+      "points": -4.5,
+      "type": "momentum"
+    },
+    {
+      "reason": "Tazelik (48s içinde komşu:1)",
+      "points": 1.5,
+      "type": "recency"
+    },
+    {
+      "reason": "Toplam",
+      "points": 31,
+      "type": "total"
+    }
+  ],
+  "graph_neighbors": [
+    {
+      "id": "seed_vw_001",
+      "title": "Volkswagen to close two German plants, cutting 35,000 jobs",
+      "company": "Volkswagen",
+      "event_type": "closure",
+      "signal_type": "negative",
+      "score": 76,
+      "relationship": "negative_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "seed_stellantis_001",
+      "title": "Stellantis closes Vauxhall Ellesmere Port plant after EV pivot fails",
+      "company": "Stellantis",
+      "event_type": "closure",
+      "signal_type": "negative",
+      "score": 68,
+      "relationship": "negative_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "a259dd20688b548d",
+      "title": "Tekstilde fabrikalar kapanıyor, üretim Mısır'a taşınıyor, işsizlik artıyor - Evrensel",
+      "company": null,
+      "event_type": "closure",
+      "signal_type": "negative",
+      "score": 52,
+      "relationship": "negative_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    }
+  ]
+}

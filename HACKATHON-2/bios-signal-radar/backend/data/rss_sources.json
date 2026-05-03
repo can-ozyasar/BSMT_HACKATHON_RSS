@@ -1,0 +1,26 @@
+[
+  {
+    "id": "rss_31a45c28",
+    "url": "https://news.google.com/rss/search?q=fabrika+taşınıyor&hl=tr&gl=TR&ceid=TR:tr",
+    "name": "JANZO",
+    "tags": [],
+    "status": "active",
+    "last_fetched_at": "2026-05-03T08:56:30.839489+00:00",
+    "error_message": null,
+    "added_at": "2026-05-03T08:27:30.507719+00:00",
+    "article_count": 0,
+    "starred": false
+  },
+  {
+    "id": "rss_9d9d554e",
+    "url": "https://rss.haberler.com/rss.asp?kategori=fabrika",
+    "name": "Fabrika",
+    "tags": [],
+    "status": "active",
+    "last_fetched_at": "2026-05-03T08:56:30.837480+00:00",
+    "error_message": null,
+    "added_at": "2026-05-03T08:28:46.937962+00:00",
+    "article_count": 0,
+    "starred": false
+  }
+]

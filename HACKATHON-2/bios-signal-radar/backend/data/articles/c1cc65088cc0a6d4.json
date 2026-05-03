@@ -1,0 +1,199 @@
+{
+  "title": "Lieferketten: Ifo – Material für deutsche Industrie wird knapper",
+  "original_url": "https://www.handelsblatt.com/unternehmen/industrie/lieferketten-ifo-material-fuer-deutsche-industrie-wird-knapper/100221363.html",
+  "content": "Die Lieferketten sind am Limit. Vor allem Chemie- und Kunststoffhersteller schlagen Alarm. Wie der Konflikt im Nahen Osten die deutsche Industrie trifft.",
+  "source_id": "rss_handelsblatt",
+  "source_name": "Handelsblatt Unternehmen",
+  "source_url": "https://www.handelsblatt.com/contentexport/feed/unternehmen",
+  "published_at": "2026-04-30T09:28:52+00:00",
+  "raw_hash": "c1cc65088cc0a6d4",
+  "content_preview": "Die Lieferketten sind am Limit. Vor allem Chemie- und Kunststoffhersteller schlagen Alarm. Wie der Konflikt im Nahen Osten die deutsche Industrie trifft.",
+  "language": "de",
+  "content_hash": "f6382efc8d37d433",
+  "company": null,
+  "from_location": null,
+  "to_location": null,
+  "id": "c1cc65088cc0a6d4",
+  "url_hash": "c1cc65088cc0a6d4",
+  "text": "Lieferketten: Ifo – Material für deutsche Industrie wird knapper. Die Lieferketten sind am Limit. Vor allem Chemie- und Kunststoffhersteller schlagen Alarm. Wie der Konflikt im Nahen Osten die deutsche Industrie trifft.",
+  "fetched_at": "2026-05-02T19:18:04.913432+00:00",
+  "analysis_status": "processed",
+  "event_type": "supply_chain",
+  "summary_tr": "Ifo'ya göre Alman sanayisi için malzeme tedariki azalıyor ve tedarik zincirleri kapasitesinin sınırında. Özellikle kimya ve plastik üreticileri alarm veriyor. Ortadoğu'daki çatışmaların Alman endüstrisi üzerindeki olumsuz etkisi bu durumu daha da kötüleştiriyor.",
+  "sector": "Kimya",
+  "subsector": "Kimya, Plastik",
+  "timeline": null,
+  "capex_eur": null,
+  "jobs_impact": null,
+  "line_type": null,
+  "equipment_keywords": [],
+  "signal_type": "negative",
+  "ai_confidence": 0.75,
+  "reasoning": "Haber, Alman sanayisinde, özellikle kimya ve plastik sektörlerinde malzeme kıtlığı ve tedarik zinciri kısıtlamaları sorununa odaklanıyor. Ortadoğu'daki çatışmaların bu durumu kötüleştirmesi, sektörler için olumsuz bir sinyal teşkil ediyor ve tedarik zinciri aksaklıklarını doğrudan belirtiyor.",
+  "assumptions": [],
+  "bios_fit": {
+    "score": 31,
+    "score_final": 31,
+    "raw_score": 30.5,
+    "confidence": 0.4,
+    "components": {
+      "E": 0.55,
+      "A": 0.1,
+      "G": 0.0,
+      "T": 0.2,
+      "C": 0.85
+    },
+    "adjustments": {
+      "sector_mult": 1.0,
+      "industry_focus": 1.1,
+      "industry_bonus": 0.0,
+      "freshness_bonus": 0.0,
+      "confidence_penalty": false,
+      "graph_delta": 0.0
+    },
+    "label": "Düşük Alaka",
+    "color": "gray",
+    "action": "archive",
+    "source_tier": "tier1",
+    "audit_trail": [
+      {
+        "step": 1,
+        "title": "Alan Kontrolü",
+        "detail": "sector=✅ | event_type=✅ | company=❌ | from_location=❌ | to_location=❌",
+        "confidence": 0.4,
+        "filled_count": 2,
+        "total_fields": 5
+      },
+      {
+        "step": 2,
+        "title": "BIOS Bileşen Puanları",
+        "detail": "E(Olay)=0.55×0.30=0.17 | A(Aktör)=0.1×0.25=0.03 | G(Coğrafya)=0.0×0.20=0.00 | T(Zaman)=0.2×0.15=0.03 | C(Kaynak)=0.85×0.10=0.085",
+        "raw_score": 30.5,
+        "components": {
+          "E": 0.55,
+          "A": 0.1,
+          "G": 0.0,
+          "T": 0.2,
+          "C": 0.85
+        }
+      },
+      {
+        "step": 3,
+        "title": "Düzeltmeler",
+        "detail": "Düzeltme uygulanmadı",
+        "adjustments": {
+          "sector_mult": 1.0,
+          "industry_focus": 1.1,
+          "industry_bonus": 0.0,
+          "freshness_bonus": 0.0,
+          "confidence_penalty": false,
+          "graph_delta": 0.0
+        }
+      },
+      {
+        "step": 4,
+        "title": "Nihai Skor",
+        "detail": "Ham=30.5 → Düzeltmeli → Final=31 (Düşük Alaka)",
+        "final_score": 31,
+        "label": "Düşük Alaka",
+        "color": "gray"
+      }
+    ]
+  },
+  "synapse_score": 48,
+  "synapse_breakdown": [
+    {
+      "reason": "Ağ Taban Puanı",
+      "points": 5.0,
+      "type": "base"
+    },
+    {
+      "reason": "Bağlantı Yoğunluğu (5 bağ)",
+      "points": 14.3,
+      "type": "connectivity"
+    },
+    {
+      "reason": "Anlamsal Yakınlık (şirket:0, lokasyon:0, olay:4, sektör:2)",
+      "points": 6.5,
+      "type": "semantic"
+    },
+    {
+      "reason": "Momentum (poz:3, neg:2)",
+      "points": 3.0,
+      "type": "momentum"
+    },
+    {
+      "reason": "Tazelik (48s içinde komşu:3)",
+      "points": 4.5,
+      "type": "recency"
+    },
+    {
+      "reason": "Toplam",
+      "points": 48,
+      "type": "total"
+    }
+  ],
+  "graph_neighbors": [
+    {
+      "id": "9b7dd7826158389f",
+      "title": "Zelenskiy, Novorossiysk Limanı girişinde &quot;Rus gölge filosuna&quot; ait iki tankere saldırdıklarını bildirdi",
+      "company": null,
+      "event_type": "supply_chain",
+      "signal_type": "negative",
+      "score": 36,
+      "relationship": "negative_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "7e70e3187dc52574",
+      "title": "Airlines can cancel flights in advance over fuel shortages, under new plans",
+      "company": null,
+      "event_type": "supply_chain",
+      "signal_type": "positive",
+      "score": 28,
+      "relationship": "positive_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "ba1176d936024e71",
+      "title": "Billions of meals at risk due to Iran war, says fertiliser boss",
+      "company": "Yara",
+      "event_type": "supply_chain",
+      "signal_type": "negative",
+      "score": 46,
+      "relationship": "negative_to_negative",
+      "reasons": [
+        "same_sector",
+        "same_event"
+      ]
+    },
+    {
+      "id": "e166fe29fd21da65",
+      "title": "Posco signs US$765m deal for 30% stake in Australian lithium mines",
+      "company": "Posco Holdings",
+      "event_type": "acquisition",
+      "signal_type": "positive",
+      "score": 50,
+      "relationship": "positive_to_negative",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "5a4775dd5bd2fbf2",
+      "title": "Trump to remove whisky tariffs after King's visit",
+      "company": null,
+      "event_type": "supply_chain",
+      "signal_type": "positive",
+      "score": 28,
+      "relationship": "positive_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    }
+  ]
+}

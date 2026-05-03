@@ -1,0 +1,265 @@
+{
+  "id": "seed_stellantis_001",
+  "title": "Stellantis closes Vauxhall Ellesmere Port plant after EV pivot fails",
+  "content": "Stellantis has announced the closure of the Vauxhall manufacturing plant in Ellesmere Port, UK, affecting 1,100 workers. Despite a £100m government grant intended to convert the site to electric van production, the project proved commercially unviable. The closure is expected by end of Q3 2026.",
+  "url": "https://feeds.bbci.co.uk/news/business/articles/vauxhall-ellesmere-port-closure-2026",
+  "original_url": "https://feeds.bbci.co.uk/news/business/articles/vauxhall-ellesmere-port-closure-2026",
+  "source_id": "seed",
+  "source_name": "BBC Business",
+  "source_url": "https://feeds.bbci.co.uk",
+  "published_at": "2026-05-01T07:00:00Z",
+  "fetched_at": "2026-05-01T08:00:00Z",
+  "analysis_status": "processed",
+  "event_type": "closure",
+  "summary_tr": "Stellantis, İngiltere'nin Ellesmere Port'taki Vauxhall fabrikasını kapatıyor. 1.100 çalışanı etkileyen kapatma kararı, elektrikli araç üretimine geçişi amaçlayan 100 milyon sterlinlik devlet desteğine rağmen verildi.",
+  "company": "Stellantis",
+  "from_location": "Ellesmere Port, UK",
+  "to_location": null,
+  "sector": "Automotive",
+  "subsector": "Commercial vehicles",
+  "timeline": "2026 Q3",
+  "capex_eur": null,
+  "jobs_impact": -1100,
+  "signal_type": "negative",
+  "ai_confidence": 0.94,
+  "raw_hash": "seed_stellantis_001",
+  "url_hash": "seed_stellantis_001_url",
+  "bios_fit": {
+    "score": 68,
+    "score_final": 68,
+    "raw_score": 68.25,
+    "confidence": 0.8,
+    "components": {
+      "E": 0.45,
+      "A": 0.75,
+      "G": 1.0,
+      "T": 0.7,
+      "C": 0.55
+    },
+    "adjustments": {
+      "sector_mult": 1.0,
+      "industry_focus": 1.0,
+      "industry_bonus": 0.0,
+      "freshness_bonus": 0.0,
+      "confidence_penalty": false,
+      "graph_delta": 0.0
+    },
+    "label": "İzlenecek",
+    "color": "blue",
+    "action": "watchlist",
+    "source_tier": "general",
+    "audit_trail": [
+      {
+        "step": 1,
+        "title": "Alan Kontrolü",
+        "detail": "company=✅ | from_location=✅ | sector=✅ | event_type=✅ | to_location=❌",
+        "confidence": 0.8,
+        "filled_count": 4,
+        "total_fields": 5
+      },
+      {
+        "step": 2,
+        "title": "BIOS Bileşen Puanları",
+        "detail": "E(Olay)=0.45×0.30=0.14 | A(Aktör)=0.75×0.25=0.19 | G(Coğrafya)=1.0×0.20=0.20 | T(Zaman)=0.7×0.15=0.10 | C(Kaynak)=0.55×0.10=0.055",
+        "raw_score": 68.25,
+        "components": {
+          "E": 0.45,
+          "A": 0.75,
+          "G": 1.0,
+          "T": 0.7,
+          "C": 0.55
+        }
+      },
+      {
+        "step": 3,
+        "title": "Düzeltmeler",
+        "detail": "Düzeltme uygulanmadı",
+        "adjustments": {
+          "sector_mult": 1.0,
+          "industry_focus": 1.0,
+          "industry_bonus": 0.0,
+          "freshness_bonus": 0.0,
+          "confidence_penalty": false,
+          "graph_delta": 0.0
+        }
+      },
+      {
+        "step": 4,
+        "title": "Nihai Skor",
+        "detail": "Ham=68.25 → Düzeltmeli → Final=68 (İzlenecek)",
+        "final_score": 68,
+        "label": "İzlenecek",
+        "color": "blue"
+      }
+    ]
+  },
+  "graph_neighbors": [
+    {
+      "id": "77f44acb12005fb0",
+      "title": "Globale Expansion auf der Überholspur: Exportvolumen von GAC in Übersee erreicht mit einem Anstieg von 133,9 % von Januar bis April im Vergleich zum Vorjahr neuen Höchststand",
+      "company": "GAC",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 59,
+      "relationship": "positive_to_negative",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "8383fae61b0216c7",
+      "title": "Le volume des exportations de GAC atteint de nouveaux sommets, avec une hausse de 133,9 % en glissement annuel de janvier à avril, alors que son expansion mondiale s'accélère",
+      "company": "GAC",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 51,
+      "relationship": "positive_to_negative",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "2a9473bcc422d2d4",
+      "title": "Performance Brokerage Services Advises on the Sale of Carver Toyota of Columbus in Taylorsville, Indiana to Carlock Automotive Group",
+      "company": null,
+      "event_type": "acquisition",
+      "signal_type": "positive",
+      "score": 46,
+      "relationship": "positive_to_negative",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "seed_bmw_001",
+      "title": "BMW opens €1.7B gigafactory for battery cells in Leipzig",
+      "company": "BMW",
+      "event_type": "new_plant",
+      "signal_type": "positive",
+      "score": 86,
+      "relationship": "positive_to_negative",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "efef361d2a7bc11a",
+      "title": "Chinese Court Rules Firms Can’t Lay Off Workers on AI Grounds",
+      "company": null,
+      "event_type": "restructuring",
+      "signal_type": "positive",
+      "score": 29,
+      "relationship": "positive_to_negative",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "seed_vw_001",
+      "title": "Volkswagen to close two German plants, cutting 35,000 jobs",
+      "company": "Volkswagen",
+      "event_type": "closure",
+      "signal_type": "negative",
+      "score": 76,
+      "relationship": "negative_to_negative",
+      "reasons": [
+        "same_sector",
+        "same_event"
+      ]
+    },
+    {
+      "id": "seed_vw_002",
+      "title": "Volkswagen shifts EV production to new €2B Slovakia plant",
+      "company": "Volkswagen",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 87,
+      "relationship": "positive_to_negative",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "seed_bmw_002",
+      "title": "BMW relocates motorcycle production from Berlin to Hungary",
+      "company": "BMW",
+      "event_type": "relocation",
+      "signal_type": "negative",
+      "score": 91,
+      "relationship": "negative_to_negative",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "seed_basf_001",
+      "title": "BASF shuts Ludwigshafen chemical complex amid energy cost crisis",
+      "company": "BASF",
+      "event_type": "closure",
+      "signal_type": "negative",
+      "score": 74,
+      "relationship": "negative_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "seed_stellantis_002",
+      "title": "Stellantis invests €1.5B in new EV hub in Mirafiori, Turin",
+      "company": "Stellantis",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 73,
+      "relationship": "negative_to_positive",
+      "reasons": [
+        "same_company",
+        "same_sector"
+      ]
+    },
+    {
+      "id": "a259dd20688b548d",
+      "title": "Tekstilde fabrikalar kapanıyor, üretim Mısır'a taşınıyor, işsizlik artıyor - Evrensel",
+      "company": null,
+      "event_type": "closure",
+      "signal_type": "negative",
+      "score": 52,
+      "relationship": "negative_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    }
+  ],
+  "synapse_score": 76,
+  "synapse_breakdown": [
+    {
+      "reason": "Ağ Taban Puanı",
+      "points": 5.0,
+      "type": "base"
+    },
+    {
+      "reason": "Bağlantı Yoğunluğu (11 bağ)",
+      "points": 19.9,
+      "type": "connectivity"
+    },
+    {
+      "reason": "Anlamsal Yakınlık (şirket:1, lokasyon:0, olay:3, sektör:9)",
+      "points": 13.2,
+      "type": "semantic"
+    },
+    {
+      "reason": "Momentum (poz:7, neg:4)",
+      "points": 8.0,
+      "type": "momentum"
+    },
+    {
+      "reason": "Tazelik (48s içinde komşu:7)",
+      "points": 7.0,
+      "type": "recency"
+    },
+    {
+      "reason": "Toplam",
+      "points": 76,
+      "type": "total"
+    }
+  ]
+}

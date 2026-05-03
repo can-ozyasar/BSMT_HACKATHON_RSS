@@ -1,0 +1,137 @@
+{
+  "title": "Actor Ben McKenzie Explores Cryptocurrency Fraud in Doc.",
+  "original_url": "https://www.bloomberg.com/news/videos/2026-05-02/actor-ben-mckenzie-explores-cryptocurrency-fraud-in-doc-video",
+  "content": "Actor Ben McKenzie, known for his role in The OC, discusses his transition from acting to investigating cryptocurrency through a new film he wrote and directed: Everyone Is Lying to You for Money. McKenzie explains to Bloomberg This Weekend's David Gura and Christina Ruffini he was motivated by pandemic boredom and a suggestion to buy Bitcoin. (Source: Bloomberg)",
+  "source_id": "rss_bloomberg_tech",
+  "source_name": "Bloomberg Technology",
+  "source_url": "https://feeds.bloomberg.com/technology/news.rss",
+  "published_at": "2026-05-02T15:35:23+00:00",
+  "raw_hash": "497b8e1c67554285",
+  "content_preview": "Actor Ben McKenzie, known for his role in The OC, discusses his transition from acting to investigating cryptocurrency through a new film he wrote and directed: Everyone Is Lying to You for Money. McKenzie explains to Bloomberg This Weekend's David Gura and Christina Ruffini he was motivated by pand",
+  "language": "en",
+  "content_hash": "635fe40d4e8c6599",
+  "company": "Ben McKenzie",
+  "from_location": null,
+  "to_location": null,
+  "id": "497b8e1c67554285",
+  "url_hash": "497b8e1c67554285",
+  "text": "Actor Ben McKenzie Explores Cryptocurrency Fraud in Doc.. Actor Ben McKenzie, known for his role in The OC, discusses his transition from acting to investigating cryptocurrency through a new film he wrote and directed: Everyone Is Lying to You for Money. McKenzie explains to Bloomberg This Weekend's David Gura and Christina Ruffini he was motivated by pandemic boredom and a suggestion to buy Bitcoin. (Source: Bloomberg)",
+  "fetched_at": "2026-05-03T02:05:25.372578+00:00",
+  "analysis_status": "processed",
+  "event_type": null,
+  "summary_tr": "",
+  "sector": "Entertainment|Finance",
+  "subsector": "Film|Cryptocurrency",
+  "timeline": null,
+  "capex_eur": null,
+  "jobs_impact": null,
+  "line_type": null,
+  "equipment_keywords": [],
+  "signal_type": "neutral",
+  "ai_confidence": 0.75,
+  "reasoning": "The event is a documentary film about cryptocurrency fraud, which does not have any direct impact on the economy or industry.",
+  "assumptions": [],
+  "bios_fit": {
+    "score": 27,
+    "score_final": 27,
+    "raw_score": 27.0,
+    "confidence": 0.4,
+    "components": {
+      "E": 0.1,
+      "A": 0.5,
+      "G": 0.0,
+      "T": 0.2,
+      "C": 0.85
+    },
+    "adjustments": {
+      "sector_mult": 1.0,
+      "industry_focus": 1.0,
+      "industry_bonus": 0.0,
+      "freshness_bonus": 0.0,
+      "confidence_penalty": false,
+      "graph_delta": 0.0
+    },
+    "label": "Düşük Alaka",
+    "color": "gray",
+    "action": "archive",
+    "source_tier": "tier1",
+    "audit_trail": [
+      {
+        "step": 1,
+        "title": "Alan Kontrolü",
+        "detail": "company=✅ | sector=✅ | from_location=❌ | to_location=❌ | event_type=❌",
+        "confidence": 0.4,
+        "filled_count": 2,
+        "total_fields": 5
+      },
+      {
+        "step": 2,
+        "title": "BIOS Bileşen Puanları",
+        "detail": "E(Olay)=0.1×0.30=0.03 | A(Aktör)=0.5×0.25=0.12 | G(Coğrafya)=0.0×0.20=0.00 | T(Zaman)=0.2×0.15=0.03 | C(Kaynak)=0.85×0.10=0.085",
+        "raw_score": 27.0,
+        "components": {
+          "E": 0.1,
+          "A": 0.5,
+          "G": 0.0,
+          "T": 0.2,
+          "C": 0.85
+        }
+      },
+      {
+        "step": 3,
+        "title": "Düzeltmeler",
+        "detail": "Düzeltme uygulanmadı",
+        "adjustments": {
+          "sector_mult": 1.0,
+          "industry_focus": 1.0,
+          "industry_bonus": 0.0,
+          "freshness_bonus": 0.0,
+          "confidence_penalty": false,
+          "graph_delta": 0.0
+        }
+      },
+      {
+        "step": 4,
+        "title": "Nihai Skor",
+        "detail": "Ham=27.0 → Düzeltmeli → Final=27 (Düşük Alaka)",
+        "final_score": 27,
+        "label": "Düşük Alaka",
+        "color": "gray"
+      }
+    ]
+  },
+  "synapse_score": 7,
+  "synapse_breakdown": [
+    {
+      "reason": "Ağ Taban Puanı",
+      "points": 5.0,
+      "type": "base"
+    },
+    {
+      "reason": "Bağlantı Yoğunluğu (0 bağ)",
+      "points": 0.0,
+      "type": "connectivity"
+    },
+    {
+      "reason": "Anlamsal Yakınlık (şirket:0, lokasyon:0, olay:0, sektör:0)",
+      "points": 0.0,
+      "type": "semantic"
+    },
+    {
+      "reason": "Momentum (poz:0, neg:0)",
+      "points": 0.0,
+      "type": "momentum"
+    },
+    {
+      "reason": "Tazelik (48s içinde komşu:0)",
+      "points": 0.0,
+      "type": "recency"
+    },
+    {
+      "reason": "Toplam",
+      "points": 7,
+      "type": "total"
+    }
+  ],
+  "graph_neighbors": []
+}

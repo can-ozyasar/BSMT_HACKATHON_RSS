@@ -1,0 +1,5574 @@
+{
+  "nodes": [
+    {
+      "id": "a71dada6f3e1f210",
+      "group": "article",
+      "company": "AİLE ve Sosyal Hizmetler Bakanlığı",
+      "location": null
+    },
+    {
+      "id": "comp_ai̇le_ve_sosyal_hizmetler_bakanlığı",
+      "group": "company",
+      "label": "AİLE ve Sosyal Hizmetler Bakanlığı"
+    },
+    {
+      "id": "731a9236658f49db",
+      "group": "article",
+      "company": null,
+      "location": "Adana"
+    },
+    {
+      "id": "sector_logistics",
+      "group": "sector",
+      "label": "Logistics"
+    },
+    {
+      "id": "499a36b4eed2c816",
+      "group": "article",
+      "company": null,
+      "location": null
+    },
+    {
+      "id": "c37b32837e07be08",
+      "group": "article",
+      "company": null,
+      "location": null
+    },
+    {
+      "id": "df90ca7a75038979",
+      "group": "article",
+      "company": null,
+      "location": null
+    },
+    {
+      "id": "e536e8416c6ec4a9",
+      "group": "article",
+      "company": null,
+      "location": null
+    },
+    {
+      "id": "12fc72937c193d64",
+      "group": "article",
+      "company": null,
+      "location": null
+    },
+    {
+      "id": "d2c4db530f3bd962",
+      "group": "article",
+      "company": null,
+      "location": null
+    },
+    {
+      "id": "9b7dd7826158389f",
+      "group": "article",
+      "company": null,
+      "location": null
+    },
+    {
+      "id": "sector_energy",
+      "group": "sector",
+      "label": "Energy"
+    },
+    {
+      "id": "69bcc2e4653560e5",
+      "group": "article",
+      "company": null,
+      "location": "null"
+    },
+    {
+      "id": "sector_energy|agriculture",
+      "group": "sector",
+      "label": "Energy|Agriculture"
+    },
+    {
+      "id": "bb4d6ec4ebd01b00",
+      "group": "article",
+      "company": "TK Steel Europe",
+      "location": null
+    },
+    {
+      "id": "sector_steel",
+      "group": "sector",
+      "label": "Steel"
+    },
+    {
+      "id": "comp_tk_steel_europe",
+      "group": "company",
+      "label": "TK Steel Europe"
+    },
+    {
+      "id": "d95f4f733ac121b5",
+      "group": "article",
+      "company": "Thyssenkrupp",
+      "location": null
+    },
+    {
+      "id": "comp_thyssenkrupp",
+      "group": "company",
+      "label": "Thyssenkrupp"
+    },
+    {
+      "id": "0a5e7c16a44260f5",
+      "group": "article",
+      "company": "Anti-Graft Agency",
+      "location": null
+    },
+    {
+      "id": "sector_government|defense",
+      "group": "sector",
+      "label": "Government|Defense"
+    },
+    {
+      "id": "comp_anti-graft_agency",
+      "group": "company",
+      "label": "Anti-Graft Agency"
+    },
+    {
+      "id": "ca12457e50c04d11",
+      "group": "article",
+      "company": null,
+      "location": null
+    },
+    {
+      "id": "sector_energy|logistics",
+      "group": "sector",
+      "label": "Energy|Logistics"
+    },
+    {
+      "id": "1d9c3cf03ec8453c",
+      "group": "article",
+      "company": null,
+      "location": null
+    },
+    {
+      "id": "bd4276418e3fc927",
+      "group": "article",
+      "company": "Japan's finance minister",
+      "location": null
+    },
+    {
+      "id": "sector_energy|government",
+      "group": "sector",
+      "label": "Energy|Government"
+    },
+    {
+      "id": "comp_japan's_finance_minister",
+      "group": "company",
+      "label": "Japan's finance minister"
+    },
+    {
+      "id": "c707f21db844d68f",
+      "group": "article",
+      "company": "Nvidia Corp.",
+      "location": null
+    },
+    {
+      "id": "sector_technology|electronics",
+      "group": "sector",
+      "label": "Technology|Electronics"
+    },
+    {
+      "id": "comp_nvidia_corp.",
+      "group": "company",
+      "label": "Nvidia Corp."
+    },
+    {
+      "id": "10c96a4e5f940a70",
+      "group": "article",
+      "company": null,
+      "location": null
+    },
+    {
+      "id": "7e70e3187dc52574",
+      "group": "article",
+      "company": null,
+      "location": null
+    },
+    {
+      "id": "sector_lojistik",
+      "group": "sector",
+      "label": "Lojistik"
+    },
+    {
+      "id": "2aff80d862466b3c",
+      "group": "article",
+      "company": "Boston Scientific Corporation",
+      "location": null
+    },
+    {
+      "id": "sector_healthcare|medical_devices|null",
+      "group": "sector",
+      "label": "Healthcare|Medical Devices|null"
+    },
+    {
+      "id": "comp_boston_scientific_corporation",
+      "group": "company",
+      "label": "Boston Scientific Corporation"
+    },
+    {
+      "id": "77f44acb12005fb0",
+      "group": "article",
+      "company": "GAC",
+      "location": "Overseas"
+    },
+    {
+      "id": "sector_automotive",
+      "group": "sector",
+      "label": "Automotive"
+    },
+    {
+      "id": "comp_gac",
+      "group": "company",
+      "label": "GAC"
+    },
+    {
+      "id": "8383fae61b0216c7",
+      "group": "article",
+      "company": "GAC",
+      "location": null
+    },
+    {
+      "id": "5d2a0f82b74b4216",
+      "group": "article",
+      "company": null,
+      "location": null
+    },
+    {
+      "id": "sector_entertainment|culture|null",
+      "group": "sector",
+      "label": "Entertainment|Culture|null"
+    },
+    {
+      "id": "1aaa2d671f45cf40",
+      "group": "article",
+      "company": "Berkshire Hathaway",
+      "location": "Omaha, Nebraska, US"
+    },
+    {
+      "id": "sector_diğer",
+      "group": "sector",
+      "label": "Diğer"
+    },
+    {
+      "id": "comp_berkshire_hathaway",
+      "group": "company",
+      "label": "Berkshire Hathaway"
+    },
+    {
+      "id": "2a9473bcc422d2d4",
+      "group": "article",
+      "company": null,
+      "location": null
+    },
+    {
+      "id": "497b8e1c67554285",
+      "group": "article",
+      "company": "Ben McKenzie",
+      "location": null
+    },
+    {
+      "id": "sector_entertainment|finance",
+      "group": "sector",
+      "label": "Entertainment|Finance"
+    },
+    {
+      "id": "comp_ben_mckenzie",
+      "group": "company",
+      "label": "Ben McKenzie"
+    },
+    {
+      "id": "175b12632162cd25",
+      "group": "article",
+      "company": "Thyssenkrupp",
+      "location": null
+    },
+    {
+      "id": "sector_çelik",
+      "group": "sector",
+      "label": "Çelik"
+    },
+    {
+      "id": "8169509bdf58a5b4",
+      "group": "article",
+      "company": null,
+      "location": null
+    },
+    {
+      "id": "sector_enerji",
+      "group": "sector",
+      "label": "Enerji"
+    },
+    {
+      "id": "45acf2f6dd137585",
+      "group": "article",
+      "company": null,
+      "location": null
+    },
+    {
+      "id": "sector_software|technology|null",
+      "group": "sector",
+      "label": "Software|Technology|null"
+    },
+    {
+      "id": "1628c82a31a708a1",
+      "group": "article",
+      "company": "Çinli Rafineriler",
+      "location": null
+    },
+    {
+      "id": "comp_çinli_rafineriler",
+      "group": "company",
+      "label": "Çinli Rafineriler"
+    },
+    {
+      "id": "81e8cc0117eebc50",
+      "group": "article",
+      "company": "Thyssenkrupp",
+      "location": null
+    },
+    {
+      "id": "seed_northvolt_001",
+      "group": "article",
+      "company": "Northvolt",
+      "location": "Skellefteå, Sweden"
+    },
+    {
+      "id": "sector_energy_storage",
+      "group": "sector",
+      "label": "Energy Storage"
+    },
+    {
+      "id": "comp_northvolt",
+      "group": "company",
+      "label": "Northvolt"
+    },
+    {
+      "id": "seed_bmw_001",
+      "group": "article",
+      "company": "BMW",
+      "location": "Leipzig, Germany"
+    },
+    {
+      "id": "comp_bmw",
+      "group": "company",
+      "label": "BMW"
+    },
+    {
+      "id": "ef7c999bed71d11a",
+      "group": "article",
+      "company": "David Aaron",
+      "location": null
+    },
+    {
+      "id": "sector_other",
+      "group": "sector",
+      "label": "Other"
+    },
+    {
+      "id": "comp_david_aaron",
+      "group": "company",
+      "label": "David Aaron"
+    },
+    {
+      "id": "efef361d2a7bc11a",
+      "group": "article",
+      "company": null,
+      "location": null
+    },
+    {
+      "id": "seed_vw_001",
+      "group": "article",
+      "company": "Volkswagen",
+      "location": null
+    },
+    {
+      "id": "comp_volkswagen",
+      "group": "company",
+      "label": "Volkswagen"
+    },
+    {
+      "id": "seed_tk_001",
+      "group": "article",
+      "company": "ThyssenKrupp",
+      "location": null
+    },
+    {
+      "id": "0f6d3bcdc8ce0b48",
+      "group": "article",
+      "company": "Tesla",
+      "location": null
+    },
+    {
+      "id": "comp_tesla",
+      "group": "company",
+      "label": "Tesla"
+    },
+    {
+      "id": "8c063c31fbfe7e12",
+      "group": "article",
+      "company": "Debra Lee",
+      "location": null
+    },
+    {
+      "id": "comp_debra_lee",
+      "group": "company",
+      "label": "Debra Lee"
+    },
+    {
+      "id": "4e3febbcf808f473",
+      "group": "article",
+      "company": "Apple",
+      "location": null
+    },
+    {
+      "id": "sector_electronics",
+      "group": "sector",
+      "label": "Electronics"
+    },
+    {
+      "id": "comp_apple",
+      "group": "company",
+      "label": "Apple"
+    },
+    {
+      "id": "c493924b0d14be13",
+      "group": "article",
+      "company": null,
+      "location": null
+    },
+    {
+      "id": "seed_siemens_001",
+      "group": "article",
+      "company": "Siemens Energy",
+      "location": null
+    },
+    {
+      "id": "sector_renewables",
+      "group": "sector",
+      "label": "Renewables"
+    },
+    {
+      "id": "comp_siemens_energy",
+      "group": "company",
+      "label": "Siemens Energy"
+    },
+    {
+      "id": "seed_vw_002",
+      "group": "article",
+      "company": "Volkswagen",
+      "location": "Bratislava, Slovakia"
+    },
+    {
+      "id": "6fed3367a5893fd2",
+      "group": "article",
+      "company": "Hyundai Motor",
+      "location": "South Korea"
+    },
+    {
+      "id": "sector_otomotiv",
+      "group": "sector",
+      "label": "Otomotiv"
+    },
+    {
+      "id": "comp_hyundai_motor",
+      "group": "company",
+      "label": "Hyundai Motor"
+    },
+    {
+      "id": "e0e88ed8e586deac",
+      "group": "article",
+      "company": null,
+      "location": null
+    },
+    {
+      "id": "sector_it|iot",
+      "group": "sector",
+      "label": "IT|IoT"
+    },
+    {
+      "id": "ba1176d936024e71",
+      "group": "article",
+      "company": "Yara",
+      "location": null
+    },
+    {
+      "id": "sector_kimya",
+      "group": "sector",
+      "label": "Kimya"
+    },
+    {
+      "id": "comp_yara",
+      "group": "company",
+      "label": "Yara"
+    },
+    {
+      "id": "cd7ca7e657b5d7c2",
+      "group": "article",
+      "company": "Shopify Inc.",
+      "location": null
+    },
+    {
+      "id": "sector_technology",
+      "group": "sector",
+      "label": "Technology"
+    },
+    {
+      "id": "comp_shopify_inc.",
+      "group": "company",
+      "label": "Shopify Inc."
+    },
+    {
+      "id": "e789b5dc97c16bb6",
+      "group": "article",
+      "company": null,
+      "location": null
+    },
+    {
+      "id": "sector_technology|defense",
+      "group": "sector",
+      "label": "Technology|Defense"
+    },
+    {
+      "id": "0635531dffd01b3b",
+      "group": "article",
+      "company": "Rivian",
+      "location": "Georgia, US"
+    },
+    {
+      "id": "comp_rivian",
+      "group": "company",
+      "label": "Rivian"
+    },
+    {
+      "id": "49f3e402415fcbad",
+      "group": "article",
+      "company": "Toyota Motor",
+      "location": "Maharashtra, India"
+    },
+    {
+      "id": "comp_toyota_motor",
+      "group": "company",
+      "label": "Toyota Motor"
+    },
+    {
+      "id": "a1a9707e115ba74f",
+      "group": "article",
+      "company": "CIP",
+      "location": null
+    },
+    {
+      "id": "comp_cip",
+      "group": "company",
+      "label": "CIP"
+    },
+    {
+      "id": "19649393a8163384",
+      "group": "article",
+      "company": "Rivian",
+      "location": "Georgia/ABD"
+    },
+    {
+      "id": "e166fe29fd21da65",
+      "group": "article",
+      "company": "Posco Holdings",
+      "location": null
+    },
+    {
+      "id": "comp_posco_holdings",
+      "group": "company",
+      "label": "Posco Holdings"
+    },
+    {
+      "id": "5a4775dd5bd2fbf2",
+      "group": "article",
+      "company": null,
+      "location": null
+    },
+    {
+      "id": "8af892e9fc0b73c2",
+      "group": "article",
+      "company": null,
+      "location": null
+    },
+    {
+      "id": "seed_stellantis_001",
+      "group": "article",
+      "company": "Stellantis",
+      "location": null
+    },
+    {
+      "id": "comp_stellantis",
+      "group": "company",
+      "label": "Stellantis"
+    },
+    {
+      "id": "4f9010d9ec26b078",
+      "group": "article",
+      "company": null,
+      "location": null
+    },
+    {
+      "id": "sector_gıda",
+      "group": "sector",
+      "label": "Gıda"
+    },
+    {
+      "id": "37f45ec030f5213f",
+      "group": "article",
+      "company": "Apple",
+      "location": null
+    },
+    {
+      "id": "119010a7cdd71dac",
+      "group": "article",
+      "company": "Nexteer Automotive",
+      "location": "China"
+    },
+    {
+      "id": "comp_nexteer_automotive",
+      "group": "company",
+      "label": "Nexteer Automotive"
+    },
+    {
+      "id": "4fbda1f1e738d884",
+      "group": "article",
+      "company": "Aston Martin",
+      "location": null
+    },
+    {
+      "id": "comp_aston_martin",
+      "group": "company",
+      "label": "Aston Martin"
+    },
+    {
+      "id": "5a94098b0e3d3450",
+      "group": "article",
+      "company": "TotalEnergies",
+      "location": "Philippines"
+    },
+    {
+      "id": "comp_totalenergies",
+      "group": "company",
+      "label": "TotalEnergies"
+    },
+    {
+      "id": "seed_bmw_002",
+      "group": "article",
+      "company": "BMW",
+      "location": "Debrecen, Hungary"
+    },
+    {
+      "id": "c1cc65088cc0a6d4",
+      "group": "article",
+      "company": null,
+      "location": null
+    },
+    {
+      "id": "100ed191970f77dc",
+      "group": "article",
+      "company": "US Department of Energy (DoE)",
+      "location": null
+    },
+    {
+      "id": "comp_us_department_of_energy_(doe)",
+      "group": "company",
+      "label": "US Department of Energy (DoE)"
+    },
+    {
+      "id": "f1695e900c9d5823",
+      "group": "article",
+      "company": "Fugro",
+      "location": "Turkey"
+    },
+    {
+      "id": "comp_fugro",
+      "group": "company",
+      "label": "Fugro"
+    },
+    {
+      "id": "3b596f865f1978a2",
+      "group": "article",
+      "company": "Telefónica España",
+      "location": null
+    },
+    {
+      "id": "comp_telefónica_españa",
+      "group": "company",
+      "label": "Telefónica España"
+    },
+    {
+      "id": "b2e8fb1f5e95422d",
+      "group": "article",
+      "company": null,
+      "location": null
+    },
+    {
+      "id": "sector_retail|iot",
+      "group": "sector",
+      "label": "Retail|IoT"
+    },
+    {
+      "id": "891f62717c40dc36",
+      "group": "article",
+      "company": null,
+      "location": null
+    },
+    {
+      "id": "sector_iot|technology",
+      "group": "sector",
+      "label": "IoT|Technology"
+    },
+    {
+      "id": "930e7ec3ca581afc",
+      "group": "article",
+      "company": null,
+      "location": null
+    },
+    {
+      "id": "sector_logistics|field_services|utilities|construction|other|null",
+      "group": "sector",
+      "label": "Logistics|Field Services|Utilities|Construction|Other|null"
+    },
+    {
+      "id": "35da28cb53ec4301",
+      "group": "article",
+      "company": null,
+      "location": null
+    },
+    {
+      "id": "seed_basf_001",
+      "group": "article",
+      "company": "BASF",
+      "location": "Zhanjiang, China"
+    },
+    {
+      "id": "sector_chemicals",
+      "group": "sector",
+      "label": "Chemicals"
+    },
+    {
+      "id": "comp_basf",
+      "group": "company",
+      "label": "BASF"
+    },
+    {
+      "id": "71b2b093ab65fae4",
+      "group": "article",
+      "company": null,
+      "location": null
+    },
+    {
+      "id": "bb8f11a12e257507",
+      "group": "article",
+      "company": "Wireless Logic",
+      "location": null
+    },
+    {
+      "id": "comp_wireless_logic",
+      "group": "company",
+      "label": "Wireless Logic"
+    },
+    {
+      "id": "35166282cb234b16",
+      "group": "article",
+      "company": null,
+      "location": null
+    },
+    {
+      "id": "sector_software|technology",
+      "group": "sector",
+      "label": "Software|Technology"
+    },
+    {
+      "id": "seed_tk_002",
+      "group": "article",
+      "company": "ThyssenKrupp",
+      "location": "UK"
+    },
+    {
+      "id": "seed_stellantis_002",
+      "group": "article",
+      "company": "Stellantis",
+      "location": "Turin, Italy"
+    },
+    {
+      "id": "seed_intel_001",
+      "group": "article",
+      "company": "Intel",
+      "location": "Magdeburg, Germany"
+    },
+    {
+      "id": "comp_intel",
+      "group": "company",
+      "label": "Intel"
+    },
+    {
+      "id": "73df29831a823d66",
+      "group": "article",
+      "company": null,
+      "location": null
+    },
+    {
+      "id": "09b5db515b992bca",
+      "group": "article",
+      "company": null,
+      "location": "İç Anadolu"
+    },
+    {
+      "id": "b425319545a9db01",
+      "group": "article",
+      "company": null,
+      "location": "Anadolu"
+    },
+    {
+      "id": "57641511af83052d",
+      "group": "article",
+      "company": null,
+      "location": "Mısır"
+    },
+    {
+      "id": "a2c84deb72767d7f",
+      "group": "article",
+      "company": null,
+      "location": "Mısır"
+    },
+    {
+      "id": "sector_textile|other|null",
+      "group": "sector",
+      "label": "Textile|Other|null"
+    },
+    {
+      "id": "df99799b90d0e761",
+      "group": "article",
+      "company": null,
+      "location": "Egypt"
+    },
+    {
+      "id": "sector_textile",
+      "group": "sector",
+      "label": "Textile"
+    },
+    {
+      "id": "4b3d7b22318a84d4",
+      "group": "article",
+      "company": null,
+      "location": "Abroad"
+    },
+    {
+      "id": "sector_logistics|transportation",
+      "group": "sector",
+      "label": "Logistics|Transportation"
+    },
+    {
+      "id": "333a61504caf17b4",
+      "group": "article",
+      "company": null,
+      "location": "Mısır"
+    },
+    {
+      "id": "a259dd20688b548d",
+      "group": "article",
+      "company": null,
+      "location": "Egypt"
+    },
+    {
+      "id": "406ab220b3d45886",
+      "group": "article",
+      "company": "Colins",
+      "location": "Egypt"
+    },
+    {
+      "id": "sector_null",
+      "group": "sector",
+      "label": "null"
+    },
+    {
+      "id": "comp_colins",
+      "group": "company",
+      "label": "Colins"
+    },
+    {
+      "id": "b7a8afd175de3af0",
+      "group": "article",
+      "company": null,
+      "location": null
+    },
+    {
+      "id": "2afb9aa4c2e4102a",
+      "group": "article",
+      "company": "Şişecam",
+      "location": "Kırklareli"
+    },
+    {
+      "id": "comp_şişecam",
+      "group": "company",
+      "label": "Şişecam"
+    },
+    {
+      "id": "ea85564e4d2570d6",
+      "group": "article",
+      "company": null,
+      "location": null
+    },
+    {
+      "id": "4431d13a35b789d6",
+      "group": "article",
+      "company": "Jeju Air",
+      "location": null
+    },
+    {
+      "id": "comp_jeju_air",
+      "group": "company",
+      "label": "Jeju Air"
+    },
+    {
+      "id": "936706ccd551a04e",
+      "group": "article",
+      "company": "ABD Hükümeti",
+      "location": "Egypt and Jordan"
+    },
+    {
+      "id": "comp_abd_hükümeti",
+      "group": "company",
+      "label": "ABD Hükümeti"
+    },
+    {
+      "id": "b4751d9625b5b820",
+      "group": "article",
+      "company": null,
+      "location": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "731a9236658f49db",
+      "target": "c707f21db844d68f",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "731a9236658f49db",
+      "target": "77f44acb12005fb0",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "731a9236658f49db",
+      "target": "8383fae61b0216c7",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "731a9236658f49db",
+      "target": "seed_northvolt_001",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "731a9236658f49db",
+      "target": "seed_vw_002",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "731a9236658f49db",
+      "target": "6fed3367a5893fd2",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "731a9236658f49db",
+      "target": "0635531dffd01b3b",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "731a9236658f49db",
+      "target": "49f3e402415fcbad",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "731a9236658f49db",
+      "target": "19649393a8163384",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "731a9236658f49db",
+      "target": "37f45ec030f5213f",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "731a9236658f49db",
+      "target": "119010a7cdd71dac",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "731a9236658f49db",
+      "target": "3b596f865f1978a2",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "731a9236658f49db",
+      "target": "b2e8fb1f5e95422d",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "731a9236658f49db",
+      "target": "seed_stellantis_002",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "731a9236658f49db",
+      "target": "seed_intel_001",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_negative",
+      "signal_source": "positive",
+      "signal_target": "negative"
+    },
+    {
+      "source": "9b7dd7826158389f",
+      "target": "10c96a4e5f940a70",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "9b7dd7826158389f",
+      "target": "7e70e3187dc52574",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_positive",
+      "signal_source": "negative",
+      "signal_target": "positive"
+    },
+    {
+      "source": "9b7dd7826158389f",
+      "target": "c493924b0d14be13",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "9b7dd7826158389f",
+      "target": "ba1176d936024e71",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "9b7dd7826158389f",
+      "target": "a1a9707e115ba74f",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "negative_to_positive",
+      "signal_source": "negative",
+      "signal_target": "positive"
+    },
+    {
+      "source": "9b7dd7826158389f",
+      "target": "5a4775dd5bd2fbf2",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_positive",
+      "signal_source": "negative",
+      "signal_target": "positive"
+    },
+    {
+      "source": "9b7dd7826158389f",
+      "target": "8af892e9fc0b73c2",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "negative_to_positive",
+      "signal_source": "negative",
+      "signal_target": "positive"
+    },
+    {
+      "source": "9b7dd7826158389f",
+      "target": "5a94098b0e3d3450",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "negative_to_positive",
+      "signal_source": "negative",
+      "signal_target": "positive"
+    },
+    {
+      "source": "9b7dd7826158389f",
+      "target": "c1cc65088cc0a6d4",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "9b7dd7826158389f",
+      "target": "100ed191970f77dc",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "negative_to_positive",
+      "signal_source": "negative",
+      "signal_target": "positive"
+    },
+    {
+      "source": "9b7dd7826158389f",
+      "target": "f1695e900c9d5823",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "negative_to_positive",
+      "signal_source": "negative",
+      "signal_target": "positive"
+    },
+    {
+      "source": "9b7dd7826158389f",
+      "target": "bb8f11a12e257507",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "negative_to_neutral",
+      "signal_source": "negative",
+      "signal_target": "neutral"
+    },
+    {
+      "source": "69bcc2e4653560e5",
+      "target": "bb4d6ec4ebd01b00",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "69bcc2e4653560e5",
+      "target": "d95f4f733ac121b5",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "69bcc2e4653560e5",
+      "target": "175b12632162cd25",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "69bcc2e4653560e5",
+      "target": "81e8cc0117eebc50",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "69bcc2e4653560e5",
+      "target": "efef361d2a7bc11a",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_positive",
+      "signal_source": "negative",
+      "signal_target": "positive"
+    },
+    {
+      "source": "69bcc2e4653560e5",
+      "target": "seed_tk_001",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "69bcc2e4653560e5",
+      "target": "seed_siemens_001",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "69bcc2e4653560e5",
+      "target": "e0e88ed8e586deac",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_positive",
+      "signal_source": "negative",
+      "signal_target": "positive"
+    },
+    {
+      "source": "69bcc2e4653560e5",
+      "target": "cd7ca7e657b5d7c2",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_positive",
+      "signal_source": "negative",
+      "signal_target": "positive"
+    },
+    {
+      "source": "69bcc2e4653560e5",
+      "target": "35da28cb53ec4301",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_positive",
+      "signal_source": "negative",
+      "signal_target": "positive"
+    },
+    {
+      "source": "bb4d6ec4ebd01b00",
+      "target": "d95f4f733ac121b5",
+      "reasons": [
+        "same_sector",
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "bb4d6ec4ebd01b00",
+      "target": "175b12632162cd25",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "bb4d6ec4ebd01b00",
+      "target": "81e8cc0117eebc50",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "bb4d6ec4ebd01b00",
+      "target": "efef361d2a7bc11a",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_positive",
+      "signal_source": "negative",
+      "signal_target": "positive"
+    },
+    {
+      "source": "bb4d6ec4ebd01b00",
+      "target": "seed_tk_001",
+      "reasons": [
+        "same_sector",
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "bb4d6ec4ebd01b00",
+      "target": "seed_siemens_001",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "bb4d6ec4ebd01b00",
+      "target": "e0e88ed8e586deac",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_positive",
+      "signal_source": "negative",
+      "signal_target": "positive"
+    },
+    {
+      "source": "bb4d6ec4ebd01b00",
+      "target": "cd7ca7e657b5d7c2",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_positive",
+      "signal_source": "negative",
+      "signal_target": "positive"
+    },
+    {
+      "source": "bb4d6ec4ebd01b00",
+      "target": "35da28cb53ec4301",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_positive",
+      "signal_source": "negative",
+      "signal_target": "positive"
+    },
+    {
+      "source": "bb4d6ec4ebd01b00",
+      "target": "seed_tk_002",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "d95f4f733ac121b5",
+      "target": "175b12632162cd25",
+      "reasons": [
+        "same_company",
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "d95f4f733ac121b5",
+      "target": "81e8cc0117eebc50",
+      "reasons": [
+        "same_company",
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "d95f4f733ac121b5",
+      "target": "efef361d2a7bc11a",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_positive",
+      "signal_source": "negative",
+      "signal_target": "positive"
+    },
+    {
+      "source": "d95f4f733ac121b5",
+      "target": "seed_tk_001",
+      "reasons": [
+        "same_company",
+        "same_sector",
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "d95f4f733ac121b5",
+      "target": "seed_siemens_001",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "d95f4f733ac121b5",
+      "target": "e0e88ed8e586deac",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_positive",
+      "signal_source": "negative",
+      "signal_target": "positive"
+    },
+    {
+      "source": "d95f4f733ac121b5",
+      "target": "cd7ca7e657b5d7c2",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_positive",
+      "signal_source": "negative",
+      "signal_target": "positive"
+    },
+    {
+      "source": "d95f4f733ac121b5",
+      "target": "35da28cb53ec4301",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_positive",
+      "signal_source": "negative",
+      "signal_target": "positive"
+    },
+    {
+      "source": "d95f4f733ac121b5",
+      "target": "seed_tk_002",
+      "reasons": [
+        "same_company",
+        "same_sector"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "c707f21db844d68f",
+      "target": "77f44acb12005fb0",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "c707f21db844d68f",
+      "target": "8383fae61b0216c7",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "c707f21db844d68f",
+      "target": "seed_northvolt_001",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "c707f21db844d68f",
+      "target": "seed_vw_002",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "c707f21db844d68f",
+      "target": "6fed3367a5893fd2",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "c707f21db844d68f",
+      "target": "0635531dffd01b3b",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "c707f21db844d68f",
+      "target": "49f3e402415fcbad",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "c707f21db844d68f",
+      "target": "19649393a8163384",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "c707f21db844d68f",
+      "target": "37f45ec030f5213f",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "c707f21db844d68f",
+      "target": "119010a7cdd71dac",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "c707f21db844d68f",
+      "target": "3b596f865f1978a2",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "c707f21db844d68f",
+      "target": "b2e8fb1f5e95422d",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "c707f21db844d68f",
+      "target": "seed_stellantis_002",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "c707f21db844d68f",
+      "target": "seed_intel_001",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_negative",
+      "signal_source": "positive",
+      "signal_target": "negative"
+    },
+    {
+      "source": "10c96a4e5f940a70",
+      "target": "c493924b0d14be13",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "10c96a4e5f940a70",
+      "target": "a1a9707e115ba74f",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "negative_to_positive",
+      "signal_source": "negative",
+      "signal_target": "positive"
+    },
+    {
+      "source": "10c96a4e5f940a70",
+      "target": "8af892e9fc0b73c2",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "negative_to_positive",
+      "signal_source": "negative",
+      "signal_target": "positive"
+    },
+    {
+      "source": "10c96a4e5f940a70",
+      "target": "5a94098b0e3d3450",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "negative_to_positive",
+      "signal_source": "negative",
+      "signal_target": "positive"
+    },
+    {
+      "source": "10c96a4e5f940a70",
+      "target": "100ed191970f77dc",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "negative_to_positive",
+      "signal_source": "negative",
+      "signal_target": "positive"
+    },
+    {
+      "source": "10c96a4e5f940a70",
+      "target": "f1695e900c9d5823",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "negative_to_positive",
+      "signal_source": "negative",
+      "signal_target": "positive"
+    },
+    {
+      "source": "10c96a4e5f940a70",
+      "target": "bb8f11a12e257507",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "negative_to_neutral",
+      "signal_source": "negative",
+      "signal_target": "neutral"
+    },
+    {
+      "source": "7e70e3187dc52574",
+      "target": "ba1176d936024e71",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_negative",
+      "signal_source": "positive",
+      "signal_target": "negative"
+    },
+    {
+      "source": "7e70e3187dc52574",
+      "target": "5a4775dd5bd2fbf2",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "7e70e3187dc52574",
+      "target": "c1cc65088cc0a6d4",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_negative",
+      "signal_source": "positive",
+      "signal_target": "negative"
+    },
+    {
+      "source": "7e70e3187dc52574",
+      "target": "4431d13a35b789d6",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "positive_to_negative",
+      "signal_source": "positive",
+      "signal_target": "negative"
+    },
+    {
+      "source": "77f44acb12005fb0",
+      "target": "8383fae61b0216c7",
+      "reasons": [
+        "same_company",
+        "same_sector",
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "77f44acb12005fb0",
+      "target": "2a9473bcc422d2d4",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "77f44acb12005fb0",
+      "target": "seed_northvolt_001",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "77f44acb12005fb0",
+      "target": "seed_bmw_001",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "77f44acb12005fb0",
+      "target": "efef361d2a7bc11a",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "77f44acb12005fb0",
+      "target": "seed_vw_001",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "positive_to_negative",
+      "signal_source": "positive",
+      "signal_target": "negative"
+    },
+    {
+      "source": "77f44acb12005fb0",
+      "target": "seed_vw_002",
+      "reasons": [
+        "same_sector",
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "77f44acb12005fb0",
+      "target": "6fed3367a5893fd2",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "77f44acb12005fb0",
+      "target": "0635531dffd01b3b",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "77f44acb12005fb0",
+      "target": "49f3e402415fcbad",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "77f44acb12005fb0",
+      "target": "19649393a8163384",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "77f44acb12005fb0",
+      "target": "seed_stellantis_001",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "positive_to_negative",
+      "signal_source": "positive",
+      "signal_target": "negative"
+    },
+    {
+      "source": "77f44acb12005fb0",
+      "target": "37f45ec030f5213f",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "77f44acb12005fb0",
+      "target": "119010a7cdd71dac",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "77f44acb12005fb0",
+      "target": "seed_bmw_002",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "positive_to_negative",
+      "signal_source": "positive",
+      "signal_target": "negative"
+    },
+    {
+      "source": "77f44acb12005fb0",
+      "target": "3b596f865f1978a2",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "77f44acb12005fb0",
+      "target": "b2e8fb1f5e95422d",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "77f44acb12005fb0",
+      "target": "seed_stellantis_002",
+      "reasons": [
+        "same_sector",
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "77f44acb12005fb0",
+      "target": "seed_intel_001",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_negative",
+      "signal_source": "positive",
+      "signal_target": "negative"
+    },
+    {
+      "source": "8383fae61b0216c7",
+      "target": "2a9473bcc422d2d4",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "8383fae61b0216c7",
+      "target": "seed_northvolt_001",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "8383fae61b0216c7",
+      "target": "seed_bmw_001",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "8383fae61b0216c7",
+      "target": "efef361d2a7bc11a",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "8383fae61b0216c7",
+      "target": "seed_vw_001",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "positive_to_negative",
+      "signal_source": "positive",
+      "signal_target": "negative"
+    },
+    {
+      "source": "8383fae61b0216c7",
+      "target": "seed_vw_002",
+      "reasons": [
+        "same_sector",
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "8383fae61b0216c7",
+      "target": "6fed3367a5893fd2",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "8383fae61b0216c7",
+      "target": "0635531dffd01b3b",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "8383fae61b0216c7",
+      "target": "49f3e402415fcbad",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "8383fae61b0216c7",
+      "target": "19649393a8163384",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "8383fae61b0216c7",
+      "target": "seed_stellantis_001",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "positive_to_negative",
+      "signal_source": "positive",
+      "signal_target": "negative"
+    },
+    {
+      "source": "8383fae61b0216c7",
+      "target": "37f45ec030f5213f",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "8383fae61b0216c7",
+      "target": "119010a7cdd71dac",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "8383fae61b0216c7",
+      "target": "seed_bmw_002",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "positive_to_negative",
+      "signal_source": "positive",
+      "signal_target": "negative"
+    },
+    {
+      "source": "8383fae61b0216c7",
+      "target": "3b596f865f1978a2",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "8383fae61b0216c7",
+      "target": "b2e8fb1f5e95422d",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "8383fae61b0216c7",
+      "target": "seed_stellantis_002",
+      "reasons": [
+        "same_sector",
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "8383fae61b0216c7",
+      "target": "seed_intel_001",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_negative",
+      "signal_source": "positive",
+      "signal_target": "negative"
+    },
+    {
+      "source": "1aaa2d671f45cf40",
+      "target": "5a4775dd5bd2fbf2",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "neutral_to_positive",
+      "signal_source": "neutral",
+      "signal_target": "positive"
+    },
+    {
+      "source": "2a9473bcc422d2d4",
+      "target": "seed_bmw_001",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "2a9473bcc422d2d4",
+      "target": "efef361d2a7bc11a",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "2a9473bcc422d2d4",
+      "target": "seed_vw_001",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "positive_to_negative",
+      "signal_source": "positive",
+      "signal_target": "negative"
+    },
+    {
+      "source": "2a9473bcc422d2d4",
+      "target": "seed_vw_002",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "2a9473bcc422d2d4",
+      "target": "a1a9707e115ba74f",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "2a9473bcc422d2d4",
+      "target": "e166fe29fd21da65",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "2a9473bcc422d2d4",
+      "target": "seed_stellantis_001",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "positive_to_negative",
+      "signal_source": "positive",
+      "signal_target": "negative"
+    },
+    {
+      "source": "2a9473bcc422d2d4",
+      "target": "seed_bmw_002",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "positive_to_negative",
+      "signal_source": "positive",
+      "signal_target": "negative"
+    },
+    {
+      "source": "2a9473bcc422d2d4",
+      "target": "seed_tk_002",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_negative",
+      "signal_source": "positive",
+      "signal_target": "negative"
+    },
+    {
+      "source": "2a9473bcc422d2d4",
+      "target": "seed_stellantis_002",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "175b12632162cd25",
+      "target": "81e8cc0117eebc50",
+      "reasons": [
+        "same_company",
+        "same_sector",
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "175b12632162cd25",
+      "target": "efef361d2a7bc11a",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_positive",
+      "signal_source": "negative",
+      "signal_target": "positive"
+    },
+    {
+      "source": "175b12632162cd25",
+      "target": "seed_tk_001",
+      "reasons": [
+        "same_company",
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "175b12632162cd25",
+      "target": "seed_siemens_001",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "175b12632162cd25",
+      "target": "e0e88ed8e586deac",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_positive",
+      "signal_source": "negative",
+      "signal_target": "positive"
+    },
+    {
+      "source": "175b12632162cd25",
+      "target": "cd7ca7e657b5d7c2",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_positive",
+      "signal_source": "negative",
+      "signal_target": "positive"
+    },
+    {
+      "source": "175b12632162cd25",
+      "target": "35da28cb53ec4301",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_positive",
+      "signal_source": "negative",
+      "signal_target": "positive"
+    },
+    {
+      "source": "175b12632162cd25",
+      "target": "seed_tk_002",
+      "reasons": [
+        "same_company"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "8169509bdf58a5b4",
+      "target": "1628c82a31a708a1",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "negative_to_positive",
+      "signal_source": "negative",
+      "signal_target": "positive"
+    },
+    {
+      "source": "81e8cc0117eebc50",
+      "target": "efef361d2a7bc11a",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_positive",
+      "signal_source": "negative",
+      "signal_target": "positive"
+    },
+    {
+      "source": "81e8cc0117eebc50",
+      "target": "seed_tk_001",
+      "reasons": [
+        "same_company",
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "81e8cc0117eebc50",
+      "target": "seed_siemens_001",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "81e8cc0117eebc50",
+      "target": "e0e88ed8e586deac",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_positive",
+      "signal_source": "negative",
+      "signal_target": "positive"
+    },
+    {
+      "source": "81e8cc0117eebc50",
+      "target": "cd7ca7e657b5d7c2",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_positive",
+      "signal_source": "negative",
+      "signal_target": "positive"
+    },
+    {
+      "source": "81e8cc0117eebc50",
+      "target": "35da28cb53ec4301",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_positive",
+      "signal_source": "negative",
+      "signal_target": "positive"
+    },
+    {
+      "source": "81e8cc0117eebc50",
+      "target": "seed_tk_002",
+      "reasons": [
+        "same_company"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "seed_northvolt_001",
+      "target": "seed_vw_002",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "seed_northvolt_001",
+      "target": "6fed3367a5893fd2",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "seed_northvolt_001",
+      "target": "0635531dffd01b3b",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "seed_northvolt_001",
+      "target": "49f3e402415fcbad",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "seed_northvolt_001",
+      "target": "19649393a8163384",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "seed_northvolt_001",
+      "target": "37f45ec030f5213f",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "seed_northvolt_001",
+      "target": "119010a7cdd71dac",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "seed_northvolt_001",
+      "target": "3b596f865f1978a2",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "seed_northvolt_001",
+      "target": "b2e8fb1f5e95422d",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "seed_northvolt_001",
+      "target": "seed_stellantis_002",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "seed_northvolt_001",
+      "target": "seed_intel_001",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_negative",
+      "signal_source": "positive",
+      "signal_target": "negative"
+    },
+    {
+      "source": "seed_bmw_001",
+      "target": "efef361d2a7bc11a",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "seed_bmw_001",
+      "target": "seed_vw_001",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "positive_to_negative",
+      "signal_source": "positive",
+      "signal_target": "negative"
+    },
+    {
+      "source": "seed_bmw_001",
+      "target": "seed_vw_002",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "seed_bmw_001",
+      "target": "8af892e9fc0b73c2",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "seed_bmw_001",
+      "target": "seed_stellantis_001",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "positive_to_negative",
+      "signal_source": "positive",
+      "signal_target": "negative"
+    },
+    {
+      "source": "seed_bmw_001",
+      "target": "5a94098b0e3d3450",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "seed_bmw_001",
+      "target": "seed_bmw_002",
+      "reasons": [
+        "same_company",
+        "same_sector"
+      ],
+      "relationship": "positive_to_negative",
+      "signal_source": "positive",
+      "signal_target": "negative"
+    },
+    {
+      "source": "seed_bmw_001",
+      "target": "f1695e900c9d5823",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "seed_bmw_001",
+      "target": "891f62717c40dc36",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "seed_bmw_001",
+      "target": "35166282cb234b16",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "seed_bmw_001",
+      "target": "seed_stellantis_002",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "ef7c999bed71d11a",
+      "target": "3b596f865f1978a2",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "neutral_to_positive",
+      "signal_source": "neutral",
+      "signal_target": "positive"
+    },
+    {
+      "source": "ef7c999bed71d11a",
+      "target": "35da28cb53ec4301",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "neutral_to_positive",
+      "signal_source": "neutral",
+      "signal_target": "positive"
+    },
+    {
+      "source": "ef7c999bed71d11a",
+      "target": "b425319545a9db01",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "neutral_to_negative",
+      "signal_source": "neutral",
+      "signal_target": "negative"
+    },
+    {
+      "source": "ef7c999bed71d11a",
+      "target": "57641511af83052d",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "neutral_to_positive",
+      "signal_source": "neutral",
+      "signal_target": "positive"
+    },
+    {
+      "source": "ef7c999bed71d11a",
+      "target": "b7a8afd175de3af0",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "neutral_to_negative",
+      "signal_source": "neutral",
+      "signal_target": "negative"
+    },
+    {
+      "source": "efef361d2a7bc11a",
+      "target": "seed_vw_001",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "positive_to_negative",
+      "signal_source": "positive",
+      "signal_target": "negative"
+    },
+    {
+      "source": "efef361d2a7bc11a",
+      "target": "seed_tk_001",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_negative",
+      "signal_source": "positive",
+      "signal_target": "negative"
+    },
+    {
+      "source": "efef361d2a7bc11a",
+      "target": "seed_siemens_001",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_negative",
+      "signal_source": "positive",
+      "signal_target": "negative"
+    },
+    {
+      "source": "efef361d2a7bc11a",
+      "target": "seed_vw_002",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "efef361d2a7bc11a",
+      "target": "e0e88ed8e586deac",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "efef361d2a7bc11a",
+      "target": "cd7ca7e657b5d7c2",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "efef361d2a7bc11a",
+      "target": "seed_stellantis_001",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "positive_to_negative",
+      "signal_source": "positive",
+      "signal_target": "negative"
+    },
+    {
+      "source": "efef361d2a7bc11a",
+      "target": "seed_bmw_002",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "positive_to_negative",
+      "signal_source": "positive",
+      "signal_target": "negative"
+    },
+    {
+      "source": "efef361d2a7bc11a",
+      "target": "35da28cb53ec4301",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "efef361d2a7bc11a",
+      "target": "seed_stellantis_002",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "seed_vw_001",
+      "target": "seed_vw_002",
+      "reasons": [
+        "same_company",
+        "same_sector"
+      ],
+      "relationship": "negative_to_positive",
+      "signal_source": "negative",
+      "signal_target": "positive"
+    },
+    {
+      "source": "seed_vw_001",
+      "target": "seed_stellantis_001",
+      "reasons": [
+        "same_sector",
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "seed_vw_001",
+      "target": "seed_bmw_002",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "seed_vw_001",
+      "target": "seed_basf_001",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "seed_vw_001",
+      "target": "seed_stellantis_002",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "negative_to_positive",
+      "signal_source": "negative",
+      "signal_target": "positive"
+    },
+    {
+      "source": "seed_vw_001",
+      "target": "a259dd20688b548d",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "seed_tk_001",
+      "target": "seed_siemens_001",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "seed_tk_001",
+      "target": "e0e88ed8e586deac",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_positive",
+      "signal_source": "negative",
+      "signal_target": "positive"
+    },
+    {
+      "source": "seed_tk_001",
+      "target": "cd7ca7e657b5d7c2",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_positive",
+      "signal_source": "negative",
+      "signal_target": "positive"
+    },
+    {
+      "source": "seed_tk_001",
+      "target": "35da28cb53ec4301",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_positive",
+      "signal_source": "negative",
+      "signal_target": "positive"
+    },
+    {
+      "source": "seed_tk_001",
+      "target": "seed_tk_002",
+      "reasons": [
+        "same_company",
+        "same_sector"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "4e3febbcf808f473",
+      "target": "37f45ec030f5213f",
+      "reasons": [
+        "same_company",
+        "same_sector"
+      ],
+      "relationship": "negative_to_positive",
+      "signal_source": "negative",
+      "signal_target": "positive"
+    },
+    {
+      "source": "4e3febbcf808f473",
+      "target": "seed_intel_001",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "c493924b0d14be13",
+      "target": "e789b5dc97c16bb6",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_positive",
+      "signal_source": "negative",
+      "signal_target": "positive"
+    },
+    {
+      "source": "c493924b0d14be13",
+      "target": "a1a9707e115ba74f",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "negative_to_positive",
+      "signal_source": "negative",
+      "signal_target": "positive"
+    },
+    {
+      "source": "c493924b0d14be13",
+      "target": "8af892e9fc0b73c2",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "negative_to_positive",
+      "signal_source": "negative",
+      "signal_target": "positive"
+    },
+    {
+      "source": "c493924b0d14be13",
+      "target": "5a94098b0e3d3450",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "negative_to_positive",
+      "signal_source": "negative",
+      "signal_target": "positive"
+    },
+    {
+      "source": "c493924b0d14be13",
+      "target": "100ed191970f77dc",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "negative_to_positive",
+      "signal_source": "negative",
+      "signal_target": "positive"
+    },
+    {
+      "source": "c493924b0d14be13",
+      "target": "f1695e900c9d5823",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "negative_to_positive",
+      "signal_source": "negative",
+      "signal_target": "positive"
+    },
+    {
+      "source": "c493924b0d14be13",
+      "target": "bb8f11a12e257507",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "negative_to_neutral",
+      "signal_source": "negative",
+      "signal_target": "neutral"
+    },
+    {
+      "source": "seed_siemens_001",
+      "target": "e0e88ed8e586deac",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_positive",
+      "signal_source": "negative",
+      "signal_target": "positive"
+    },
+    {
+      "source": "seed_siemens_001",
+      "target": "cd7ca7e657b5d7c2",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_positive",
+      "signal_source": "negative",
+      "signal_target": "positive"
+    },
+    {
+      "source": "seed_siemens_001",
+      "target": "35da28cb53ec4301",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_positive",
+      "signal_source": "negative",
+      "signal_target": "positive"
+    },
+    {
+      "source": "seed_vw_002",
+      "target": "6fed3367a5893fd2",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "seed_vw_002",
+      "target": "0635531dffd01b3b",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "seed_vw_002",
+      "target": "49f3e402415fcbad",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "seed_vw_002",
+      "target": "19649393a8163384",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "seed_vw_002",
+      "target": "seed_stellantis_001",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "positive_to_negative",
+      "signal_source": "positive",
+      "signal_target": "negative"
+    },
+    {
+      "source": "seed_vw_002",
+      "target": "37f45ec030f5213f",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "seed_vw_002",
+      "target": "119010a7cdd71dac",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "seed_vw_002",
+      "target": "seed_bmw_002",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "positive_to_negative",
+      "signal_source": "positive",
+      "signal_target": "negative"
+    },
+    {
+      "source": "seed_vw_002",
+      "target": "3b596f865f1978a2",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "seed_vw_002",
+      "target": "b2e8fb1f5e95422d",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "seed_vw_002",
+      "target": "seed_stellantis_002",
+      "reasons": [
+        "same_sector",
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "seed_vw_002",
+      "target": "seed_intel_001",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_negative",
+      "signal_source": "positive",
+      "signal_target": "negative"
+    },
+    {
+      "source": "6fed3367a5893fd2",
+      "target": "0635531dffd01b3b",
+      "reasons": [
+        "same_sector",
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "6fed3367a5893fd2",
+      "target": "49f3e402415fcbad",
+      "reasons": [
+        "same_sector",
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "6fed3367a5893fd2",
+      "target": "19649393a8163384",
+      "reasons": [
+        "same_sector",
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "6fed3367a5893fd2",
+      "target": "37f45ec030f5213f",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "6fed3367a5893fd2",
+      "target": "119010a7cdd71dac",
+      "reasons": [
+        "same_sector",
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "6fed3367a5893fd2",
+      "target": "4fbda1f1e738d884",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "6fed3367a5893fd2",
+      "target": "3b596f865f1978a2",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "6fed3367a5893fd2",
+      "target": "b2e8fb1f5e95422d",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "6fed3367a5893fd2",
+      "target": "seed_stellantis_002",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "6fed3367a5893fd2",
+      "target": "seed_intel_001",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_negative",
+      "signal_source": "positive",
+      "signal_target": "negative"
+    },
+    {
+      "source": "e0e88ed8e586deac",
+      "target": "cd7ca7e657b5d7c2",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "e0e88ed8e586deac",
+      "target": "35da28cb53ec4301",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "ba1176d936024e71",
+      "target": "e166fe29fd21da65",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "negative_to_positive",
+      "signal_source": "negative",
+      "signal_target": "positive"
+    },
+    {
+      "source": "ba1176d936024e71",
+      "target": "5a4775dd5bd2fbf2",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_positive",
+      "signal_source": "negative",
+      "signal_target": "positive"
+    },
+    {
+      "source": "ba1176d936024e71",
+      "target": "c1cc65088cc0a6d4",
+      "reasons": [
+        "same_sector",
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "cd7ca7e657b5d7c2",
+      "target": "35da28cb53ec4301",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "0635531dffd01b3b",
+      "target": "49f3e402415fcbad",
+      "reasons": [
+        "same_sector",
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "0635531dffd01b3b",
+      "target": "19649393a8163384",
+      "reasons": [
+        "same_company",
+        "same_sector",
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "0635531dffd01b3b",
+      "target": "37f45ec030f5213f",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "0635531dffd01b3b",
+      "target": "119010a7cdd71dac",
+      "reasons": [
+        "same_sector",
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "0635531dffd01b3b",
+      "target": "4fbda1f1e738d884",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "0635531dffd01b3b",
+      "target": "3b596f865f1978a2",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "0635531dffd01b3b",
+      "target": "b2e8fb1f5e95422d",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "0635531dffd01b3b",
+      "target": "seed_stellantis_002",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "0635531dffd01b3b",
+      "target": "seed_intel_001",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_negative",
+      "signal_source": "positive",
+      "signal_target": "negative"
+    },
+    {
+      "source": "49f3e402415fcbad",
+      "target": "19649393a8163384",
+      "reasons": [
+        "same_sector",
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "49f3e402415fcbad",
+      "target": "37f45ec030f5213f",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "49f3e402415fcbad",
+      "target": "119010a7cdd71dac",
+      "reasons": [
+        "same_sector",
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "49f3e402415fcbad",
+      "target": "4fbda1f1e738d884",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "49f3e402415fcbad",
+      "target": "3b596f865f1978a2",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "49f3e402415fcbad",
+      "target": "b2e8fb1f5e95422d",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "49f3e402415fcbad",
+      "target": "seed_stellantis_002",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "49f3e402415fcbad",
+      "target": "seed_intel_001",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_negative",
+      "signal_source": "positive",
+      "signal_target": "negative"
+    },
+    {
+      "source": "a1a9707e115ba74f",
+      "target": "e166fe29fd21da65",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "a1a9707e115ba74f",
+      "target": "8af892e9fc0b73c2",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "a1a9707e115ba74f",
+      "target": "5a94098b0e3d3450",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "a1a9707e115ba74f",
+      "target": "100ed191970f77dc",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "a1a9707e115ba74f",
+      "target": "f1695e900c9d5823",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "a1a9707e115ba74f",
+      "target": "bb8f11a12e257507",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "positive_to_neutral",
+      "signal_source": "positive",
+      "signal_target": "neutral"
+    },
+    {
+      "source": "a1a9707e115ba74f",
+      "target": "seed_tk_002",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_negative",
+      "signal_source": "positive",
+      "signal_target": "negative"
+    },
+    {
+      "source": "19649393a8163384",
+      "target": "37f45ec030f5213f",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "19649393a8163384",
+      "target": "119010a7cdd71dac",
+      "reasons": [
+        "same_sector",
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "19649393a8163384",
+      "target": "4fbda1f1e738d884",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "19649393a8163384",
+      "target": "3b596f865f1978a2",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "19649393a8163384",
+      "target": "b2e8fb1f5e95422d",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "19649393a8163384",
+      "target": "seed_stellantis_002",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "19649393a8163384",
+      "target": "seed_intel_001",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_negative",
+      "signal_source": "positive",
+      "signal_target": "negative"
+    },
+    {
+      "source": "e166fe29fd21da65",
+      "target": "c1cc65088cc0a6d4",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "positive_to_negative",
+      "signal_source": "positive",
+      "signal_target": "negative"
+    },
+    {
+      "source": "e166fe29fd21da65",
+      "target": "seed_tk_002",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_negative",
+      "signal_source": "positive",
+      "signal_target": "negative"
+    },
+    {
+      "source": "5a4775dd5bd2fbf2",
+      "target": "c1cc65088cc0a6d4",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_negative",
+      "signal_source": "positive",
+      "signal_target": "negative"
+    },
+    {
+      "source": "8af892e9fc0b73c2",
+      "target": "5a94098b0e3d3450",
+      "reasons": [
+        "same_sector",
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "8af892e9fc0b73c2",
+      "target": "100ed191970f77dc",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "8af892e9fc0b73c2",
+      "target": "f1695e900c9d5823",
+      "reasons": [
+        "same_sector",
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "8af892e9fc0b73c2",
+      "target": "891f62717c40dc36",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "8af892e9fc0b73c2",
+      "target": "bb8f11a12e257507",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "positive_to_neutral",
+      "signal_source": "positive",
+      "signal_target": "neutral"
+    },
+    {
+      "source": "8af892e9fc0b73c2",
+      "target": "35166282cb234b16",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "seed_stellantis_001",
+      "target": "seed_bmw_002",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "seed_stellantis_001",
+      "target": "seed_basf_001",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "seed_stellantis_001",
+      "target": "seed_stellantis_002",
+      "reasons": [
+        "same_company",
+        "same_sector"
+      ],
+      "relationship": "negative_to_positive",
+      "signal_source": "negative",
+      "signal_target": "positive"
+    },
+    {
+      "source": "seed_stellantis_001",
+      "target": "a259dd20688b548d",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "37f45ec030f5213f",
+      "target": "119010a7cdd71dac",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "37f45ec030f5213f",
+      "target": "3b596f865f1978a2",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "37f45ec030f5213f",
+      "target": "b2e8fb1f5e95422d",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "37f45ec030f5213f",
+      "target": "seed_stellantis_002",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "37f45ec030f5213f",
+      "target": "seed_intel_001",
+      "reasons": [
+        "same_sector",
+        "same_event"
+      ],
+      "relationship": "positive_to_negative",
+      "signal_source": "positive",
+      "signal_target": "negative"
+    },
+    {
+      "source": "119010a7cdd71dac",
+      "target": "4fbda1f1e738d884",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "119010a7cdd71dac",
+      "target": "3b596f865f1978a2",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "119010a7cdd71dac",
+      "target": "b2e8fb1f5e95422d",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "119010a7cdd71dac",
+      "target": "seed_stellantis_002",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "119010a7cdd71dac",
+      "target": "seed_intel_001",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_negative",
+      "signal_source": "positive",
+      "signal_target": "negative"
+    },
+    {
+      "source": "5a94098b0e3d3450",
+      "target": "100ed191970f77dc",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "5a94098b0e3d3450",
+      "target": "f1695e900c9d5823",
+      "reasons": [
+        "same_sector",
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "5a94098b0e3d3450",
+      "target": "891f62717c40dc36",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "5a94098b0e3d3450",
+      "target": "bb8f11a12e257507",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "positive_to_neutral",
+      "signal_source": "positive",
+      "signal_target": "neutral"
+    },
+    {
+      "source": "5a94098b0e3d3450",
+      "target": "35166282cb234b16",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "seed_bmw_002",
+      "target": "seed_stellantis_002",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "negative_to_positive",
+      "signal_source": "negative",
+      "signal_target": "positive"
+    },
+    {
+      "source": "seed_bmw_002",
+      "target": "73df29831a823d66",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_neutral",
+      "signal_source": "negative",
+      "signal_target": "neutral"
+    },
+    {
+      "source": "seed_bmw_002",
+      "target": "09b5db515b992bca",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_positive",
+      "signal_source": "negative",
+      "signal_target": "positive"
+    },
+    {
+      "source": "seed_bmw_002",
+      "target": "b425319545a9db01",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "seed_bmw_002",
+      "target": "57641511af83052d",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_positive",
+      "signal_source": "negative",
+      "signal_target": "positive"
+    },
+    {
+      "source": "seed_bmw_002",
+      "target": "a2c84deb72767d7f",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "seed_bmw_002",
+      "target": "df99799b90d0e761",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "seed_bmw_002",
+      "target": "4b3d7b22318a84d4",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "seed_bmw_002",
+      "target": "333a61504caf17b4",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "seed_bmw_002",
+      "target": "406ab220b3d45886",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "seed_bmw_002",
+      "target": "b7a8afd175de3af0",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "seed_bmw_002",
+      "target": "2afb9aa4c2e4102a",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "seed_bmw_002",
+      "target": "936706ccd551a04e",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "100ed191970f77dc",
+      "target": "f1695e900c9d5823",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "100ed191970f77dc",
+      "target": "930e7ec3ca581afc",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_negative",
+      "signal_source": "positive",
+      "signal_target": "negative"
+    },
+    {
+      "source": "100ed191970f77dc",
+      "target": "bb8f11a12e257507",
+      "reasons": [
+        "same_sector",
+        "same_event"
+      ],
+      "relationship": "positive_to_neutral",
+      "signal_source": "positive",
+      "signal_target": "neutral"
+    },
+    {
+      "source": "f1695e900c9d5823",
+      "target": "891f62717c40dc36",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "f1695e900c9d5823",
+      "target": "bb8f11a12e257507",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "positive_to_neutral",
+      "signal_source": "positive",
+      "signal_target": "neutral"
+    },
+    {
+      "source": "f1695e900c9d5823",
+      "target": "35166282cb234b16",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "3b596f865f1978a2",
+      "target": "b2e8fb1f5e95422d",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "3b596f865f1978a2",
+      "target": "35da28cb53ec4301",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "3b596f865f1978a2",
+      "target": "seed_stellantis_002",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "3b596f865f1978a2",
+      "target": "seed_intel_001",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_negative",
+      "signal_source": "positive",
+      "signal_target": "negative"
+    },
+    {
+      "source": "3b596f865f1978a2",
+      "target": "b425319545a9db01",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "positive_to_negative",
+      "signal_source": "positive",
+      "signal_target": "negative"
+    },
+    {
+      "source": "3b596f865f1978a2",
+      "target": "57641511af83052d",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "3b596f865f1978a2",
+      "target": "b7a8afd175de3af0",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "positive_to_negative",
+      "signal_source": "positive",
+      "signal_target": "negative"
+    },
+    {
+      "source": "b2e8fb1f5e95422d",
+      "target": "seed_stellantis_002",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "b2e8fb1f5e95422d",
+      "target": "seed_intel_001",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_negative",
+      "signal_source": "positive",
+      "signal_target": "negative"
+    },
+    {
+      "source": "891f62717c40dc36",
+      "target": "35166282cb234b16",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "930e7ec3ca581afc",
+      "target": "bb8f11a12e257507",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_neutral",
+      "signal_source": "negative",
+      "signal_target": "neutral"
+    },
+    {
+      "source": "35da28cb53ec4301",
+      "target": "b425319545a9db01",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "positive_to_negative",
+      "signal_source": "positive",
+      "signal_target": "negative"
+    },
+    {
+      "source": "35da28cb53ec4301",
+      "target": "57641511af83052d",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "35da28cb53ec4301",
+      "target": "b7a8afd175de3af0",
+      "reasons": [
+        "same_sector"
+      ],
+      "relationship": "positive_to_negative",
+      "signal_source": "positive",
+      "signal_target": "negative"
+    },
+    {
+      "source": "seed_basf_001",
+      "target": "a259dd20688b548d",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "seed_stellantis_002",
+      "target": "seed_intel_001",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_negative",
+      "signal_source": "positive",
+      "signal_target": "negative"
+    },
+    {
+      "source": "73df29831a823d66",
+      "target": "09b5db515b992bca",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "neutral_to_positive",
+      "signal_source": "neutral",
+      "signal_target": "positive"
+    },
+    {
+      "source": "73df29831a823d66",
+      "target": "b425319545a9db01",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "neutral_to_negative",
+      "signal_source": "neutral",
+      "signal_target": "negative"
+    },
+    {
+      "source": "73df29831a823d66",
+      "target": "57641511af83052d",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "neutral_to_positive",
+      "signal_source": "neutral",
+      "signal_target": "positive"
+    },
+    {
+      "source": "73df29831a823d66",
+      "target": "a2c84deb72767d7f",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "neutral_to_negative",
+      "signal_source": "neutral",
+      "signal_target": "negative"
+    },
+    {
+      "source": "73df29831a823d66",
+      "target": "df99799b90d0e761",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "neutral_to_negative",
+      "signal_source": "neutral",
+      "signal_target": "negative"
+    },
+    {
+      "source": "73df29831a823d66",
+      "target": "4b3d7b22318a84d4",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "neutral_to_negative",
+      "signal_source": "neutral",
+      "signal_target": "negative"
+    },
+    {
+      "source": "73df29831a823d66",
+      "target": "333a61504caf17b4",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "neutral_to_negative",
+      "signal_source": "neutral",
+      "signal_target": "negative"
+    },
+    {
+      "source": "73df29831a823d66",
+      "target": "406ab220b3d45886",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "neutral_to_negative",
+      "signal_source": "neutral",
+      "signal_target": "negative"
+    },
+    {
+      "source": "73df29831a823d66",
+      "target": "b7a8afd175de3af0",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "neutral_to_negative",
+      "signal_source": "neutral",
+      "signal_target": "negative"
+    },
+    {
+      "source": "73df29831a823d66",
+      "target": "2afb9aa4c2e4102a",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "neutral_to_negative",
+      "signal_source": "neutral",
+      "signal_target": "negative"
+    },
+    {
+      "source": "73df29831a823d66",
+      "target": "936706ccd551a04e",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "neutral_to_negative",
+      "signal_source": "neutral",
+      "signal_target": "negative"
+    },
+    {
+      "source": "09b5db515b992bca",
+      "target": "b425319545a9db01",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_negative",
+      "signal_source": "positive",
+      "signal_target": "negative"
+    },
+    {
+      "source": "09b5db515b992bca",
+      "target": "57641511af83052d",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_positive",
+      "signal_source": "positive",
+      "signal_target": "positive"
+    },
+    {
+      "source": "09b5db515b992bca",
+      "target": "a2c84deb72767d7f",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_negative",
+      "signal_source": "positive",
+      "signal_target": "negative"
+    },
+    {
+      "source": "09b5db515b992bca",
+      "target": "df99799b90d0e761",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_negative",
+      "signal_source": "positive",
+      "signal_target": "negative"
+    },
+    {
+      "source": "09b5db515b992bca",
+      "target": "4b3d7b22318a84d4",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_negative",
+      "signal_source": "positive",
+      "signal_target": "negative"
+    },
+    {
+      "source": "09b5db515b992bca",
+      "target": "333a61504caf17b4",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_negative",
+      "signal_source": "positive",
+      "signal_target": "negative"
+    },
+    {
+      "source": "09b5db515b992bca",
+      "target": "406ab220b3d45886",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_negative",
+      "signal_source": "positive",
+      "signal_target": "negative"
+    },
+    {
+      "source": "09b5db515b992bca",
+      "target": "b7a8afd175de3af0",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_negative",
+      "signal_source": "positive",
+      "signal_target": "negative"
+    },
+    {
+      "source": "09b5db515b992bca",
+      "target": "2afb9aa4c2e4102a",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_negative",
+      "signal_source": "positive",
+      "signal_target": "negative"
+    },
+    {
+      "source": "09b5db515b992bca",
+      "target": "936706ccd551a04e",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_negative",
+      "signal_source": "positive",
+      "signal_target": "negative"
+    },
+    {
+      "source": "b425319545a9db01",
+      "target": "57641511af83052d",
+      "reasons": [
+        "same_sector",
+        "same_event"
+      ],
+      "relationship": "negative_to_positive",
+      "signal_source": "negative",
+      "signal_target": "positive"
+    },
+    {
+      "source": "b425319545a9db01",
+      "target": "a2c84deb72767d7f",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "b425319545a9db01",
+      "target": "df99799b90d0e761",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "b425319545a9db01",
+      "target": "4b3d7b22318a84d4",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "b425319545a9db01",
+      "target": "333a61504caf17b4",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "b425319545a9db01",
+      "target": "406ab220b3d45886",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "b425319545a9db01",
+      "target": "b7a8afd175de3af0",
+      "reasons": [
+        "same_sector",
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "b425319545a9db01",
+      "target": "2afb9aa4c2e4102a",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "b425319545a9db01",
+      "target": "936706ccd551a04e",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "57641511af83052d",
+      "target": "a2c84deb72767d7f",
+      "reasons": [
+        "same_location",
+        "same_event"
+      ],
+      "relationship": "positive_to_negative",
+      "signal_source": "positive",
+      "signal_target": "negative"
+    },
+    {
+      "source": "57641511af83052d",
+      "target": "df99799b90d0e761",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_negative",
+      "signal_source": "positive",
+      "signal_target": "negative"
+    },
+    {
+      "source": "57641511af83052d",
+      "target": "4b3d7b22318a84d4",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_negative",
+      "signal_source": "positive",
+      "signal_target": "negative"
+    },
+    {
+      "source": "57641511af83052d",
+      "target": "333a61504caf17b4",
+      "reasons": [
+        "same_location",
+        "same_event"
+      ],
+      "relationship": "positive_to_negative",
+      "signal_source": "positive",
+      "signal_target": "negative"
+    },
+    {
+      "source": "57641511af83052d",
+      "target": "406ab220b3d45886",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_negative",
+      "signal_source": "positive",
+      "signal_target": "negative"
+    },
+    {
+      "source": "57641511af83052d",
+      "target": "b7a8afd175de3af0",
+      "reasons": [
+        "same_sector",
+        "same_event"
+      ],
+      "relationship": "positive_to_negative",
+      "signal_source": "positive",
+      "signal_target": "negative"
+    },
+    {
+      "source": "57641511af83052d",
+      "target": "2afb9aa4c2e4102a",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_negative",
+      "signal_source": "positive",
+      "signal_target": "negative"
+    },
+    {
+      "source": "57641511af83052d",
+      "target": "936706ccd551a04e",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "positive_to_negative",
+      "signal_source": "positive",
+      "signal_target": "negative"
+    },
+    {
+      "source": "a2c84deb72767d7f",
+      "target": "df99799b90d0e761",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "a2c84deb72767d7f",
+      "target": "4b3d7b22318a84d4",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "a2c84deb72767d7f",
+      "target": "333a61504caf17b4",
+      "reasons": [
+        "same_location",
+        "same_sector",
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "a2c84deb72767d7f",
+      "target": "406ab220b3d45886",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "a2c84deb72767d7f",
+      "target": "b7a8afd175de3af0",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "a2c84deb72767d7f",
+      "target": "2afb9aa4c2e4102a",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "a2c84deb72767d7f",
+      "target": "936706ccd551a04e",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "df99799b90d0e761",
+      "target": "4b3d7b22318a84d4",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "df99799b90d0e761",
+      "target": "333a61504caf17b4",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "df99799b90d0e761",
+      "target": "a259dd20688b548d",
+      "reasons": [
+        "same_location",
+        "same_sector"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "df99799b90d0e761",
+      "target": "406ab220b3d45886",
+      "reasons": [
+        "same_location",
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "df99799b90d0e761",
+      "target": "b7a8afd175de3af0",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "df99799b90d0e761",
+      "target": "2afb9aa4c2e4102a",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "df99799b90d0e761",
+      "target": "936706ccd551a04e",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "4b3d7b22318a84d4",
+      "target": "333a61504caf17b4",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "4b3d7b22318a84d4",
+      "target": "406ab220b3d45886",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "4b3d7b22318a84d4",
+      "target": "b7a8afd175de3af0",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "4b3d7b22318a84d4",
+      "target": "2afb9aa4c2e4102a",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "4b3d7b22318a84d4",
+      "target": "936706ccd551a04e",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "333a61504caf17b4",
+      "target": "406ab220b3d45886",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "333a61504caf17b4",
+      "target": "b7a8afd175de3af0",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "333a61504caf17b4",
+      "target": "2afb9aa4c2e4102a",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "333a61504caf17b4",
+      "target": "936706ccd551a04e",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "a259dd20688b548d",
+      "target": "406ab220b3d45886",
+      "reasons": [
+        "same_location"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "406ab220b3d45886",
+      "target": "b7a8afd175de3af0",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "406ab220b3d45886",
+      "target": "2afb9aa4c2e4102a",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "406ab220b3d45886",
+      "target": "936706ccd551a04e",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "b7a8afd175de3af0",
+      "target": "2afb9aa4c2e4102a",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "b7a8afd175de3af0",
+      "target": "936706ccd551a04e",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "2afb9aa4c2e4102a",
+      "target": "936706ccd551a04e",
+      "reasons": [
+        "same_event"
+      ],
+      "relationship": "negative_to_negative",
+      "signal_source": "negative",
+      "signal_target": "negative"
+    },
+    {
+      "source": "a71dada6f3e1f210",
+      "target": "comp_ai̇le_ve_sosyal_hizmetler_bakanlığı",
+      "relationship": "mentions_company"
+    },
+    {
+      "source": "731a9236658f49db",
+      "target": "sector_logistics",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "9b7dd7826158389f",
+      "target": "sector_energy",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "69bcc2e4653560e5",
+      "target": "sector_energy|agriculture",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "bb4d6ec4ebd01b00",
+      "target": "sector_steel",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "bb4d6ec4ebd01b00",
+      "target": "comp_tk_steel_europe",
+      "relationship": "mentions_company"
+    },
+    {
+      "source": "d95f4f733ac121b5",
+      "target": "sector_steel",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "d95f4f733ac121b5",
+      "target": "comp_thyssenkrupp",
+      "relationship": "mentions_company"
+    },
+    {
+      "source": "0a5e7c16a44260f5",
+      "target": "sector_government|defense",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "0a5e7c16a44260f5",
+      "target": "comp_anti-graft_agency",
+      "relationship": "mentions_company"
+    },
+    {
+      "source": "ca12457e50c04d11",
+      "target": "sector_energy|logistics",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "bd4276418e3fc927",
+      "target": "sector_energy|government",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "bd4276418e3fc927",
+      "target": "comp_japan's_finance_minister",
+      "relationship": "mentions_company"
+    },
+    {
+      "source": "c707f21db844d68f",
+      "target": "sector_technology|electronics",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "c707f21db844d68f",
+      "target": "comp_nvidia_corp.",
+      "relationship": "mentions_company"
+    },
+    {
+      "source": "10c96a4e5f940a70",
+      "target": "sector_energy",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "7e70e3187dc52574",
+      "target": "sector_lojistik",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "2aff80d862466b3c",
+      "target": "sector_healthcare|medical_devices|null",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "2aff80d862466b3c",
+      "target": "comp_boston_scientific_corporation",
+      "relationship": "mentions_company"
+    },
+    {
+      "source": "77f44acb12005fb0",
+      "target": "sector_automotive",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "77f44acb12005fb0",
+      "target": "comp_gac",
+      "relationship": "mentions_company"
+    },
+    {
+      "source": "8383fae61b0216c7",
+      "target": "sector_automotive",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "8383fae61b0216c7",
+      "target": "comp_gac",
+      "relationship": "mentions_company"
+    },
+    {
+      "source": "5d2a0f82b74b4216",
+      "target": "sector_entertainment|culture|null",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "1aaa2d671f45cf40",
+      "target": "sector_diğer",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "1aaa2d671f45cf40",
+      "target": "comp_berkshire_hathaway",
+      "relationship": "mentions_company"
+    },
+    {
+      "source": "2a9473bcc422d2d4",
+      "target": "sector_automotive",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "497b8e1c67554285",
+      "target": "sector_entertainment|finance",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "497b8e1c67554285",
+      "target": "comp_ben_mckenzie",
+      "relationship": "mentions_company"
+    },
+    {
+      "source": "175b12632162cd25",
+      "target": "sector_çelik",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "175b12632162cd25",
+      "target": "comp_thyssenkrupp",
+      "relationship": "mentions_company"
+    },
+    {
+      "source": "8169509bdf58a5b4",
+      "target": "sector_enerji",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "45acf2f6dd137585",
+      "target": "sector_software|technology|null",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "1628c82a31a708a1",
+      "target": "sector_enerji",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "1628c82a31a708a1",
+      "target": "comp_çinli_rafineriler",
+      "relationship": "mentions_company"
+    },
+    {
+      "source": "81e8cc0117eebc50",
+      "target": "sector_çelik",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "81e8cc0117eebc50",
+      "target": "comp_thyssenkrupp",
+      "relationship": "mentions_company"
+    },
+    {
+      "source": "seed_northvolt_001",
+      "target": "sector_energy_storage",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "seed_northvolt_001",
+      "target": "comp_northvolt",
+      "relationship": "mentions_company"
+    },
+    {
+      "source": "seed_bmw_001",
+      "target": "sector_automotive",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "seed_bmw_001",
+      "target": "comp_bmw",
+      "relationship": "mentions_company"
+    },
+    {
+      "source": "ef7c999bed71d11a",
+      "target": "sector_other",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "ef7c999bed71d11a",
+      "target": "comp_david_aaron",
+      "relationship": "mentions_company"
+    },
+    {
+      "source": "efef361d2a7bc11a",
+      "target": "sector_automotive",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "seed_vw_001",
+      "target": "sector_automotive",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "seed_vw_001",
+      "target": "comp_volkswagen",
+      "relationship": "mentions_company"
+    },
+    {
+      "source": "seed_tk_001",
+      "target": "sector_steel",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "seed_tk_001",
+      "target": "comp_thyssenkrupp",
+      "relationship": "mentions_company"
+    },
+    {
+      "source": "0f6d3bcdc8ce0b48",
+      "target": "comp_tesla",
+      "relationship": "mentions_company"
+    },
+    {
+      "source": "8c063c31fbfe7e12",
+      "target": "comp_debra_lee",
+      "relationship": "mentions_company"
+    },
+    {
+      "source": "4e3febbcf808f473",
+      "target": "sector_electronics",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "4e3febbcf808f473",
+      "target": "comp_apple",
+      "relationship": "mentions_company"
+    },
+    {
+      "source": "c493924b0d14be13",
+      "target": "sector_energy",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "seed_siemens_001",
+      "target": "sector_renewables",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "seed_siemens_001",
+      "target": "comp_siemens_energy",
+      "relationship": "mentions_company"
+    },
+    {
+      "source": "seed_vw_002",
+      "target": "sector_automotive",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "seed_vw_002",
+      "target": "comp_volkswagen",
+      "relationship": "mentions_company"
+    },
+    {
+      "source": "6fed3367a5893fd2",
+      "target": "sector_otomotiv",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "6fed3367a5893fd2",
+      "target": "comp_hyundai_motor",
+      "relationship": "mentions_company"
+    },
+    {
+      "source": "e0e88ed8e586deac",
+      "target": "sector_it|iot",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "ba1176d936024e71",
+      "target": "sector_kimya",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "ba1176d936024e71",
+      "target": "comp_yara",
+      "relationship": "mentions_company"
+    },
+    {
+      "source": "cd7ca7e657b5d7c2",
+      "target": "sector_technology",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "cd7ca7e657b5d7c2",
+      "target": "comp_shopify_inc.",
+      "relationship": "mentions_company"
+    },
+    {
+      "source": "e789b5dc97c16bb6",
+      "target": "sector_technology|defense",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "0635531dffd01b3b",
+      "target": "sector_otomotiv",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "0635531dffd01b3b",
+      "target": "comp_rivian",
+      "relationship": "mentions_company"
+    },
+    {
+      "source": "49f3e402415fcbad",
+      "target": "sector_otomotiv",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "49f3e402415fcbad",
+      "target": "comp_toyota_motor",
+      "relationship": "mentions_company"
+    },
+    {
+      "source": "a1a9707e115ba74f",
+      "target": "sector_energy",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "a1a9707e115ba74f",
+      "target": "comp_cip",
+      "relationship": "mentions_company"
+    },
+    {
+      "source": "19649393a8163384",
+      "target": "sector_otomotiv",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "19649393a8163384",
+      "target": "comp_rivian",
+      "relationship": "mentions_company"
+    },
+    {
+      "source": "e166fe29fd21da65",
+      "target": "sector_kimya",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "e166fe29fd21da65",
+      "target": "comp_posco_holdings",
+      "relationship": "mentions_company"
+    },
+    {
+      "source": "5a4775dd5bd2fbf2",
+      "target": "sector_diğer",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "8af892e9fc0b73c2",
+      "target": "sector_energy",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "seed_stellantis_001",
+      "target": "sector_automotive",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "seed_stellantis_001",
+      "target": "comp_stellantis",
+      "relationship": "mentions_company"
+    },
+    {
+      "source": "4f9010d9ec26b078",
+      "target": "sector_gıda",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "37f45ec030f5213f",
+      "target": "sector_electronics",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "37f45ec030f5213f",
+      "target": "comp_apple",
+      "relationship": "mentions_company"
+    },
+    {
+      "source": "119010a7cdd71dac",
+      "target": "sector_otomotiv",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "119010a7cdd71dac",
+      "target": "comp_nexteer_automotive",
+      "relationship": "mentions_company"
+    },
+    {
+      "source": "4fbda1f1e738d884",
+      "target": "sector_otomotiv",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "4fbda1f1e738d884",
+      "target": "comp_aston_martin",
+      "relationship": "mentions_company"
+    },
+    {
+      "source": "5a94098b0e3d3450",
+      "target": "sector_energy",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "5a94098b0e3d3450",
+      "target": "comp_totalenergies",
+      "relationship": "mentions_company"
+    },
+    {
+      "source": "seed_bmw_002",
+      "target": "sector_automotive",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "seed_bmw_002",
+      "target": "comp_bmw",
+      "relationship": "mentions_company"
+    },
+    {
+      "source": "c1cc65088cc0a6d4",
+      "target": "sector_kimya",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "100ed191970f77dc",
+      "target": "sector_energy",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "100ed191970f77dc",
+      "target": "comp_us_department_of_energy_(doe)",
+      "relationship": "mentions_company"
+    },
+    {
+      "source": "f1695e900c9d5823",
+      "target": "sector_energy",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "f1695e900c9d5823",
+      "target": "comp_fugro",
+      "relationship": "mentions_company"
+    },
+    {
+      "source": "3b596f865f1978a2",
+      "target": "sector_other",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "3b596f865f1978a2",
+      "target": "comp_telefónica_españa",
+      "relationship": "mentions_company"
+    },
+    {
+      "source": "b2e8fb1f5e95422d",
+      "target": "sector_retail|iot",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "891f62717c40dc36",
+      "target": "sector_iot|technology",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "930e7ec3ca581afc",
+      "target": "sector_logistics|field_services|utilities|construction|other|null",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "35da28cb53ec4301",
+      "target": "sector_other",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "seed_basf_001",
+      "target": "sector_chemicals",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "seed_basf_001",
+      "target": "comp_basf",
+      "relationship": "mentions_company"
+    },
+    {
+      "source": "bb8f11a12e257507",
+      "target": "sector_energy",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "bb8f11a12e257507",
+      "target": "comp_wireless_logic",
+      "relationship": "mentions_company"
+    },
+    {
+      "source": "35166282cb234b16",
+      "target": "sector_software|technology",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "seed_tk_002",
+      "target": "sector_steel",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "seed_tk_002",
+      "target": "comp_thyssenkrupp",
+      "relationship": "mentions_company"
+    },
+    {
+      "source": "seed_stellantis_002",
+      "target": "sector_automotive",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "seed_stellantis_002",
+      "target": "comp_stellantis",
+      "relationship": "mentions_company"
+    },
+    {
+      "source": "seed_intel_001",
+      "target": "sector_electronics",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "seed_intel_001",
+      "target": "comp_intel",
+      "relationship": "mentions_company"
+    },
+    {
+      "source": "b425319545a9db01",
+      "target": "sector_other",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "57641511af83052d",
+      "target": "sector_other",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "a2c84deb72767d7f",
+      "target": "sector_textile|other|null",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "df99799b90d0e761",
+      "target": "sector_textile",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "4b3d7b22318a84d4",
+      "target": "sector_logistics|transportation",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "333a61504caf17b4",
+      "target": "sector_textile|other|null",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "a259dd20688b548d",
+      "target": "sector_textile",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "406ab220b3d45886",
+      "target": "sector_null",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "406ab220b3d45886",
+      "target": "comp_colins",
+      "relationship": "mentions_company"
+    },
+    {
+      "source": "b7a8afd175de3af0",
+      "target": "sector_other",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "2afb9aa4c2e4102a",
+      "target": "comp_şişecam",
+      "relationship": "mentions_company"
+    },
+    {
+      "source": "4431d13a35b789d6",
+      "target": "sector_lojistik",
+      "relationship": "belongs_to_sector"
+    },
+    {
+      "source": "4431d13a35b789d6",
+      "target": "comp_jeju_air",
+      "relationship": "mentions_company"
+    },
+    {
+      "source": "936706ccd551a04e",
+      "target": "comp_abd_hükümeti",
+      "relationship": "mentions_company"
+    }
+  ]
+}

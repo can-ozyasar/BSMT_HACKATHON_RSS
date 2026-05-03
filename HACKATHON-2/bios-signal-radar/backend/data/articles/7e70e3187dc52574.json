@@ -1,0 +1,200 @@
+{
+  "title": "Airlines can cancel flights in advance over fuel shortages, under new plans",
+  "original_url": "https://www.bbc.com/news/articles/c794zd1vqn4o?at_medium=RSS&at_campaign=rss",
+  "content": "Ministers hope move would help avoid last-minute flight cancellations for passengers this summer over Middle East fuel supplies.",
+  "source_id": "rss_1bd5eaae",
+  "source_name": "feeds.bbci.co.uk",
+  "source_url": "https://feeds.bbci.co.uk/news/business/rss.xml",
+  "published_at": "2026-05-02T21:35:09+00:00",
+  "raw_hash": "7e70e3187dc52574",
+  "content_preview": "Ministers hope move would help avoid last-minute flight cancellations for passengers this summer over Middle East fuel supplies.",
+  "language": "en",
+  "content_hash": "463f104bb6ae9010",
+  "company": null,
+  "from_location": null,
+  "to_location": null,
+  "id": "7e70e3187dc52574",
+  "url_hash": "7e70e3187dc52574",
+  "text": "Airlines can cancel flights in advance over fuel shortages, under new plans. Ministers hope move would help avoid last-minute flight cancellations for passengers this summer over Middle East fuel supplies.",
+  "fetched_at": "2026-05-02T19:19:09.120721+00:00",
+  "analysis_status": "processed",
+  "event_type": "supply_chain",
+  "summary_tr": "Yeni planlara göre, havayolları yakıt kıtlığı nedeniyle uçuşları önceden iptal edebilecek. Hükümetler, bu adımla Orta Doğu yakıt tedarikindeki sorunlar yüzünden bu yaz yolcular için son dakika uçuş iptallerini önlemeyi umuyor. Bu, havayolu şirketlerine operasyonel planlama esnekliği sağlayarak yolcu deneyimini iyileştirmeyi hedefleyen bir tedarik zinciri yönetimi stratejisidir.",
+  "sector": "Lojistik",
+  "subsector": "Havayolu Taşımacılığı",
+  "timeline": "Bu yaz",
+  "capex_eur": null,
+  "jobs_impact": null,
+  "line_type": "Uçuş seferleri",
+  "equipment_keywords": [
+    "uçak"
+  ],
+  "signal_type": "positive",
+  "ai_confidence": 0.75,
+  "reasoning": "Haber, havayollarının yakıt kıtlığına bağlı olarak son dakika iptallerini önlemek amacıyla uçuşları önceden iptal etmelerine olanak tanıyan yeni bir stratejik planı ele alıyor. Bu, tedarik zinciri kesintilerine karşı proaktif bir yönetim yaklaşımı ve operasyonel belirsizliği azaltarak hem havayolları hem de yolcular için olumsuz etkileri minimize etmeyi hedeflediği için olumlu bir sinyaldir.",
+  "assumptions": [],
+  "bios_fit": {
+    "score": 28,
+    "score_final": 28,
+    "raw_score": 27.5,
+    "confidence": 0.4,
+    "components": {
+      "E": 0.55,
+      "A": 0.1,
+      "G": 0.0,
+      "T": 0.2,
+      "C": 0.55
+    },
+    "adjustments": {
+      "sector_mult": 1.0,
+      "industry_focus": 1.0,
+      "industry_bonus": 0.0,
+      "freshness_bonus": 0.0,
+      "confidence_penalty": false,
+      "graph_delta": 0.0
+    },
+    "label": "Düşük Alaka",
+    "color": "gray",
+    "action": "archive",
+    "source_tier": "general",
+    "audit_trail": [
+      {
+        "step": 1,
+        "title": "Alan Kontrolü",
+        "detail": "sector=✅ | event_type=✅ | company=❌ | from_location=❌ | to_location=❌",
+        "confidence": 0.4,
+        "filled_count": 2,
+        "total_fields": 5
+      },
+      {
+        "step": 2,
+        "title": "BIOS Bileşen Puanları",
+        "detail": "E(Olay)=0.55×0.30=0.17 | A(Aktör)=0.1×0.25=0.03 | G(Coğrafya)=0.0×0.20=0.00 | T(Zaman)=0.2×0.15=0.03 | C(Kaynak)=0.55×0.10=0.055",
+        "raw_score": 27.5,
+        "components": {
+          "E": 0.55,
+          "A": 0.1,
+          "G": 0.0,
+          "T": 0.2,
+          "C": 0.55
+        }
+      },
+      {
+        "step": 3,
+        "title": "Düzeltmeler",
+        "detail": "Düzeltme uygulanmadı",
+        "adjustments": {
+          "sector_mult": 1.0,
+          "industry_focus": 1.0,
+          "industry_bonus": 0.0,
+          "freshness_bonus": 0.0,
+          "confidence_penalty": false,
+          "graph_delta": 0.0
+        }
+      },
+      {
+        "step": 4,
+        "title": "Nihai Skor",
+        "detail": "Ham=27.5 → Düzeltmeli → Final=28 (Düşük Alaka)",
+        "final_score": 28,
+        "label": "Düşük Alaka",
+        "color": "gray"
+      }
+    ]
+  },
+  "synapse_score": 40,
+  "synapse_breakdown": [
+    {
+      "reason": "Ağ Taban Puanı",
+      "points": 5.0,
+      "type": "base"
+    },
+    {
+      "reason": "Bağlantı Yoğunluğu (5 bağ)",
+      "points": 14.3,
+      "type": "connectivity"
+    },
+    {
+      "reason": "Anlamsal Yakınlık (şirket:0, lokasyon:0, olay:4, sektör:1)",
+      "points": 5.9,
+      "type": "semantic"
+    },
+    {
+      "reason": "Momentum (poz:1, neg:4)",
+      "points": -4.0,
+      "type": "momentum"
+    },
+    {
+      "reason": "Tazelik (48s içinde komşu:2)",
+      "points": 3.0,
+      "type": "recency"
+    },
+    {
+      "reason": "Toplam",
+      "points": 40,
+      "type": "total"
+    }
+  ],
+  "graph_neighbors": [
+    {
+      "id": "9b7dd7826158389f",
+      "title": "Zelenskiy, Novorossiysk Limanı girişinde &quot;Rus gölge filosuna&quot; ait iki tankere saldırdıklarını bildirdi",
+      "company": null,
+      "event_type": "supply_chain",
+      "signal_type": "negative",
+      "score": 36,
+      "relationship": "negative_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "ba1176d936024e71",
+      "title": "Billions of meals at risk due to Iran war, says fertiliser boss",
+      "company": "Yara",
+      "event_type": "supply_chain",
+      "signal_type": "negative",
+      "score": 46,
+      "relationship": "positive_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "5a4775dd5bd2fbf2",
+      "title": "Trump to remove whisky tariffs after King's visit",
+      "company": null,
+      "event_type": "supply_chain",
+      "signal_type": "positive",
+      "score": 28,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "c1cc65088cc0a6d4",
+      "title": "Lieferketten: Ifo – Material für deutsche Industrie wird knapper",
+      "company": null,
+      "event_type": "supply_chain",
+      "signal_type": "negative",
+      "score": 31,
+      "relationship": "positive_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "4431d13a35b789d6",
+      "title": "Jeju Air Crash Probe Focuses On Engine Damage After Bird Strike",
+      "company": "Jeju Air",
+      "event_type": "other",
+      "signal_type": "negative",
+      "score": 24,
+      "relationship": "positive_to_negative",
+      "reasons": [
+        "same_sector"
+      ]
+    }
+  ]
+}

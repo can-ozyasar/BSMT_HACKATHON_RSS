@@ -1,0 +1,320 @@
+{
+  "title": "Su krizi, içecek devini vurdu: Fabrika İzmir'den taşınıyor iddiası! - Gündeme Bakış",
+  "original_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSkVYUWFvUzUxTTFJaHpvWDFnSlpISW9hNHJaME1rZG1OOEo2UmVscnVKNTFWX1gyV19CTG9oT1BoVTFWdm5uNUNpc1FPbkpMbjhOZkVFWDc4ODhfQ2R4Nkh0WjB6RWRLNGo5d09YWU9uYkUtalhnbTNUV1FGVXhfbExhcS1YTDV0dU5Eel9tbG1aaTJ6dk5n0gGcAUFVX3lxTE9YWkNlLVZIWGVVY1k4aGpUSnZwb1J2ek9kT25rZWlUekJTRmZPOVlrZEwyYzhTdmo3SC1lczVBTXphY0ZNRjg0YWJWMUE5dEtVaDl2TFdLTkZ5eVJBaVVpZlR0aTRoUGhZQkJldmc4ZE9FRG1GcEpDM2t2cm1YeVBMSnliRkJPYV9ZZTdzNEdlYld2OTZwTlN0NEM3NQ?oc=5",
+  "content": "Su krizi, içecek devini vurdu: Fabrika İzmir'den taşınıyor iddiası! Gündeme Bakış",
+  "source_id": "rss_0c3fa4a5",
+  "source_name": "news.google.com",
+  "source_url": "https://news.google.com/rss/search?q=fabrika+taşınıyor&hl=tr&gl=TR&ceid=TR:tr",
+  "published_at": "2025-09-01T07:00:00+00:00",
+  "raw_hash": "b7a8afd175de3af0",
+  "content_preview": "Su krizi, içecek devini vurdu: Fabrika İzmir'den taşınıyor iddiası! Gündeme Bakış",
+  "language": "tr",
+  "content_hash": "4be29dbf18f94b45",
+  "company": null,
+  "from_location": "İzmir",
+  "to_location": null,
+  "id": "b7a8afd175de3af0",
+  "url_hash": "b7a8afd175de3af0",
+  "text": "Su krizi, içecek devini vurdu: Fabrika İzmir'den taşınıyor iddiası! - Gündeme Bakış. Su krizi, içecek devini vurdu: Fabrika İzmir'den taşınıyor iddiası! Gündeme Bakış",
+  "fetched_at": "2026-05-03T03:46:00.641453+00:00",
+  "analysis_status": "processed",
+  "event_type": "relocation",
+  "summary_tr": "İçecek devinin İzmir'deki fabrikası taşınacak. Su krizi, üretim sürecinde zorluklar yaratıyor.",
+  "sector": "Other",
+  "subsector": null,
+  "timeline": null,
+  "capex_eur": null,
+  "jobs_impact": null,
+  "line_type": null,
+  "equipment_keywords": [],
+  "signal_type": "negative",
+  "ai_confidence": 0.75,
+  "reasoning": "The article mentions a crisis in the water supply, which is affecting the production process of the beverage company.",
+  "assumptions": [],
+  "bios_fit": {
+    "score": 49,
+    "score_final": 49,
+    "raw_score": 49.25,
+    "confidence": 0.6,
+    "components": {
+      "E": 1.0,
+      "A": 0.35,
+      "G": 0.1,
+      "T": 0.2,
+      "C": 0.55
+    },
+    "adjustments": {
+      "sector_mult": 1.0,
+      "industry_focus": 1.0,
+      "industry_bonus": 0.0,
+      "freshness_bonus": 0.0,
+      "confidence_penalty": false,
+      "graph_delta": 0.0
+    },
+    "label": "Düşük Alaka",
+    "color": "gray",
+    "action": "archive",
+    "source_tier": "general",
+    "audit_trail": [
+      {
+        "step": 1,
+        "title": "Alan Kontrolü",
+        "detail": "from_location=✅ | sector=✅ | event_type=✅ | company=❌ | to_location=❌",
+        "confidence": 0.6,
+        "filled_count": 3,
+        "total_fields": 5
+      },
+      {
+        "step": 2,
+        "title": "BIOS Bileşen Puanları",
+        "detail": "E(Olay)=1.0×0.30=0.30 | A(Aktör)=0.35×0.25=0.09 | G(Coğrafya)=0.1×0.20=0.02 | T(Zaman)=0.2×0.15=0.03 | C(Kaynak)=0.55×0.10=0.055",
+        "raw_score": 49.25,
+        "components": {
+          "E": 1.0,
+          "A": 0.35,
+          "G": 0.1,
+          "T": 0.2,
+          "C": 0.55
+        }
+      },
+      {
+        "step": 3,
+        "title": "Düzeltmeler",
+        "detail": "Düzeltme uygulanmadı",
+        "adjustments": {
+          "sector_mult": 1.0,
+          "industry_focus": 1.0,
+          "industry_bonus": 0.0,
+          "freshness_bonus": 0.0,
+          "confidence_penalty": false,
+          "graph_delta": 0.0
+        }
+      },
+      {
+        "step": 4,
+        "title": "Nihai Skor",
+        "detail": "Ham=49.25 → Düzeltmeli → Final=49 (Düşük Alaka)",
+        "final_score": 49,
+        "label": "Düşük Alaka",
+        "color": "gray"
+      }
+    ]
+  },
+  "synapse_score": 56,
+  "synapse_breakdown": [
+    {
+      "reason": "Ağ Taban Puanı",
+      "points": 5.0,
+      "type": "base"
+    },
+    {
+      "reason": "Bağlantı Yoğunluğu (15 bağ)",
+      "points": 22.2,
+      "type": "connectivity"
+    },
+    {
+      "reason": "Anlamsal Yakınlık (şirket:0, lokasyon:0, olay:12, sektör:5)",
+      "points": 10.4,
+      "type": "semantic"
+    },
+    {
+      "reason": "Momentum (poz:4, neg:9)",
+      "points": -5.5,
+      "type": "momentum"
+    },
+    {
+      "reason": "Tazelik (48s içinde komşu:1)",
+      "points": 1.5,
+      "type": "recency"
+    },
+    {
+      "reason": "Toplam",
+      "points": 56,
+      "type": "total"
+    }
+  ],
+  "graph_neighbors": [
+    {
+      "id": "ef7c999bed71d11a",
+      "title": "Inside the Booming Market for Dinosaur Fossils | Odd Lots",
+      "company": "David Aaron",
+      "event_type": null,
+      "signal_type": "neutral",
+      "score": 27,
+      "relationship": "neutral_to_negative",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "seed_bmw_002",
+      "title": "BMW relocates motorcycle production from Berlin to Hungary",
+      "company": "BMW",
+      "event_type": "relocation",
+      "signal_type": "negative",
+      "score": 91,
+      "relationship": "negative_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "3b596f865f1978a2",
+      "title": "Telefónica and Sateliot target hybrid 5G-satellite coverage for defense and remote operations",
+      "company": "Telefónica España",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 44,
+      "relationship": "positive_to_negative",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "35da28cb53ec4301",
+      "title": "Using IoT to Enable Predictive Facility Management in Large Enterprises",
+      "company": null,
+      "event_type": "restructuring",
+      "signal_type": "positive",
+      "score": 26,
+      "relationship": "positive_to_negative",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "73df29831a823d66",
+      "title": "Erzincan Fabrika Taşınıyor mu? Sarıgül’den TBMM’ye Araştırması Önergesi - Erzincan Birlik Medya",
+      "company": null,
+      "event_type": "relocation",
+      "signal_type": "neutral",
+      "score": 47,
+      "relationship": "neutral_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "09b5db515b992bca",
+      "title": "Devlet düğmeye bastı: Sakarya'daki önemli fabrikalar İç Anadolu'ya taşınacak - Medyabar",
+      "company": null,
+      "event_type": "relocation",
+      "signal_type": "positive",
+      "score": 66,
+      "relationship": "positive_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "b425319545a9db01",
+      "title": "İstanbul'u boşaltacak Anadolu planı! Fabrikalar taşınacak - babaocagi.com.tr",
+      "company": null,
+      "event_type": "relocation",
+      "signal_type": "negative",
+      "score": 56,
+      "relationship": "negative_to_negative",
+      "reasons": [
+        "same_sector",
+        "same_event"
+      ]
+    },
+    {
+      "id": "57641511af83052d",
+      "title": "Türkiye’nin fabrikaları tırlarla Mısır’a taşınıyor - Hürseda Haber",
+      "company": null,
+      "event_type": "relocation",
+      "signal_type": "positive",
+      "score": 69,
+      "relationship": "positive_to_negative",
+      "reasons": [
+        "same_sector",
+        "same_event"
+      ]
+    },
+    {
+      "id": "a2c84deb72767d7f",
+      "title": "160 fabrika Mısır’a taşındı - Tekstil sektörü zorda - Yeni Asya",
+      "company": null,
+      "event_type": "relocation",
+      "signal_type": "negative",
+      "score": 69,
+      "relationship": "negative_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "df99799b90d0e761",
+      "title": "160 fabrika Mısır’a taşındı - Tekstil sektörü zorda - YENİ ASYA",
+      "company": null,
+      "event_type": "relocation",
+      "signal_type": "negative",
+      "score": 69,
+      "relationship": "negative_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "4b3d7b22318a84d4",
+      "title": "TIR’lar yurt dışına fabrika taşıyor! - Ekonomi Gazetesi",
+      "company": null,
+      "event_type": "relocation",
+      "signal_type": "negative",
+      "score": 76,
+      "relationship": "negative_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "333a61504caf17b4",
+      "title": "Tekstilde fabrikalar kapanıyor, üretim Mısır'a taşınıyor, işsizlik artıyor - Evrensel.net",
+      "company": null,
+      "event_type": "relocation",
+      "signal_type": "negative",
+      "score": 56,
+      "relationship": "negative_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "406ab220b3d45886",
+      "title": "Colins, Türkiye'de üretimi durdurdu! Fabrika Mısır'a taşındı, 1.500 kişi işsiz kaldı - Türkiye Gazetesi",
+      "company": "Colins",
+      "event_type": "relocation",
+      "signal_type": "negative",
+      "score": 79,
+      "relationship": "negative_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "2afb9aa4c2e4102a",
+      "title": "Şişecam, Denizli'deki Üretimine Son Veriyor: Fabrika Kırklareli'ne Taşınıyor - Ekonomi - Denizli Haber - Denizliekspres",
+      "company": "Şişecam",
+      "event_type": "relocation",
+      "signal_type": "negative",
+      "score": 63,
+      "relationship": "negative_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "936706ccd551a04e",
+      "title": "Trump Says He Wants to 'Clean Out' Gaza, Send Refugees to Egypt and Jordan",
+      "company": "ABD Hükümeti",
+      "event_type": "relocation",
+      "signal_type": "negative",
+      "score": 71,
+      "relationship": "negative_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    }
+  ]
+}

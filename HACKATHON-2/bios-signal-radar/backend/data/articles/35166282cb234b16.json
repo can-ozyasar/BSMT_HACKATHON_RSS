@@ -1,0 +1,198 @@
+{
+  "title": "IoT Platforms: Key Capabilities, Vendor Landscape and Selection Criteria",
+  "original_url": "https://iotbusinessnews.com/2026/04/28/iot-platforms-key-capabilities-vendor-landscape-and-selection-criteria/",
+  "content": "IoT Platforms have become a central layer in the architecture of connected systems, sitting between devices, networks, and enterprise applications. As organizations move from pilot projects to large-scale deployments, the need for structured, scalable, and secure ways to manage connected assets has intensified. Platforms are no longer optional infrastructure—they are foundational to how IoT systems are designed, operated, and monetized. Yet the term “IoT Platforms” remains broad and sometimes ambiguous. It can refer to device management tools, cloud-based analytics environments, or full-stack solutions combining connectivity, data processing, and application enablement. Understanding what these platforms actually do—and how to evaluate them—has become a critical task for decision-makers navigating an increasingly fragmented ecosystem. Key Takeaways IoT Platforms provide the software and infrastructure layer that connects devices, manages data, and enables applications. They typically include device management, data ingestion, analytics, and integration capabilities. The vendor landscape is fragmented, ranging from hyperscalers to specialized industrial platform providers. Selection criteria must balance scalability, interoperability, security, and total cost of ownership. Architectural choices—cloud, edge, or hybrid—have a direct impact on performance and deployment flexibility. What is an IoT Platform? IoT Platforms are integrated software environments that enable organizations to connect, manage, monitor, and analyze data from connected devices at scale. They act as an intermediary layer between hardware (sensors, gateways), connectivity networks, and enterprise applications, providing the tools required to build and operate IoT solutions. In practice, IoT Platforms aggregate multiple functions that would otherwise require separate systems. These include device provisioning, data collection, real-time processing, analytics, visualization, and integration with busi",
+  "source_id": "rss_iot_business",
+  "source_name": "IoT Business News",
+  "source_url": "https://iotbusinessnews.com/feed/",
+  "published_at": "2026-04-28T15:10:41+00:00",
+  "raw_hash": "35166282cb234b16",
+  "content_preview": "IoT Platforms have become a central layer in the architecture of connected systems, sitting between devices, networks, and enterprise applications. As organizations move from pilot projects to large-scale deployments, the need for structured, scalable, and secure ways to manage connected assets has ",
+  "language": "en",
+  "content_hash": "c8178cbd870064c3",
+  "company": null,
+  "from_location": null,
+  "to_location": null,
+  "id": "35166282cb234b16",
+  "url_hash": "35166282cb234b16",
+  "text": "IoT Platforms: Key Capabilities, Vendor Landscape and Selection Criteria. IoT Platforms have become a central layer in the architecture of connected systems, sitting between devices, networks, and enterprise applications. As organizations move from pilot projects to large-scale deployments, the need for structured, scalable, and secure ways to manage connected assets has intensified. Platforms are no longer optional infrastructure—they are foundational to how IoT systems are designed, operated, and monetized. Yet the term “IoT Platforms” remains broad and sometimes ambiguous. It can refer to device management tools, cloud-based analytics environments, or full-stack solutions combining connectivity, data processing, and application enablement. Understanding what these platforms actually do—and how to evaluate them—has become a critical task for decision-makers navigating an increasingly fragmented ecosystem. Key Takeaways IoT Platforms provide the software and infrastructure layer that connects devices, manages data, and enables applications. They typically include device management, data ingestion, analytics, and integration capabilities. The vendor landscape is fragmented, ranging from hyperscalers to specialized industrial platform providers. Selection criteria must balance scalability, interoperability, security, and total cost of ownership. Architectural choices—cloud, edge, or hybrid—have a direct impact on performance and deployment flexibility. What is an IoT Platform? IoT Platforms are integrated software environments that enable organizations to connect, manage, monitor, and analyze data from connected devices at scale. They act as an intermediary layer between hardware (sensors, gateways), connectivity networks, and enterprise applications, providing the tools required to build and operate IoT solutions. In practice, IoT Platforms aggregate multiple functions that would otherwise require separate systems. These include device provisioning, data collection, real-time processing, analytics, visualization, and integration with busi",
+  "fetched_at": "2026-05-03T00:25:45.923081+00:00",
+  "analysis_status": "processed",
+  "event_type": "new_plant",
+  "summary_tr": "IoT platform Sağlayıcısı, bağlantılı cihazlardan ölçeklerde veri bağlamak, yönetmek, izlemek ve analiz etmek için yazılım ortamını genişletiyor.",
+  "sector": "Software|Technology",
+  "subsector": "Internet of Things (IoT)",
+  "timeline": null,
+  "capex_eur": null,
+  "jobs_impact": null,
+  "line_type": null,
+  "equipment_keywords": [],
+  "signal_type": "positive",
+  "ai_confidence": 0.75,
+  "reasoning": "The expansion of IoT platform provider's software environment is a positive signal, as it indicates the growing demand for connected devices and data management solutions.",
+  "assumptions": [],
+  "bios_fit": {
+    "score": 38,
+    "score_final": 38,
+    "raw_score": 38.0,
+    "confidence": 0.4,
+    "components": {
+      "E": 0.9,
+      "A": 0.1,
+      "G": 0.0,
+      "T": 0.2,
+      "C": 0.55
+    },
+    "adjustments": {
+      "sector_mult": 1.0,
+      "industry_focus": 1.0,
+      "industry_bonus": 0.0,
+      "freshness_bonus": 0.0,
+      "confidence_penalty": false,
+      "graph_delta": 0.0
+    },
+    "label": "Düşük Alaka",
+    "color": "gray",
+    "action": "archive",
+    "source_tier": "general",
+    "audit_trail": [
+      {
+        "step": 1,
+        "title": "Alan Kontrolü",
+        "detail": "sector=✅ | event_type=✅ | company=❌ | from_location=❌ | to_location=❌",
+        "confidence": 0.4,
+        "filled_count": 2,
+        "total_fields": 5
+      },
+      {
+        "step": 2,
+        "title": "BIOS Bileşen Puanları",
+        "detail": "E(Olay)=0.9×0.30=0.27 | A(Aktör)=0.1×0.25=0.03 | G(Coğrafya)=0.0×0.20=0.00 | T(Zaman)=0.2×0.15=0.03 | C(Kaynak)=0.55×0.10=0.055",
+        "raw_score": 38.0,
+        "components": {
+          "E": 0.9,
+          "A": 0.1,
+          "G": 0.0,
+          "T": 0.2,
+          "C": 0.55
+        }
+      },
+      {
+        "step": 3,
+        "title": "Düzeltmeler",
+        "detail": "Düzeltme uygulanmadı",
+        "adjustments": {
+          "sector_mult": 1.0,
+          "industry_focus": 1.0,
+          "industry_bonus": 0.0,
+          "freshness_bonus": 0.0,
+          "confidence_penalty": false,
+          "graph_delta": 0.0
+        }
+      },
+      {
+        "step": 4,
+        "title": "Nihai Skor",
+        "detail": "Ham=38.0 → Düzeltmeli → Final=38 (Düşük Alaka)",
+        "final_score": 38,
+        "label": "Düşük Alaka",
+        "color": "gray"
+      }
+    ]
+  },
+  "synapse_score": 49,
+  "synapse_breakdown": [
+    {
+      "reason": "Ağ Taban Puanı",
+      "points": 5.0,
+      "type": "base"
+    },
+    {
+      "reason": "Bağlantı Yoğunluğu (5 bağ)",
+      "points": 14.3,
+      "type": "connectivity"
+    },
+    {
+      "reason": "Anlamsal Yakınlık (şirket:0, lokasyon:0, olay:5, sektör:0)",
+      "points": 5.4,
+      "type": "semantic"
+    },
+    {
+      "reason": "Momentum (poz:5, neg:0)",
+      "points": 8.0,
+      "type": "momentum"
+    },
+    {
+      "reason": "Tazelik (48s içinde komşu:1)",
+      "points": 1.5,
+      "type": "recency"
+    },
+    {
+      "reason": "Toplam",
+      "points": 49,
+      "type": "total"
+    }
+  ],
+  "graph_neighbors": [
+    {
+      "id": "seed_bmw_001",
+      "title": "BMW opens €1.7B gigafactory for battery cells in Leipzig",
+      "company": "BMW",
+      "event_type": "new_plant",
+      "signal_type": "positive",
+      "score": 86,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "8af892e9fc0b73c2",
+      "title": "Northland inks 30-year CPPA with TSMC for Hai Long wind project",
+      "company": null,
+      "event_type": "new_plant",
+      "signal_type": "positive",
+      "score": 46,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "5a94098b0e3d3450",
+      "title": "TotalEnergies, Nextnorth begin 440MWp solar project in Philippines",
+      "company": "TotalEnergies",
+      "event_type": "new_plant",
+      "signal_type": "positive",
+      "score": 56,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "f1695e900c9d5823",
+      "title": "Fugro wins geotechnical contract for FengMiao II offshore wind farm",
+      "company": "Fugro",
+      "event_type": "new_plant",
+      "signal_type": "positive",
+      "score": 74,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "891f62717c40dc36",
+      "title": "Japan Trials Put Wi-Fi HaLow’s Long-Range IoT Claims to the Test",
+      "company": null,
+      "event_type": "new_plant",
+      "signal_type": "positive",
+      "score": 46,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    }
+  ]
+}

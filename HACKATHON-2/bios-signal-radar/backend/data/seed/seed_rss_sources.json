@@ -1,0 +1,128 @@
+[
+  {
+    "id": "rss_reuters",
+    "url": "https://www.reuters.com/tools/rss/business",
+    "name": "Reuters Business",
+    "status": "active",
+    "added_at": "2026-05-01T00:00:00Z"
+  },
+  {
+    "id": "rss_handelsblatt",
+    "url": "https://www.handelsblatt.com/contentexport/feed/unternehmen",
+    "name": "Handelsblatt Unternehmen",
+    "status": "active",
+    "added_at": "2026-05-01T00:00:00Z"
+  },
+  {
+    "id": "rss_iot_business",
+    "url": "https://iotbusinessnews.com/feed/",
+    "name": "IoT Business News",
+    "status": "active",
+    "added_at": "2026-05-03T00:00:00Z"
+  },
+  {
+    "id": "rss_the_engineer",
+    "url": "https://www.theengineer.co.uk/rss/",
+    "name": "The Engineer",
+    "status": "active",
+    "added_at": "2026-05-03T00:00:00Z"
+  },
+  {
+    "id": "rss_industry_europe",
+    "url": "https://industryeurope.com/rss",
+    "name": "Industry Europe",
+    "status": "active",
+    "added_at": "2026-05-03T00:00:00Z"
+  },
+  {
+    "id": "rss_bbc_economy",
+    "url": "https://feeds.bbci.co.uk/news/business/economy/rss.xml",
+    "name": "BBC Economy",
+    "status": "active",
+    "added_at": "2026-05-03T00:00:00Z"
+  },
+  {
+    "id": "rss_eurostat",
+    "url": "https://ec.europa.eu/eurostat/rss/news_releases",
+    "name": "Eurostat News",
+    "status": "active",
+    "added_at": "2026-05-03T00:00:00Z"
+  },
+  {
+    "id": "rss_manufacturing_mgmt",
+    "url": "https://www.manufacturingmanagement.co.uk/rss",
+    "name": "Manufacturing Management",
+    "status": "active",
+    "added_at": "2026-05-03T00:00:00Z"
+  },
+  {
+    "id": "rss_ft_manufacturing",
+    "url": "https://www.ft.com/manufacturing?format=rss",
+    "name": "FT Manufacturing",
+    "status": "active",
+    "added_at": "2026-05-03T00:00:00Z"
+  },
+  {
+    "id": "rss_bloomberg_tech",
+    "url": "https://feeds.bloomberg.com/technology/news.rss",
+    "name": "Bloomberg Technology",
+    "status": "active",
+    "added_at": "2026-05-03T00:00:00Z"
+  },
+  {
+    "id": "rss_supply_chain_dive",
+    "url": "https://www.supplychaindive.com/feeds/news/",
+    "name": "Supply Chain Dive",
+    "status": "active",
+    "added_at": "2026-05-03T00:00:00Z"
+  },
+  {
+    "id": "rss_clean_energy_wire",
+    "url": "https://www.cleanenergywire.org/rss.xml",
+    "name": "Clean Energy Wire",
+    "status": "active",
+    "added_at": "2026-05-03T00:00:00Z"
+  },
+  {
+    "id": "rss_automobilwoche",
+    "url": "https://www.automobilwoche.de/rss",
+    "name": "Automobilwoche",
+    "status": "active",
+    "added_at": "2026-05-03T00:00:00Z"
+  },
+  {
+    "id": "rss_cnbc_finance",
+    "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?profile=12000000&id=10000664",
+    "name": "CNBC Finance",
+    "status": "active",
+    "added_at": "2026-05-03T00:00:00Z"
+  },
+  {
+    "id": "rss_techcrunch",
+    "url": "https://techcrunch.com/feed/",
+    "name": "TechCrunch",
+    "status": "active",
+    "added_at": "2026-05-03T00:00:00Z"
+  },
+  {
+    "id": "rss_nyt_tech",
+    "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+    "name": "NYT Technology",
+    "status": "active",
+    "added_at": "2026-05-03T00:00:00Z"
+  },
+  {
+    "id": "rss_wp_business",
+    "url": "https://feeds.washingtonpost.com/rss/business",
+    "name": "Washington Post Business",
+    "status": "active",
+    "added_at": "2026-05-03T00:00:00Z"
+  },
+  {
+    "id": "rss_sky_business",
+    "url": "https://feeds.skynews.com/feeds/rss/business.xml",
+    "name": "Sky News Business",
+    "status": "active",
+    "added_at": "2026-05-03T00:00:00Z"
+  }
+]

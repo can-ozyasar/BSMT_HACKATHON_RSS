@@ -1,0 +1,269 @@
+{
+  "id": "seed_tk_001",
+  "title": "ThyssenKrupp Steel announces 11,000 layoffs amid restructuring",
+  "content": "ThyssenKrupp Steel Europe AG said it would cut 11,000 positions at its Duisburg steelworks as part of a €1 billion cost reduction program. CEO Dennis Grimm stated the company must reduce personnel costs by 40% to remain competitive against cheaper Asian imports. The restructuring is expected to complete by 2030.",
+  "url": "https://www.handelsblatt.com/unternehmen/industrie/thyssenkrupp-steel-stellenabbau-11000-jobs-duisburg/",
+  "original_url": "https://www.handelsblatt.com/unternehmen/industrie/thyssenkrupp-steel-stellenabbau-11000-jobs-duisburg/",
+  "source_id": "seed",
+  "source_name": "Handelsblatt",
+  "source_url": "https://handelsblatt.com",
+  "published_at": "2026-05-02T06:00:00Z",
+  "fetched_at": "2026-05-02T07:00:00Z",
+  "analysis_status": "processed",
+  "event_type": "restructuring",
+  "summary_tr": "ThyssenKrupp Steel Europe AG, Duisburg çelik fabrikasında 11.000 pozisyon kesintisi yapacağını duyurdu. 1 milyar Euro maliyet azaltım programı kapsamında personel maliyetleri %40 düşürülecek. Yeniden yapılanma 2030'a kadar tamamlanması bekleniyor.",
+  "company": "ThyssenKrupp",
+  "from_location": "Duisburg, Germany",
+  "to_location": null,
+  "sector": "Steel",
+  "subsector": "Flat steel",
+  "timeline": "2026-2030",
+  "capex_eur": null,
+  "jobs_impact": -11000,
+  "signal_type": "negative",
+  "ai_confidence": 0.96,
+  "raw_hash": "seed_tk_001",
+  "url_hash": "seed_tk_001_url",
+  "bios_fit": {
+    "score": 73,
+    "score_final": 73,
+    "raw_score": 72.75,
+    "confidence": 0.8,
+    "components": {
+      "E": 0.5,
+      "A": 0.75,
+      "G": 1.0,
+      "T": 0.7,
+      "C": 0.85
+    },
+    "adjustments": {
+      "sector_mult": 1.0,
+      "industry_focus": 1.1,
+      "industry_bonus": 0.0,
+      "freshness_bonus": 0.0,
+      "confidence_penalty": false,
+      "graph_delta": 0.0
+    },
+    "label": "İzlenecek",
+    "color": "blue",
+    "action": "watchlist",
+    "source_tier": "tier1",
+    "audit_trail": [
+      {
+        "step": 1,
+        "title": "Alan Kontrolü",
+        "detail": "company=✅ | from_location=✅ | sector=✅ | event_type=✅ | to_location=❌",
+        "confidence": 0.8,
+        "filled_count": 4,
+        "total_fields": 5
+      },
+      {
+        "step": 2,
+        "title": "BIOS Bileşen Puanları",
+        "detail": "E(Olay)=0.5×0.30=0.15 | A(Aktör)=0.75×0.25=0.19 | G(Coğrafya)=1.0×0.20=0.20 | T(Zaman)=0.7×0.15=0.10 | C(Kaynak)=0.85×0.10=0.085",
+        "raw_score": 72.75,
+        "components": {
+          "E": 0.5,
+          "A": 0.75,
+          "G": 1.0,
+          "T": 0.7,
+          "C": 0.85
+        }
+      },
+      {
+        "step": 3,
+        "title": "Düzeltmeler",
+        "detail": "Düzeltme uygulanmadı",
+        "adjustments": {
+          "sector_mult": 1.0,
+          "industry_focus": 1.1,
+          "industry_bonus": 0.0,
+          "freshness_bonus": 0.0,
+          "confidence_penalty": false,
+          "graph_delta": 0.0
+        }
+      },
+      {
+        "step": 4,
+        "title": "Nihai Skor",
+        "detail": "Ham=72.75 → Düzeltmeli → Final=73 (İzlenecek)",
+        "final_score": 73,
+        "label": "İzlenecek",
+        "color": "blue"
+      }
+    ]
+  },
+  "graph_neighbors": [
+    {
+      "id": "69bcc2e4653560e5",
+      "title": "Emtia piyasalarında jeopolitik riskler ve merkez bankalarının kararları etkili oldu",
+      "company": null,
+      "event_type": "restructuring",
+      "signal_type": "negative",
+      "score": 41,
+      "relationship": "negative_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "bb4d6ec4ebd01b00",
+      "title": "TK Steel Europe: Thyssenkrupp stoppt Gespräche mit indischem Konkurrenten Jindal über Verkauf der Stahlsparte",
+      "company": "TK Steel Europe",
+      "event_type": "restructuring",
+      "signal_type": "negative",
+      "score": 39,
+      "relationship": "negative_to_negative",
+      "reasons": [
+        "same_sector",
+        "same_event"
+      ]
+    },
+    {
+      "id": "d95f4f733ac121b5",
+      "title": "TK Steel Europe: Thyssenkrupp legt Gespräche mit indischem Konkurrenten Jindal über Verkauf der Stahlsparte auf Eis",
+      "company": "Thyssenkrupp",
+      "event_type": "restructuring",
+      "signal_type": "negative",
+      "score": 39,
+      "relationship": "negative_to_negative",
+      "reasons": [
+        "same_company",
+        "same_sector",
+        "same_event"
+      ]
+    },
+    {
+      "id": "175b12632162cd25",
+      "title": "Thyssenkrupp: Kein Partner für Thyssen–Stahlsparte – Gespräche auf Eis",
+      "company": "Thyssenkrupp",
+      "event_type": "restructuring",
+      "signal_type": "negative",
+      "score": 39,
+      "relationship": "negative_to_negative",
+      "reasons": [
+        "same_company",
+        "same_event"
+      ]
+    },
+    {
+      "id": "81e8cc0117eebc50",
+      "title": "Thyssenkrupp, Jindal Steel Pause Talks on Steel Unit Stake",
+      "company": "Thyssenkrupp",
+      "event_type": "restructuring",
+      "signal_type": "negative",
+      "score": 39,
+      "relationship": "negative_to_negative",
+      "reasons": [
+        "same_company",
+        "same_event"
+      ]
+    },
+    {
+      "id": "efef361d2a7bc11a",
+      "title": "Chinese Court Rules Firms Can’t Lay Off Workers on AI Grounds",
+      "company": null,
+      "event_type": "restructuring",
+      "signal_type": "positive",
+      "score": 29,
+      "relationship": "positive_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "seed_siemens_001",
+      "title": "Siemens Energy to cut 4,100 jobs at Gamesa wind division",
+      "company": "Siemens Energy",
+      "event_type": "restructuring",
+      "signal_type": "negative",
+      "score": 77,
+      "relationship": "negative_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "e0e88ed8e586deac",
+      "title": "Understanding Identity System Protections in Modern IT and IoT Environments",
+      "company": null,
+      "event_type": "restructuring",
+      "signal_type": "positive",
+      "score": 26,
+      "relationship": "negative_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "cd7ca7e657b5d7c2",
+      "title": "Shopify Analyst Who Saw Selloff Coming Says Too Soon to Buy",
+      "company": "Shopify Inc.",
+      "event_type": "restructuring",
+      "signal_type": "positive",
+      "score": 39,
+      "relationship": "negative_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "35da28cb53ec4301",
+      "title": "Using IoT to Enable Predictive Facility Management in Large Enterprises",
+      "company": null,
+      "event_type": "restructuring",
+      "signal_type": "positive",
+      "score": 26,
+      "relationship": "negative_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "seed_tk_002",
+      "title": "ThyssenKrupp sells specialty steel division to Liberty Steel",
+      "company": "ThyssenKrupp",
+      "event_type": "acquisition",
+      "signal_type": "negative",
+      "score": 85,
+      "relationship": "negative_to_negative",
+      "reasons": [
+        "same_company",
+        "same_sector"
+      ]
+    }
+  ],
+  "synapse_score": 77,
+  "synapse_breakdown": [
+    {
+      "reason": "Ağ Taban Puanı",
+      "points": 5.0,
+      "type": "base"
+    },
+    {
+      "reason": "Bağlantı Yoğunluğu (11 bağ)",
+      "points": 19.9,
+      "type": "connectivity"
+    },
+    {
+      "reason": "Anlamsal Yakınlık (şirket:4, lokasyon:0, olay:10, sektör:3)",
+      "points": 22.1,
+      "type": "semantic"
+    },
+    {
+      "reason": "Momentum (poz:4, neg:7)",
+      "points": -2.5,
+      "type": "momentum"
+    },
+    {
+      "reason": "Tazelik (48s içinde komşu:9)",
+      "points": 7.0,
+      "type": "recency"
+    },
+    {
+      "reason": "Toplam",
+      "points": 77,
+      "type": "total"
+    }
+  ]
+}

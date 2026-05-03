@@ -1,0 +1,275 @@
+{
+  "id": "seed_vw_001",
+  "title": "Volkswagen to close two German plants, cutting 35,000 jobs",
+  "content": "Volkswagen AG has announced plans to shut down two manufacturing plants in Germany as part of a sweeping restructuring program. The closures affect facilities in Osnabrück and Dresden, with the company targeting €4 billion in annual savings. The move represents the first domestic plant closures in the automaker's 87-year history.",
+  "url": "https://www.reuters.com/business/autos-transportation/volkswagen-close-two-german-plants-cut-35000-jobs-2025-10-28/",
+  "original_url": "https://www.reuters.com/business/autos-transportation/volkswagen-close-two-german-plants-cut-35000-jobs-2025-10-28/",
+  "source_id": "seed",
+  "source_name": "Reuters",
+  "source_url": "https://reuters.com",
+  "published_at": "2026-05-02T08:00:00Z",
+  "fetched_at": "2026-05-02T09:00:00Z",
+  "analysis_status": "processed",
+  "event_type": "closure",
+  "summary_tr": "Volkswagen AG, Almanya'daki iki fabrikasını kapatmayı planlıyor. Osnabrück ve Dresden'deki tesisler etkilenirken, şirket 35.000 iş kaybına ve yıllık 4 milyar Euro tasarrufa hedefliyor. Bu, VW'nin 87 yıllık tarihinde ilk yurt içi fabrika kapanışı olacak.",
+  "company": "Volkswagen",
+  "from_location": "Osnabrück, Germany",
+  "to_location": null,
+  "sector": "Automotive",
+  "subsector": "Passenger vehicles",
+  "timeline": "2025-2026",
+  "capex_eur": null,
+  "jobs_impact": -35000,
+  "signal_type": "negative",
+  "ai_confidence": 0.97,
+  "raw_hash": "seed_vw_001",
+  "url_hash": "seed_vw_001_url",
+  "bios_fit": {
+    "score": 76,
+    "score_final": 76,
+    "raw_score": 75.75,
+    "confidence": 0.8,
+    "components": {
+      "E": 0.45,
+      "A": 0.75,
+      "G": 1.0,
+      "T": 1.0,
+      "C": 0.85
+    },
+    "adjustments": {
+      "sector_mult": 1.0,
+      "industry_focus": 1.0,
+      "industry_bonus": 0.0,
+      "freshness_bonus": 0.0,
+      "confidence_penalty": false,
+      "graph_delta": 0.0
+    },
+    "label": "İzlenecek",
+    "color": "blue",
+    "action": "watchlist",
+    "source_tier": "tier1",
+    "audit_trail": [
+      {
+        "step": 1,
+        "title": "Alan Kontrolü",
+        "detail": "company=✅ | from_location=✅ | sector=✅ | event_type=✅ | to_location=❌",
+        "confidence": 0.8,
+        "filled_count": 4,
+        "total_fields": 5
+      },
+      {
+        "step": 2,
+        "title": "BIOS Bileşen Puanları",
+        "detail": "E(Olay)=0.45×0.30=0.14 | A(Aktör)=0.75×0.25=0.19 | G(Coğrafya)=1.0×0.20=0.20 | T(Zaman)=1.0×0.15=0.15 | C(Kaynak)=0.85×0.10=0.085",
+        "raw_score": 75.75,
+        "components": {
+          "E": 0.45,
+          "A": 0.75,
+          "G": 1.0,
+          "T": 1.0,
+          "C": 0.85
+        }
+      },
+      {
+        "step": 3,
+        "title": "Düzeltmeler",
+        "detail": "Düzeltme uygulanmadı",
+        "adjustments": {
+          "sector_mult": 1.0,
+          "industry_focus": 1.0,
+          "industry_bonus": 0.0,
+          "freshness_bonus": 0.0,
+          "confidence_penalty": false,
+          "graph_delta": 0.0
+        }
+      },
+      {
+        "step": 4,
+        "title": "Nihai Skor",
+        "detail": "Ham=75.75 → Düzeltmeli → Final=76 (İzlenecek)",
+        "final_score": 76,
+        "label": "İzlenecek",
+        "color": "blue"
+      }
+    ]
+  },
+  "graph_neighbors": [
+    {
+      "id": "77f44acb12005fb0",
+      "title": "Globale Expansion auf der Überholspur: Exportvolumen von GAC in Übersee erreicht mit einem Anstieg von 133,9 % von Januar bis April im Vergleich zum Vorjahr neuen Höchststand",
+      "company": "GAC",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 59,
+      "relationship": "positive_to_negative",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "8383fae61b0216c7",
+      "title": "Le volume des exportations de GAC atteint de nouveaux sommets, avec une hausse de 133,9 % en glissement annuel de janvier à avril, alors que son expansion mondiale s'accélère",
+      "company": "GAC",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 51,
+      "relationship": "positive_to_negative",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "2a9473bcc422d2d4",
+      "title": "Performance Brokerage Services Advises on the Sale of Carver Toyota of Columbus in Taylorsville, Indiana to Carlock Automotive Group",
+      "company": null,
+      "event_type": "acquisition",
+      "signal_type": "positive",
+      "score": 46,
+      "relationship": "positive_to_negative",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "seed_bmw_001",
+      "title": "BMW opens €1.7B gigafactory for battery cells in Leipzig",
+      "company": "BMW",
+      "event_type": "new_plant",
+      "signal_type": "positive",
+      "score": 86,
+      "relationship": "positive_to_negative",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "efef361d2a7bc11a",
+      "title": "Chinese Court Rules Firms Can’t Lay Off Workers on AI Grounds",
+      "company": null,
+      "event_type": "restructuring",
+      "signal_type": "positive",
+      "score": 29,
+      "relationship": "positive_to_negative",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "seed_vw_002",
+      "title": "Volkswagen shifts EV production to new €2B Slovakia plant",
+      "company": "Volkswagen",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 87,
+      "relationship": "negative_to_positive",
+      "reasons": [
+        "same_company",
+        "same_sector"
+      ]
+    },
+    {
+      "id": "seed_stellantis_001",
+      "title": "Stellantis closes Vauxhall Ellesmere Port plant after EV pivot fails",
+      "company": "Stellantis",
+      "event_type": "closure",
+      "signal_type": "negative",
+      "score": 68,
+      "relationship": "negative_to_negative",
+      "reasons": [
+        "same_sector",
+        "same_event"
+      ]
+    },
+    {
+      "id": "seed_bmw_002",
+      "title": "BMW relocates motorcycle production from Berlin to Hungary",
+      "company": "BMW",
+      "event_type": "relocation",
+      "signal_type": "negative",
+      "score": 91,
+      "relationship": "negative_to_negative",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "seed_basf_001",
+      "title": "BASF shuts Ludwigshafen chemical complex amid energy cost crisis",
+      "company": "BASF",
+      "event_type": "closure",
+      "signal_type": "negative",
+      "score": 74,
+      "relationship": "negative_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "seed_stellantis_002",
+      "title": "Stellantis invests €1.5B in new EV hub in Mirafiori, Turin",
+      "company": "Stellantis",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 73,
+      "relationship": "negative_to_positive",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "a259dd20688b548d",
+      "title": "Tekstilde fabrikalar kapanıyor, üretim Mısır'a taşınıyor, işsizlik artıyor - Evrensel",
+      "company": null,
+      "event_type": "closure",
+      "signal_type": "negative",
+      "score": 52,
+      "relationship": "negative_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    }
+  ],
+  "synapse_score": 76,
+  "synapse_breakdown": [
+    {
+      "reason": "Ağ Taban Puanı",
+      "points": 5.0,
+      "type": "base"
+    },
+    {
+      "reason": "Bağlantı Yoğunluğu (11 bağ)",
+      "points": 19.9,
+      "type": "connectivity"
+    },
+    {
+      "reason": "Anlamsal Yakınlık (şirket:1, lokasyon:0, olay:3, sektör:9)",
+      "points": 13.2,
+      "type": "semantic"
+    },
+    {
+      "reason": "Momentum (poz:7, neg:4)",
+      "points": 8.0,
+      "type": "momentum"
+    },
+    {
+      "reason": "Tazelik (48s içinde komşu:6)",
+      "points": 7.0,
+      "type": "recency"
+    },
+    {
+      "reason": "Toplam",
+      "points": 76,
+      "type": "total"
+    }
+  ],
+  "synapse_ai": {
+    "synapse_ai_score": 85,
+    "reasoning_tr": "Volkswagen'un iki fabrikasını kapatması ve 35.000 iş kaybına yol açacak bir durum. Bu, şirketin 87 yıllık tarihinde ilk yurt içi fabrika kapanışı olacak. Ayrıca, GAC'in expansion haberinin pozitif etkisi yok.",
+    "key_factors": [
+      "same_sector",
+      "same_company"
+    ],
+    "model": "ollama",
+    "computed_at": "2026-05-03T06:18:07.074728+00:00"
+  }
+}

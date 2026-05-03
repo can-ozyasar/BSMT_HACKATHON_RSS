@@ -1,0 +1,229 @@
+{
+  "id": "seed_tk_002",
+  "title": "ThyssenKrupp sells specialty steel division to Liberty Steel",
+  "content": "ThyssenKrupp has agreed to sell its specialty steel unit based in Bochum to Liberty Steel Group for €450 million. The sale includes two production lines and 2,300 employees. This divestiture is part of ThyssenKrupp's broader strategy to refocus on its core automotive and industrial businesses.",
+  "url": "https://www.faz.net/aktuell/wirtschaft/thyssenkrupp-verkauf-sonderstahlsparte-liberty-steel/",
+  "original_url": "https://www.faz.net/aktuell/wirtschaft/thyssenkrupp-verkauf-sonderstahlsparte-liberty-steel/",
+  "source_id": "seed",
+  "source_name": "FAZ",
+  "source_url": "https://faz.net",
+  "published_at": "2026-04-28T10:00:00Z",
+  "fetched_at": "2026-04-28T11:00:00Z",
+  "analysis_status": "processed",
+  "event_type": "acquisition",
+  "summary_tr": "ThyssenKrupp, Bochum merkezli özel çelik birimini Liberty Steel Group'a 450 milyon Euro'ya satmayı kabul etti. Satış, iki üretim hattı ve 2.300 çalışanı kapsıyor.",
+  "company": "ThyssenKrupp",
+  "from_location": "Bochum, Germany",
+  "to_location": "UK",
+  "sector": "Steel",
+  "subsector": "Specialty steel",
+  "timeline": "2026 Q2",
+  "capex_eur": 450000000,
+  "jobs_impact": -2300,
+  "signal_type": "negative",
+  "ai_confidence": 0.93,
+  "raw_hash": "seed_tk_002",
+  "url_hash": "seed_tk_002_url",
+  "bios_fit": {
+    "score": 85,
+    "score_final": 85,
+    "raw_score": 85.0,
+    "confidence": 1.0,
+    "components": {
+      "E": 0.65,
+      "A": 1.0,
+      "G": 1.0,
+      "T": 1.0,
+      "C": 0.55
+    },
+    "adjustments": {
+      "sector_mult": 1.0,
+      "industry_focus": 1.0,
+      "industry_bonus": 0.0,
+      "freshness_bonus": 0.0,
+      "confidence_penalty": false,
+      "graph_delta": 0.0
+    },
+    "label": "Yüksek Fırsat",
+    "color": "green",
+    "action": "reach_out",
+    "source_tier": "general",
+    "audit_trail": [
+      {
+        "step": 1,
+        "title": "Alan Kontrolü",
+        "detail": "company=✅ | from_location=✅ | to_location=✅ | sector=✅ | event_type=✅",
+        "confidence": 1.0,
+        "filled_count": 5,
+        "total_fields": 5
+      },
+      {
+        "step": 2,
+        "title": "BIOS Bileşen Puanları",
+        "detail": "E(Olay)=0.65×0.30=0.20 | A(Aktör)=1.0×0.25=0.25 | G(Coğrafya)=1.0×0.20=0.20 | T(Zaman)=1.0×0.15=0.15 | C(Kaynak)=0.55×0.10=0.055",
+        "raw_score": 85.0,
+        "components": {
+          "E": 0.65,
+          "A": 1.0,
+          "G": 1.0,
+          "T": 1.0,
+          "C": 0.55
+        }
+      },
+      {
+        "step": 3,
+        "title": "Düzeltmeler",
+        "detail": "Düzeltme uygulanmadı",
+        "adjustments": {
+          "sector_mult": 1.0,
+          "industry_focus": 1.0,
+          "industry_bonus": 0.0,
+          "freshness_bonus": 0.0,
+          "confidence_penalty": false,
+          "graph_delta": 0.0
+        }
+      },
+      {
+        "step": 4,
+        "title": "Nihai Skor",
+        "detail": "Ham=85.0 → Düzeltmeli → Final=85 (Yüksek Fırsat)",
+        "final_score": 85,
+        "label": "Yüksek Fırsat",
+        "color": "green"
+      }
+    ]
+  },
+  "graph_neighbors": [
+    {
+      "id": "bb4d6ec4ebd01b00",
+      "title": "TK Steel Europe: Thyssenkrupp stoppt Gespräche mit indischem Konkurrenten Jindal über Verkauf der Stahlsparte",
+      "company": "TK Steel Europe",
+      "event_type": "restructuring",
+      "signal_type": "negative",
+      "score": 39,
+      "relationship": "negative_to_negative",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "d95f4f733ac121b5",
+      "title": "TK Steel Europe: Thyssenkrupp legt Gespräche mit indischem Konkurrenten Jindal über Verkauf der Stahlsparte auf Eis",
+      "company": "Thyssenkrupp",
+      "event_type": "restructuring",
+      "signal_type": "negative",
+      "score": 39,
+      "relationship": "negative_to_negative",
+      "reasons": [
+        "same_company",
+        "same_sector"
+      ]
+    },
+    {
+      "id": "2a9473bcc422d2d4",
+      "title": "Performance Brokerage Services Advises on the Sale of Carver Toyota of Columbus in Taylorsville, Indiana to Carlock Automotive Group",
+      "company": null,
+      "event_type": "acquisition",
+      "signal_type": "positive",
+      "score": 46,
+      "relationship": "positive_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "175b12632162cd25",
+      "title": "Thyssenkrupp: Kein Partner für Thyssen–Stahlsparte – Gespräche auf Eis",
+      "company": "Thyssenkrupp",
+      "event_type": "restructuring",
+      "signal_type": "negative",
+      "score": 39,
+      "relationship": "negative_to_negative",
+      "reasons": [
+        "same_company"
+      ]
+    },
+    {
+      "id": "81e8cc0117eebc50",
+      "title": "Thyssenkrupp, Jindal Steel Pause Talks on Steel Unit Stake",
+      "company": "Thyssenkrupp",
+      "event_type": "restructuring",
+      "signal_type": "negative",
+      "score": 39,
+      "relationship": "negative_to_negative",
+      "reasons": [
+        "same_company"
+      ]
+    },
+    {
+      "id": "seed_tk_001",
+      "title": "ThyssenKrupp Steel announces 11,000 layoffs amid restructuring",
+      "company": "ThyssenKrupp",
+      "event_type": "restructuring",
+      "signal_type": "negative",
+      "score": 73,
+      "relationship": "negative_to_negative",
+      "reasons": [
+        "same_company",
+        "same_sector"
+      ]
+    },
+    {
+      "id": "a1a9707e115ba74f",
+      "title": "CIP acquires Ørsted’s onshore business in Europe",
+      "company": "CIP",
+      "event_type": "acquisition",
+      "signal_type": "positive",
+      "score": 41,
+      "relationship": "positive_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "e166fe29fd21da65",
+      "title": "Posco signs US$765m deal for 30% stake in Australian lithium mines",
+      "company": "Posco Holdings",
+      "event_type": "acquisition",
+      "signal_type": "positive",
+      "score": 50,
+      "relationship": "positive_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    }
+  ],
+  "synapse_score": 70,
+  "synapse_breakdown": [
+    {
+      "reason": "Ağ Taban Puanı",
+      "points": 5.0,
+      "type": "base"
+    },
+    {
+      "reason": "Bağlantı Yoğunluğu (8 bağ)",
+      "points": 17.6,
+      "type": "connectivity"
+    },
+    {
+      "reason": "Anlamsal Yakınlık (şirket:4, lokasyon:0, olay:3, sektör:3)",
+      "points": 19.1,
+      "type": "semantic"
+    },
+    {
+      "reason": "Momentum (poz:3, neg:5)",
+      "points": -1.5,
+      "type": "momentum"
+    },
+    {
+      "reason": "Tazelik (48s içinde komşu:7)",
+      "points": 7.0,
+      "type": "recency"
+    },
+    {
+      "reason": "Toplam",
+      "points": 70,
+      "type": "total"
+    }
+  ]
+}

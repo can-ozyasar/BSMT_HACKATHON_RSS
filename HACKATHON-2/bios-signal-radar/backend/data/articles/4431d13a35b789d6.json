@@ -1,0 +1,157 @@
+{
+  "title": "Jeju Air Crash Probe Focuses On Engine Damage After Bird Strike",
+  "original_url": "https://www.wsj.com/articles/jeju-air-crash-probe-focuses-on-engine-damage-after-bird-strike-3bafc2ff",
+  "content": "Pilots’ actions after that strike are an early focus of the investigation, according to people familiar with the probe.",
+  "source_id": "rss_636caeea",
+  "source_name": "Wall Street Journal World",
+  "source_url": "https://feeds.a.dj.com/rss/RSSWorldNews.xml",
+  "published_at": "2025-01-27T03:53:00+00:00",
+  "raw_hash": "4431d13a35b789d6",
+  "content_preview": "Pilots’ actions after that strike are an early focus of the investigation, according to people familiar with the probe.",
+  "language": "en",
+  "content_hash": "d7daa5e09de91207",
+  "company": "Jeju Air",
+  "from_location": null,
+  "to_location": null,
+  "id": "4431d13a35b789d6",
+  "url_hash": "4431d13a35b789d6",
+  "text": "Jeju Air Crash Probe Focuses On Engine Damage After Bird Strike. Pilots’ actions after that strike are an early focus of the investigation, according to people familiar with the probe.",
+  "fetched_at": "2026-05-02T19:21:27.336443+00:00",
+  "analysis_status": "processed",
+  "event_type": "other",
+  "summary_tr": "Jeju Air'in bir uçağında kuş çarpması sonrası meydana gelen motor hasarı nedeniyle bir soruşturma başlatıldı. Soruşturma, pilotların çarpma sonrası yaptıkları eylemlere odaklanıyor. Bu olay, havayolu şirketinin operasyonel güvenilirliği üzerinde olumsuz bir etki yaratabilir.",
+  "sector": "Lojistik",
+  "subsector": "Havayolu Taşımacılığı",
+  "timeline": null,
+  "capex_eur": null,
+  "jobs_impact": null,
+  "line_type": "Uçak Motoru",
+  "equipment_keywords": [
+    "uçak motoru",
+    "motor hasarı",
+    "uçak"
+  ],
+  "signal_type": "negative",
+  "ai_confidence": 0.75,
+  "reasoning": "Haber, bir havayolu şirketini (Jeju Air) etkileyen ciddi bir operasyonel olayı (kuş çarpması sonucu motor hasarı ve ardından kaza soruşturması) detaylandırmaktadır. Bu durum, şirketin güvenilirliği, maliyeti ve itibarı üzerinde olumsuz etkileri olabileceği için 'negative' olarak sınıflandırılmıştır.",
+  "assumptions": [
+    "Kuş çarpması sonrası motor hasarının bir kazaya veya ciddi bir olaya yol açtığı varsayılmıştır.",
+    "Soruşturmanın Jeju Air'in operasyonları üzerinde olumsuz bir etki yaratacağı varsayılmıştır."
+  ],
+  "bios_fit": {
+    "score": 24,
+    "score_final": 24,
+    "raw_score": 24.0,
+    "confidence": 0.4,
+    "components": {
+      "E": 0.1,
+      "A": 0.5,
+      "G": 0.0,
+      "T": 0.2,
+      "C": 0.55
+    },
+    "adjustments": {
+      "sector_mult": 1.0,
+      "industry_focus": 1.0,
+      "industry_bonus": 0.0,
+      "freshness_bonus": 0.0,
+      "confidence_penalty": false,
+      "graph_delta": 0.0
+    },
+    "label": "Düşük Alaka",
+    "color": "gray",
+    "action": "archive",
+    "source_tier": "general",
+    "audit_trail": [
+      {
+        "step": 1,
+        "title": "Alan Kontrolü",
+        "detail": "company=✅ | sector=✅ | from_location=❌ | to_location=❌ | event_type=❌",
+        "confidence": 0.4,
+        "filled_count": 2,
+        "total_fields": 5
+      },
+      {
+        "step": 2,
+        "title": "BIOS Bileşen Puanları",
+        "detail": "E(Olay)=0.1×0.30=0.03 | A(Aktör)=0.5×0.25=0.12 | G(Coğrafya)=0.0×0.20=0.00 | T(Zaman)=0.2×0.15=0.03 | C(Kaynak)=0.55×0.10=0.055",
+        "raw_score": 24.0,
+        "components": {
+          "E": 0.1,
+          "A": 0.5,
+          "G": 0.0,
+          "T": 0.2,
+          "C": 0.55
+        }
+      },
+      {
+        "step": 3,
+        "title": "Düzeltmeler",
+        "detail": "Düzeltme uygulanmadı",
+        "adjustments": {
+          "sector_mult": 1.0,
+          "industry_focus": 1.0,
+          "industry_bonus": 0.0,
+          "freshness_bonus": 0.0,
+          "confidence_penalty": false,
+          "graph_delta": 0.0
+        }
+      },
+      {
+        "step": 4,
+        "title": "Nihai Skor",
+        "detail": "Ham=24.0 → Düzeltmeli → Final=24 (Düşük Alaka)",
+        "final_score": 24,
+        "label": "Düşük Alaka",
+        "color": "gray"
+      }
+    ]
+  },
+  "synapse_score": 22,
+  "synapse_breakdown": [
+    {
+      "reason": "Ağ Taban Puanı",
+      "points": 5.0,
+      "type": "base"
+    },
+    {
+      "reason": "Bağlantı Yoğunluğu (1 bağ)",
+      "points": 5.5,
+      "type": "connectivity"
+    },
+    {
+      "reason": "Anlamsal Yakınlık (şirket:0, lokasyon:0, olay:0, sektör:1)",
+      "points": 1.0,
+      "type": "semantic"
+    },
+    {
+      "reason": "Momentum (poz:1, neg:0)",
+      "points": 2.0,
+      "type": "momentum"
+    },
+    {
+      "reason": "Tazelik (48s içinde komşu:1)",
+      "points": 1.5,
+      "type": "recency"
+    },
+    {
+      "reason": "Toplam",
+      "points": 22,
+      "type": "total"
+    }
+  ],
+  "graph_neighbors": [
+    {
+      "id": "7e70e3187dc52574",
+      "title": "Airlines can cancel flights in advance over fuel shortages, under new plans",
+      "company": null,
+      "event_type": "supply_chain",
+      "signal_type": "positive",
+      "score": 28,
+      "relationship": "positive_to_negative",
+      "reasons": [
+        "same_sector"
+      ]
+    }
+  ]
+}

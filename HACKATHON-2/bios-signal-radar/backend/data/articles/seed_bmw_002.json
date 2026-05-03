@@ -1,0 +1,384 @@
+{
+  "id": "seed_bmw_002",
+  "title": "BMW relocates motorcycle production from Berlin to Hungary",
+  "content": "BMW Motorrad is transferring production of the R-series motorcycles from its Berlin Spandau plant to a new facility in Debrecen, Hungary. The move, affecting 600 positions in Berlin, is driven by lower labor costs and proximity to new EV supply chains. The Hungarian plant will receive €240 million in investment.",
+  "url": "https://www.spiegel.de/wirtschaft/unternehmen/bmw-motorrad-verlagerung-berlin-debrecen-ungarn/",
+  "original_url": "https://www.spiegel.de/wirtschaft/unternehmen/bmw-motorrad-verlagerung-berlin-debrecen-ungarn/",
+  "source_id": "seed",
+  "source_name": "Spiegel Wirtschaft",
+  "source_url": "https://spiegel.de",
+  "published_at": "2026-04-30T11:00:00Z",
+  "fetched_at": "2026-04-30T12:00:00Z",
+  "analysis_status": "processed",
+  "event_type": "relocation",
+  "summary_tr": "BMW Motorrad, Berlin Spandau fabrikasından R-serisi motosiklet üretimini Macaristan'daki yeni Debrecen tesisine taşıyor. 600 Berlin pozisyonunu etkileyen bu hamle, düşük işgücü maliyeti ve EV tedarik zincirlerine yakınlık gerekçesiyle yapılıyor. Macar tesisi 240 milyon Euro yatırım alacak.",
+  "company": "BMW",
+  "from_location": "Berlin, Germany",
+  "to_location": "Debrecen, Hungary",
+  "sector": "Automotive",
+  "subsector": "Motorcycles",
+  "timeline": "2026-2027",
+  "capex_eur": 240000000,
+  "jobs_impact": -600,
+  "signal_type": "negative",
+  "ai_confidence": 0.96,
+  "raw_hash": "seed_bmw_002",
+  "url_hash": "seed_bmw_002_url",
+  "bios_fit": {
+    "score": 91,
+    "score_final": 91,
+    "raw_score": 91.0,
+    "confidence": 1.0,
+    "components": {
+      "E": 1.0,
+      "A": 1.0,
+      "G": 1.0,
+      "T": 0.7,
+      "C": 0.55
+    },
+    "adjustments": {
+      "sector_mult": 1.0,
+      "industry_focus": 1.0,
+      "industry_bonus": 0.0,
+      "freshness_bonus": 0.0,
+      "confidence_penalty": false,
+      "graph_delta": 0.0
+    },
+    "label": "Yüksek Fırsat",
+    "color": "green",
+    "action": "reach_out",
+    "source_tier": "general",
+    "audit_trail": [
+      {
+        "step": 1,
+        "title": "Alan Kontrolü",
+        "detail": "company=✅ | from_location=✅ | to_location=✅ | sector=✅ | event_type=✅",
+        "confidence": 1.0,
+        "filled_count": 5,
+        "total_fields": 5
+      },
+      {
+        "step": 2,
+        "title": "BIOS Bileşen Puanları",
+        "detail": "E(Olay)=1.0×0.30=0.30 | A(Aktör)=1.0×0.25=0.25 | G(Coğrafya)=1.0×0.20=0.20 | T(Zaman)=0.7×0.15=0.10 | C(Kaynak)=0.55×0.10=0.055",
+        "raw_score": 91.0,
+        "components": {
+          "E": 1.0,
+          "A": 1.0,
+          "G": 1.0,
+          "T": 0.7,
+          "C": 0.55
+        }
+      },
+      {
+        "step": 3,
+        "title": "Düzeltmeler",
+        "detail": "Düzeltme uygulanmadı",
+        "adjustments": {
+          "sector_mult": 1.0,
+          "industry_focus": 1.0,
+          "industry_bonus": 0.0,
+          "freshness_bonus": 0.0,
+          "confidence_penalty": false,
+          "graph_delta": 0.0
+        }
+      },
+      {
+        "step": 4,
+        "title": "Nihai Skor",
+        "detail": "Ham=91.0 → Düzeltmeli → Final=91 (Yüksek Fırsat)",
+        "final_score": 91,
+        "label": "Yüksek Fırsat",
+        "color": "green"
+      }
+    ]
+  },
+  "synapse_score": 78,
+  "synapse_breakdown": [
+    {
+      "reason": "Ağ Taban Puanı",
+      "points": 5.0,
+      "type": "base"
+    },
+    {
+      "reason": "Bağlantı Yoğunluğu (21 bağ)",
+      "points": 24.7,
+      "type": "connectivity"
+    },
+    {
+      "reason": "Anlamsal Yakınlık (şirket:1, lokasyon:0, olay:12, sektör:9)",
+      "points": 16.7,
+      "type": "semantic"
+    },
+    {
+      "reason": "Momentum (poz:9, neg:11)",
+      "points": 1.5,
+      "type": "momentum"
+    },
+    {
+      "reason": "Tazelik (48s içinde komşu:7)",
+      "points": 7.0,
+      "type": "recency"
+    },
+    {
+      "reason": "Toplam",
+      "points": 78,
+      "type": "total"
+    }
+  ],
+  "graph_neighbors": [
+    {
+      "id": "77f44acb12005fb0",
+      "title": "Globale Expansion auf der Überholspur: Exportvolumen von GAC in Übersee erreicht mit einem Anstieg von 133,9 % von Januar bis April im Vergleich zum Vorjahr neuen Höchststand",
+      "company": "GAC",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 59,
+      "relationship": "positive_to_negative",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "8383fae61b0216c7",
+      "title": "Le volume des exportations de GAC atteint de nouveaux sommets, avec une hausse de 133,9 % en glissement annuel de janvier à avril, alors que son expansion mondiale s'accélère",
+      "company": "GAC",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 51,
+      "relationship": "positive_to_negative",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "2a9473bcc422d2d4",
+      "title": "Performance Brokerage Services Advises on the Sale of Carver Toyota of Columbus in Taylorsville, Indiana to Carlock Automotive Group",
+      "company": null,
+      "event_type": "acquisition",
+      "signal_type": "positive",
+      "score": 46,
+      "relationship": "positive_to_negative",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "seed_bmw_001",
+      "title": "BMW opens €1.7B gigafactory for battery cells in Leipzig",
+      "company": "BMW",
+      "event_type": "new_plant",
+      "signal_type": "positive",
+      "score": 86,
+      "relationship": "positive_to_negative",
+      "reasons": [
+        "same_company",
+        "same_sector"
+      ]
+    },
+    {
+      "id": "efef361d2a7bc11a",
+      "title": "Chinese Court Rules Firms Can’t Lay Off Workers on AI Grounds",
+      "company": null,
+      "event_type": "restructuring",
+      "signal_type": "positive",
+      "score": 29,
+      "relationship": "positive_to_negative",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "seed_vw_001",
+      "title": "Volkswagen to close two German plants, cutting 35,000 jobs",
+      "company": "Volkswagen",
+      "event_type": "closure",
+      "signal_type": "negative",
+      "score": 76,
+      "relationship": "negative_to_negative",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "seed_vw_002",
+      "title": "Volkswagen shifts EV production to new €2B Slovakia plant",
+      "company": "Volkswagen",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 87,
+      "relationship": "positive_to_negative",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "seed_stellantis_001",
+      "title": "Stellantis closes Vauxhall Ellesmere Port plant after EV pivot fails",
+      "company": "Stellantis",
+      "event_type": "closure",
+      "signal_type": "negative",
+      "score": 68,
+      "relationship": "negative_to_negative",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "seed_stellantis_002",
+      "title": "Stellantis invests €1.5B in new EV hub in Mirafiori, Turin",
+      "company": "Stellantis",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 73,
+      "relationship": "negative_to_positive",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "73df29831a823d66",
+      "title": "Erzincan Fabrika Taşınıyor mu? Sarıgül’den TBMM’ye Araştırması Önergesi - Erzincan Birlik Medya",
+      "company": null,
+      "event_type": "relocation",
+      "signal_type": "neutral",
+      "score": 47,
+      "relationship": "negative_to_neutral",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "09b5db515b992bca",
+      "title": "Devlet düğmeye bastı: Sakarya'daki önemli fabrikalar İç Anadolu'ya taşınacak - Medyabar",
+      "company": null,
+      "event_type": "relocation",
+      "signal_type": "positive",
+      "score": 66,
+      "relationship": "negative_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "b425319545a9db01",
+      "title": "İstanbul'u boşaltacak Anadolu planı! Fabrikalar taşınacak - babaocagi.com.tr",
+      "company": null,
+      "event_type": "relocation",
+      "signal_type": "negative",
+      "score": 56,
+      "relationship": "negative_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "57641511af83052d",
+      "title": "Türkiye’nin fabrikaları tırlarla Mısır’a taşınıyor - Hürseda Haber",
+      "company": null,
+      "event_type": "relocation",
+      "signal_type": "positive",
+      "score": 69,
+      "relationship": "negative_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "a2c84deb72767d7f",
+      "title": "160 fabrika Mısır’a taşındı - Tekstil sektörü zorda - Yeni Asya",
+      "company": null,
+      "event_type": "relocation",
+      "signal_type": "negative",
+      "score": 69,
+      "relationship": "negative_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "df99799b90d0e761",
+      "title": "160 fabrika Mısır’a taşındı - Tekstil sektörü zorda - YENİ ASYA",
+      "company": null,
+      "event_type": "relocation",
+      "signal_type": "negative",
+      "score": 69,
+      "relationship": "negative_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "4b3d7b22318a84d4",
+      "title": "TIR’lar yurt dışına fabrika taşıyor! - Ekonomi Gazetesi",
+      "company": null,
+      "event_type": "relocation",
+      "signal_type": "negative",
+      "score": 76,
+      "relationship": "negative_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "333a61504caf17b4",
+      "title": "Tekstilde fabrikalar kapanıyor, üretim Mısır'a taşınıyor, işsizlik artıyor - Evrensel.net",
+      "company": null,
+      "event_type": "relocation",
+      "signal_type": "negative",
+      "score": 56,
+      "relationship": "negative_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "406ab220b3d45886",
+      "title": "Colins, Türkiye'de üretimi durdurdu! Fabrika Mısır'a taşındı, 1.500 kişi işsiz kaldı - Türkiye Gazetesi",
+      "company": "Colins",
+      "event_type": "relocation",
+      "signal_type": "negative",
+      "score": 79,
+      "relationship": "negative_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "b7a8afd175de3af0",
+      "title": "Su krizi, içecek devini vurdu: Fabrika İzmir'den taşınıyor iddiası! - Gündeme Bakış",
+      "company": null,
+      "event_type": "relocation",
+      "signal_type": "negative",
+      "score": 49,
+      "relationship": "negative_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "2afb9aa4c2e4102a",
+      "title": "Şişecam, Denizli'deki Üretimine Son Veriyor: Fabrika Kırklareli'ne Taşınıyor - Ekonomi - Denizli Haber - Denizliekspres",
+      "company": "Şişecam",
+      "event_type": "relocation",
+      "signal_type": "negative",
+      "score": 63,
+      "relationship": "negative_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "936706ccd551a04e",
+      "title": "Trump Says He Wants to 'Clean Out' Gaza, Send Refugees to Egypt and Jordan",
+      "company": "ABD Hükümeti",
+      "event_type": "relocation",
+      "signal_type": "negative",
+      "score": 71,
+      "relationship": "negative_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,274 @@
+{
+  "title": "Thyssenkrupp, Jindal Steel Pause Talks on Steel Unit Stake",
+  "original_url": "https://www.bloomberg.com/news/articles/2026-05-02/thyssenkrupp-jindal-steel-pause-talks-on-steel-unit-stake",
+  "content": "The Thyssenkrupp Steel Europe AG steel plant in Duisburg, Germany, on Monday, Dec. 9, 2024. Thyssenkrupp aims to lower personnel costs by about 10% on average over the coming years.",
+  "source_id": "rss_e8ff8006",
+  "source_name": "feeds.bloomberg.com",
+  "source_url": "https://feeds.bloomberg.com/markets/news.rss",
+  "published_at": "2026-05-02T13:28:30+00:00",
+  "raw_hash": "81e8cc0117eebc50",
+  "content_preview": "The Thyssenkrupp Steel Europe AG steel plant in Duisburg, Germany, on Monday, Dec. 9, 2024. Thyssenkrupp aims to lower personnel costs by about 10% on average over the coming years.",
+  "language": "en",
+  "content_hash": "4f6a31e97fb72f5a",
+  "company": "Thyssenkrupp",
+  "from_location": null,
+  "to_location": null,
+  "id": "81e8cc0117eebc50",
+  "url_hash": "81e8cc0117eebc50",
+  "text": "Thyssenkrupp, Jindal Steel Pause Talks on Steel Unit Stake. The Thyssenkrupp Steel Europe AG steel plant in Duisburg, Germany, on Monday, Dec. 9, 2024. Thyssenkrupp aims to lower personnel costs by about 10% on average over the coming years.",
+  "fetched_at": "2026-05-02T19:18:44.613300+00:00",
+  "analysis_status": "processed",
+  "event_type": "restructuring",
+  "summary_tr": "Thyssenkrupp, Jindal Steel ile çelik birimindeki hisse devri görüşmelerine ara verdi. Almanya'nın Duisburg kentindeki Thyssenkrupp Steel Europe AG tesisini ilgilendiren bu gelişme kapsamında şirket, önümüzdeki yıllarda personel maliyetlerini ortalama %10 oranında düşürmeyi hedefliyor. Bu durum, şirketin maliyet optimizasyonu ve olası iş gücü yeniden yapılanması çabalarını gösteriyor.",
+  "sector": "Çelik",
+  "subsector": null,
+  "timeline": "Önümüzdeki yıllar (maliyet azaltma hedefi)",
+  "capex_eur": null,
+  "jobs_impact": null,
+  "line_type": null,
+  "equipment_keywords": [],
+  "signal_type": "negative",
+  "ai_confidence": 0.75,
+  "reasoning": "Haber, Thyssenkrupp'un personel maliyetlerini ortalama %10 düşürme hedefini açıkça belirtmektedir. Bu, şirketin maliyetleri kısmak amacıyla işten çıkarmalar veya ücret kesintileri gibi yeniden yapılanma adımları atacağını göstermekte olup, piyasada ve iş gücünde negatif bir sinyaldir. Jindal Steel ile görüşmelerin duraklaması da belirsizliği artırmaktadır.",
+  "assumptions": [],
+  "bios_fit": {
+    "score": 39,
+    "score_final": 39,
+    "raw_score": 39.0,
+    "confidence": 0.6,
+    "components": {
+      "E": 0.5,
+      "A": 0.5,
+      "G": 0.0,
+      "T": 0.2,
+      "C": 0.85
+    },
+    "adjustments": {
+      "sector_mult": 1.0,
+      "industry_focus": 1.0,
+      "industry_bonus": 0.0,
+      "freshness_bonus": 0.0,
+      "confidence_penalty": false,
+      "graph_delta": 0.0
+    },
+    "label": "Düşük Alaka",
+    "color": "gray",
+    "action": "archive",
+    "source_tier": "tier1",
+    "audit_trail": [
+      {
+        "step": 1,
+        "title": "Alan Kontrolü",
+        "detail": "company=✅ | sector=✅ | event_type=✅ | from_location=❌ | to_location=❌",
+        "confidence": 0.6,
+        "filled_count": 3,
+        "total_fields": 5
+      },
+      {
+        "step": 2,
+        "title": "BIOS Bileşen Puanları",
+        "detail": "E(Olay)=0.5×0.30=0.15 | A(Aktör)=0.5×0.25=0.12 | G(Coğrafya)=0.0×0.20=0.00 | T(Zaman)=0.2×0.15=0.03 | C(Kaynak)=0.85×0.10=0.085",
+        "raw_score": 39.0,
+        "components": {
+          "E": 0.5,
+          "A": 0.5,
+          "G": 0.0,
+          "T": 0.2,
+          "C": 0.85
+        }
+      },
+      {
+        "step": 3,
+        "title": "Düzeltmeler",
+        "detail": "Düzeltme uygulanmadı",
+        "adjustments": {
+          "sector_mult": 1.0,
+          "industry_focus": 1.0,
+          "industry_bonus": 0.0,
+          "freshness_bonus": 0.0,
+          "confidence_penalty": false,
+          "graph_delta": 0.0
+        }
+      },
+      {
+        "step": 4,
+        "title": "Nihai Skor",
+        "detail": "Ham=39.0 → Düzeltmeli → Final=39 (Düşük Alaka)",
+        "final_score": 39,
+        "label": "Düşük Alaka",
+        "color": "gray"
+      }
+    ]
+  },
+  "graph_neighbors": [
+    {
+      "id": "69bcc2e4653560e5",
+      "title": "Emtia piyasalarında jeopolitik riskler ve merkez bankalarının kararları etkili oldu",
+      "company": null,
+      "event_type": "restructuring",
+      "signal_type": "negative",
+      "score": 41,
+      "relationship": "negative_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "bb4d6ec4ebd01b00",
+      "title": "TK Steel Europe: Thyssenkrupp stoppt Gespräche mit indischem Konkurrenten Jindal über Verkauf der Stahlsparte",
+      "company": "TK Steel Europe",
+      "event_type": "restructuring",
+      "signal_type": "negative",
+      "score": 39,
+      "relationship": "negative_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "d95f4f733ac121b5",
+      "title": "TK Steel Europe: Thyssenkrupp legt Gespräche mit indischem Konkurrenten Jindal über Verkauf der Stahlsparte auf Eis",
+      "company": "Thyssenkrupp",
+      "event_type": "restructuring",
+      "signal_type": "negative",
+      "score": 39,
+      "relationship": "negative_to_negative",
+      "reasons": [
+        "same_company",
+        "same_event"
+      ]
+    },
+    {
+      "id": "175b12632162cd25",
+      "title": "Thyssenkrupp: Kein Partner für Thyssen–Stahlsparte – Gespräche auf Eis",
+      "company": "Thyssenkrupp",
+      "event_type": "restructuring",
+      "signal_type": "negative",
+      "score": 39,
+      "relationship": "negative_to_negative",
+      "reasons": [
+        "same_company",
+        "same_sector",
+        "same_event"
+      ]
+    },
+    {
+      "id": "efef361d2a7bc11a",
+      "title": "Chinese Court Rules Firms Can’t Lay Off Workers on AI Grounds",
+      "company": null,
+      "event_type": "restructuring",
+      "signal_type": "positive",
+      "score": 29,
+      "relationship": "negative_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "seed_tk_001",
+      "title": "ThyssenKrupp Steel announces 11,000 layoffs amid restructuring",
+      "company": "ThyssenKrupp",
+      "event_type": "restructuring",
+      "signal_type": "negative",
+      "score": 73,
+      "relationship": "negative_to_negative",
+      "reasons": [
+        "same_company",
+        "same_event"
+      ]
+    },
+    {
+      "id": "seed_siemens_001",
+      "title": "Siemens Energy to cut 4,100 jobs at Gamesa wind division",
+      "company": "Siemens Energy",
+      "event_type": "restructuring",
+      "signal_type": "negative",
+      "score": 77,
+      "relationship": "negative_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "e0e88ed8e586deac",
+      "title": "Understanding Identity System Protections in Modern IT and IoT Environments",
+      "company": null,
+      "event_type": "restructuring",
+      "signal_type": "positive",
+      "score": 26,
+      "relationship": "negative_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "cd7ca7e657b5d7c2",
+      "title": "Shopify Analyst Who Saw Selloff Coming Says Too Soon to Buy",
+      "company": "Shopify Inc.",
+      "event_type": "restructuring",
+      "signal_type": "positive",
+      "score": 39,
+      "relationship": "negative_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "35da28cb53ec4301",
+      "title": "Using IoT to Enable Predictive Facility Management in Large Enterprises",
+      "company": null,
+      "event_type": "restructuring",
+      "signal_type": "positive",
+      "score": 26,
+      "relationship": "negative_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "seed_tk_002",
+      "title": "ThyssenKrupp sells specialty steel division to Liberty Steel",
+      "company": "ThyssenKrupp",
+      "event_type": "acquisition",
+      "signal_type": "negative",
+      "score": 85,
+      "relationship": "negative_to_negative",
+      "reasons": [
+        "same_company"
+      ]
+    }
+  ],
+  "synapse_score": 76,
+  "synapse_breakdown": [
+    {
+      "reason": "Ağ Taban Puanı",
+      "points": 5.0,
+      "type": "base"
+    },
+    {
+      "reason": "Bağlantı Yoğunluğu (11 bağ)",
+      "points": 19.9,
+      "type": "connectivity"
+    },
+    {
+      "reason": "Anlamsal Yakınlık (şirket:4, lokasyon:0, olay:10, sektör:1)",
+      "points": 21.1,
+      "type": "semantic"
+    },
+    {
+      "reason": "Momentum (poz:4, neg:7)",
+      "points": -2.5,
+      "type": "momentum"
+    },
+    {
+      "reason": "Tazelik (48s içinde komşu:9)",
+      "points": 7.0,
+      "type": "recency"
+    },
+    {
+      "reason": "Toplam",
+      "points": 76,
+      "type": "total"
+    }
+  ]
+}

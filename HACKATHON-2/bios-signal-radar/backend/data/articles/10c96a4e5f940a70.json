@@ -1,0 +1,234 @@
+{
+  "title": "Hormuz Deadlock Persists as Trump Faces War-Powers Deadline at Home",
+  "original_url": "https://oilprice.com/Energy/Crude-Oil/Hormuz-Deadlock-Persists-as-Trump-Faces-War-Powers-Deadline-at-Home.html",
+  "content": "Two months after the Iran war began, the Strait of Hormuz remains severely restricted for tanker traffic while U.S. President Donald Trump faces a key legal deadline at home under the 1973 War Powers Resolution. As of early Friday, May 1, the deadlock at the world’s most vital oil chokepoint, the Strait of Hormuz, doesn’t appear close to being resolved. The U.S. is doubling down on the naval blockade outside the Strait aimed at stopping Iranian oil exports. But Iran controls most vessel movements through the lane and is increasingly…",
+  "source_id": "rss_dc7937b2",
+  "source_name": "OilPrice.com",
+  "source_url": "https://oilprice.com/rss/main",
+  "published_at": "2026-05-02T23:00:00+00:00",
+  "raw_hash": "10c96a4e5f940a70",
+  "content_preview": "Two months after the Iran war began, the Strait of Hormuz remains severely restricted for tanker traffic while U.S. President Donald Trump faces a key legal deadline at home under the 1973 War Powers Resolution. As of early Friday, May 1, the deadlock at the world’s most vital oil chokepoint, the St",
+  "language": "en",
+  "content_hash": "0f35d3bde9cffa89",
+  "company": null,
+  "from_location": "Strait of Hormuz",
+  "to_location": null,
+  "id": "10c96a4e5f940a70",
+  "url_hash": "10c96a4e5f940a70",
+  "text": "Hormuz Deadlock Persists as Trump Faces War-Powers Deadline at Home. Two months after the Iran war began, the Strait of Hormuz remains severely restricted for tanker traffic while U.S. President Donald Trump faces a key legal deadline at home under the 1973 War Powers Resolution. As of early Friday, May 1, the deadlock at the world’s most vital oil chokepoint, the Strait of Hormuz, doesn’t appear close to being resolved. The U.S. is doubling down on the naval blockade outside the Strait aimed at stopping Iranian oil exports. But Iran controls most vessel movements through the lane and is increasingly…",
+  "fetched_at": "2026-05-02T23:57:32.115602+00:00",
+  "analysis_status": "processed",
+  "event_type": "relocation|closure",
+  "summary_tr": "Hormuz Boğazı tanker trafiği için ABD-İran çatışması nedeniyle kısıtlanmaya devam ediyor, çözüme ulaşma görünümünde değil.",
+  "sector": "Energy",
+  "subsector": null,
+  "timeline": "May 1 and ongoing",
+  "capex_eur": null,
+  "jobs_impact": null,
+  "line_type": null,
+  "equipment_keywords": [],
+  "signal_type": "negative",
+  "ai_confidence": 0.75,
+  "reasoning": "The conflict between the US and Iran has led to a naval blockade, restricting tanker traffic through the Strait of Hormuz.",
+  "assumptions": [],
+  "bios_fit": {
+    "score": 22,
+    "score_final": 22,
+    "raw_score": 22.25,
+    "confidence": 0.6,
+    "components": {
+      "E": 0.1,
+      "A": 0.35,
+      "G": 0.1,
+      "T": 0.2,
+      "C": 0.55
+    },
+    "adjustments": {
+      "sector_mult": 1.0,
+      "industry_focus": 1.0,
+      "industry_bonus": 0.0,
+      "freshness_bonus": 0.0,
+      "confidence_penalty": false,
+      "graph_delta": 0.0
+    },
+    "label": "Düşük Alaka",
+    "color": "gray",
+    "action": "archive",
+    "source_tier": "general",
+    "audit_trail": [
+      {
+        "step": 1,
+        "title": "Alan Kontrolü",
+        "detail": "from_location=✅ | sector=✅ | event_type=✅ | company=❌ | to_location=❌",
+        "confidence": 0.6,
+        "filled_count": 3,
+        "total_fields": 5
+      },
+      {
+        "step": 2,
+        "title": "BIOS Bileşen Puanları",
+        "detail": "E(Olay)=0.1×0.30=0.03 | A(Aktör)=0.35×0.25=0.09 | G(Coğrafya)=0.1×0.20=0.02 | T(Zaman)=0.2×0.15=0.03 | C(Kaynak)=0.55×0.10=0.055",
+        "raw_score": 22.25,
+        "components": {
+          "E": 0.1,
+          "A": 0.35,
+          "G": 0.1,
+          "T": 0.2,
+          "C": 0.55
+        }
+      },
+      {
+        "step": 3,
+        "title": "Düzeltmeler",
+        "detail": "Düzeltme uygulanmadı",
+        "adjustments": {
+          "sector_mult": 1.0,
+          "industry_focus": 1.0,
+          "industry_bonus": 0.0,
+          "freshness_bonus": 0.0,
+          "confidence_penalty": false,
+          "graph_delta": 0.0
+        }
+      },
+      {
+        "step": 4,
+        "title": "Nihai Skor",
+        "detail": "Ham=22.25 → Düzeltmeli → Final=22 (Düşük Alaka)",
+        "final_score": 22,
+        "label": "Düşük Alaka",
+        "color": "gray"
+      }
+    ]
+  },
+  "synapse_score": 53,
+  "synapse_breakdown": [
+    {
+      "reason": "Ağ Taban Puanı",
+      "points": 5.0,
+      "type": "base"
+    },
+    {
+      "reason": "Bağlantı Yoğunluğu (8 bağ)",
+      "points": 17.6,
+      "type": "connectivity"
+    },
+    {
+      "reason": "Anlamsal Yakınlık (şirket:0, lokasyon:0, olay:0, sektör:8)",
+      "points": 3.3,
+      "type": "semantic"
+    },
+    {
+      "reason": "Momentum (poz:5, neg:2)",
+      "points": 7.0,
+      "type": "momentum"
+    },
+    {
+      "reason": "Tazelik (48s içinde komşu:3)",
+      "points": 4.5,
+      "type": "recency"
+    },
+    {
+      "reason": "Toplam",
+      "points": 53,
+      "type": "total"
+    }
+  ],
+  "graph_neighbors": [
+    {
+      "id": "9b7dd7826158389f",
+      "title": "Zelenskiy, Novorossiysk Limanı girişinde &quot;Rus gölge filosuna&quot; ait iki tankere saldırdıklarını bildirdi",
+      "company": null,
+      "event_type": "supply_chain",
+      "signal_type": "negative",
+      "score": 36,
+      "relationship": "negative_to_negative",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "c493924b0d14be13",
+      "title": "Russian to Plead Guilty in Oil and Gas Facility Hack",
+      "company": null,
+      "event_type": "tender",
+      "signal_type": "negative",
+      "score": 31,
+      "relationship": "negative_to_negative",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "a1a9707e115ba74f",
+      "title": "CIP acquires Ørsted’s onshore business in Europe",
+      "company": "CIP",
+      "event_type": "acquisition",
+      "signal_type": "positive",
+      "score": 41,
+      "relationship": "negative_to_positive",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "8af892e9fc0b73c2",
+      "title": "Northland inks 30-year CPPA with TSMC for Hai Long wind project",
+      "company": null,
+      "event_type": "new_plant",
+      "signal_type": "positive",
+      "score": 46,
+      "relationship": "negative_to_positive",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "5a94098b0e3d3450",
+      "title": "TotalEnergies, Nextnorth begin 440MWp solar project in Philippines",
+      "company": "TotalEnergies",
+      "event_type": "new_plant",
+      "signal_type": "positive",
+      "score": 56,
+      "relationship": "negative_to_positive",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "100ed191970f77dc",
+      "title": "US DoE moves to release $430m for hydropower upgrades",
+      "company": "US Department of Energy (DoE)",
+      "event_type": "relocation|closure|expansion|new_plant|tender|layoff|acquisition|restructuring|supply_chain|other",
+      "signal_type": "positive",
+      "score": 24,
+      "relationship": "negative_to_positive",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "f1695e900c9d5823",
+      "title": "Fugro wins geotechnical contract for FengMiao II offshore wind farm",
+      "company": "Fugro",
+      "event_type": "new_plant",
+      "signal_type": "positive",
+      "score": 74,
+      "relationship": "negative_to_positive",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "bb8f11a12e257507",
+      "title": "One year on from Iberian blackout, what has the industry learned about resilience? Wireless Logic comments",
+      "company": "Wireless Logic",
+      "event_type": "relocation|closure|expansion|new_plant|tender|layoff|acquisition|restructuring|supply_chain|other",
+      "signal_type": "neutral",
+      "score": 32,
+      "relationship": "negative_to_neutral",
+      "reasons": [
+        "same_sector"
+      ]
+    }
+  ]
+}

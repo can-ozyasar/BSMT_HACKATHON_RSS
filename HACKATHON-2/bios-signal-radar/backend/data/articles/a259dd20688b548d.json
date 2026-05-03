@@ -1,0 +1,200 @@
+{
+  "title": "Tekstilde fabrikalar kapanıyor, üretim Mısır'a taşınıyor, işsizlik artıyor - Evrensel",
+  "original_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeUVWa3ZtZ2Rib2VmUUduN3RaalFvQmRjOXlNd2U0ZWE3RlNhVUswSFhKSmwwb01FVHNfdlBOVmp5ZG5uS1hiVTJBU3QwNWhOM1VISlU4a2VmWG9NWEJSRTE2Z0NHd3d1aWVNdEVqYTRWWjE3QUhna1EyNW1hOEl5emlxdGRiNktUY0luZnpWVU80MEpJUmZ1NWJ1N1l4MmVVOGhORnV2TE5Kazh1UGc?oc=5",
+  "content": "Tekstilde fabrikalar kapanıyor, üretim Mısır'a taşınıyor, işsizlik artıyor Evrensel",
+  "source_id": "rss_0c3fa4a5",
+  "source_name": "news.google.com",
+  "source_url": "https://news.google.com/rss/search?q=fabrika+taşınıyor&hl=tr&gl=TR&ceid=TR:tr",
+  "published_at": "2025-10-10T11:16:06+00:00",
+  "raw_hash": "a259dd20688b548d",
+  "content_preview": "Tekstilde fabrikalar kapanıyor, üretim Mısır'a taşınıyor, işsizlik artıyor Evrensel",
+  "language": "tr",
+  "content_hash": "f2db6c89feadde87",
+  "company": null,
+  "from_location": "Turkey",
+  "to_location": "Egypt",
+  "id": "a259dd20688b548d",
+  "url_hash": "a259dd20688b548d",
+  "simhash_fp": 3205633025061846916,
+  "text": "Tekstilde fabrikalar kapanıyor, üretim Mısır'a taşınıyor, işsizlik artıyor - Evrensel. Tekstilde fabrikalar kapanıyor, üretim Mısır'a taşınıyor, işsizlik artıyor Evrensel",
+  "fetched_at": "2026-05-03T07:16:20.574855+00:00",
+  "analysis_status": "processed",
+  "event_type": "closure",
+  "summary_tr": "Türk tekstil fabrikaları kapatılıyor, üretim Mısır'a taşınıyor, işsizlik artıyor.",
+  "sector": "Textile",
+  "subsector": null,
+  "timeline": null,
+  "capex_eur": null,
+  "jobs_impact": "unemployment rising",
+  "line_type": null,
+  "equipment_keywords": [],
+  "signal_type": "negative",
+  "ai_confidence": 1.0,
+  "reasoning": "The article explicitly states the closure of textile factories and the relocation of production to Egypt, indicating a negative signal.",
+  "assumptions": [],
+  "bios_fit": {
+    "score": 52,
+    "score_final": 52,
+    "raw_score": 52.0,
+    "confidence": 0.8,
+    "components": {
+      "E": 0.45,
+      "A": 0.6,
+      "G": 0.75,
+      "T": 0.2,
+      "C": 0.55
+    },
+    "adjustments": {
+      "sector_mult": 1.0,
+      "industry_focus": 1.0,
+      "industry_bonus": 0.0,
+      "freshness_bonus": 0.0,
+      "confidence_penalty": false,
+      "graph_delta": 0.0
+    },
+    "label": "Şartlı İlgi",
+    "color": "yellow",
+    "action": "monitor",
+    "source_tier": "general",
+    "audit_trail": [
+      {
+        "step": 1,
+        "title": "Alan Kontrolü",
+        "detail": "from_location=✅ | to_location=✅ | sector=✅ | event_type=✅ | company=❌",
+        "confidence": 0.8,
+        "filled_count": 4,
+        "total_fields": 5
+      },
+      {
+        "step": 2,
+        "title": "BIOS Bileşen Puanları",
+        "detail": "E(Olay)=0.45×0.30=0.14 | A(Aktör)=0.6×0.25=0.15 | G(Coğrafya)=0.75×0.20=0.15 | T(Zaman)=0.2×0.15=0.03 | C(Kaynak)=0.55×0.10=0.055",
+        "raw_score": 52.0,
+        "components": {
+          "E": 0.45,
+          "A": 0.6,
+          "G": 0.75,
+          "T": 0.2,
+          "C": 0.55
+        }
+      },
+      {
+        "step": 3,
+        "title": "Düzeltmeler",
+        "detail": "Düzeltme uygulanmadı",
+        "adjustments": {
+          "sector_mult": 1.0,
+          "industry_focus": 1.0,
+          "industry_bonus": 0.0,
+          "freshness_bonus": 0.0,
+          "confidence_penalty": false,
+          "graph_delta": 0.0
+        }
+      },
+      {
+        "step": 4,
+        "title": "Nihai Skor",
+        "detail": "Ham=52.0 → Düzeltmeli → Final=52 (Şartlı İlgi)",
+        "final_score": 52,
+        "label": "Şartlı İlgi",
+        "color": "yellow"
+      }
+    ]
+  },
+  "synapse_score": 47,
+  "synapse_breakdown": [
+    {
+      "reason": "Ağ Taban Puanı",
+      "points": 5.0,
+      "type": "base"
+    },
+    {
+      "reason": "Bağlantı Yoğunluğu (5 bağ)",
+      "points": 14.3,
+      "type": "connectivity"
+    },
+    {
+      "reason": "Anlamsal Yakınlık (şirket:0, lokasyon:2, olay:3, sektör:1)",
+      "points": 11.8,
+      "type": "semantic"
+    },
+    {
+      "reason": "Momentum (poz:0, neg:5)",
+      "points": -7.5,
+      "type": "momentum"
+    },
+    {
+      "reason": "Tazelik (48s içinde komşu:1)",
+      "points": 1.5,
+      "type": "recency"
+    },
+    {
+      "reason": "Toplam",
+      "points": 47,
+      "type": "total"
+    }
+  ],
+  "graph_neighbors": [
+    {
+      "id": "seed_vw_001",
+      "title": "Volkswagen to close two German plants, cutting 35,000 jobs",
+      "company": "Volkswagen",
+      "event_type": "closure",
+      "signal_type": "negative",
+      "score": 76,
+      "relationship": "negative_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "seed_stellantis_001",
+      "title": "Stellantis closes Vauxhall Ellesmere Port plant after EV pivot fails",
+      "company": "Stellantis",
+      "event_type": "closure",
+      "signal_type": "negative",
+      "score": 68,
+      "relationship": "negative_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "seed_basf_001",
+      "title": "BASF shuts Ludwigshafen chemical complex amid energy cost crisis",
+      "company": "BASF",
+      "event_type": "closure",
+      "signal_type": "negative",
+      "score": 74,
+      "relationship": "negative_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "df99799b90d0e761",
+      "title": "160 fabrika Mısır’a taşındı - Tekstil sektörü zorda - YENİ ASYA",
+      "company": null,
+      "event_type": "relocation",
+      "signal_type": "negative",
+      "score": 69,
+      "relationship": "negative_to_negative",
+      "reasons": [
+        "same_location",
+        "same_sector"
+      ]
+    },
+    {
+      "id": "406ab220b3d45886",
+      "title": "Colins, Türkiye'de üretimi durdurdu! Fabrika Mısır'a taşındı, 1.500 kişi işsiz kaldı - Türkiye Gazetesi",
+      "company": "Colins",
+      "event_type": "relocation",
+      "signal_type": "negative",
+      "score": 79,
+      "relationship": "negative_to_negative",
+      "reasons": [
+        "same_location"
+      ]
+    }
+  ]
+}

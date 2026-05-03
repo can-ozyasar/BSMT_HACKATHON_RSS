@@ -1,0 +1,258 @@
+{
+  "title": "Shopify Analyst Who Saw Selloff Coming Says Too Soon to Buy",
+  "original_url": "https://www.bloomberg.com/news/articles/2026-05-01/shopify-analyst-who-saw-selloff-coming-says-it-s-too-soon-to-buy",
+  "content": "A logo outside Shopify headquarters in Ottawa, Ontario, Canada, on Tuesday, Feb. 14, 2023. Shopify Inc. was among the first technology giants to slash its workforce during last year’s market rout. Now, some investors say its stock is poised to outperform peers over the course of 2023 as those job cuts translate into lower costs, narrower losses and better cash flow. Photographer: David Kawai/Bloomberg",
+  "source_id": "rss_bloomberg_tech",
+  "source_name": "Bloomberg Technology",
+  "source_url": "https://feeds.bloomberg.com/technology/news.rss",
+  "published_at": "2026-05-01T11:15:00+00:00",
+  "raw_hash": "cd7ca7e657b5d7c2",
+  "content_preview": "A logo outside Shopify headquarters in Ottawa, Ontario, Canada, on Tuesday, Feb. 14, 2023. Shopify Inc. was among the first technology giants to slash its workforce during last year’s market rout. Now, some investors say its stock is poised to outperform peers over the course of 2023 as those job cu",
+  "language": "en",
+  "content_hash": "5e81ff6084dc3c57",
+  "company": "Shopify Inc.",
+  "from_location": null,
+  "to_location": null,
+  "id": "cd7ca7e657b5d7c2",
+  "url_hash": "cd7ca7e657b5d7c2",
+  "text": "Shopify Analyst Who Saw Selloff Coming Says Too Soon to Buy. A logo outside Shopify headquarters in Ottawa, Ontario, Canada, on Tuesday, Feb. 14, 2023. Shopify Inc. was among the first technology giants to slash its workforce during last year’s market rout. Now, some investors say its stock is poised to outperform peers over the course of 2023 as those job cuts translate into lower costs, narrower losses and better cash flow. Photographer: David Kawai/Bloomberg",
+  "fetched_at": "2026-05-03T02:13:04.079087+00:00",
+  "analysis_status": "processed",
+  "event_type": "restructuring",
+  "summary_tr": "Shopify analisti, 2023 yılında ortaklarına göre hissanın performansı daha iyi olacağını tahmin ediyor. Önceki iş kesintileri maliyet tasarrufuna neden oldu.",
+  "sector": "Technology",
+  "subsector": null,
+  "timeline": "2023",
+  "capex_eur": null,
+  "jobs_impact": "-",
+  "line_type": null,
+  "equipment_keywords": [],
+  "signal_type": "positive",
+  "ai_confidence": 0.75,
+  "reasoning": "The analyst's prediction is based on the company's previous job cuts leading to cost savings, which could improve its financial performance.",
+  "assumptions": [],
+  "bios_fit": {
+    "score": 39,
+    "score_final": 39,
+    "raw_score": 39.0,
+    "confidence": 0.6,
+    "components": {
+      "E": 0.5,
+      "A": 0.5,
+      "G": 0.0,
+      "T": 0.2,
+      "C": 0.85
+    },
+    "adjustments": {
+      "sector_mult": 1.0,
+      "industry_focus": 1.0,
+      "industry_bonus": 0.0,
+      "freshness_bonus": 0.0,
+      "confidence_penalty": false,
+      "graph_delta": 0.0
+    },
+    "label": "Düşük Alaka",
+    "color": "gray",
+    "action": "archive",
+    "source_tier": "tier1",
+    "audit_trail": [
+      {
+        "step": 1,
+        "title": "Alan Kontrolü",
+        "detail": "company=✅ | sector=✅ | event_type=✅ | from_location=❌ | to_location=❌",
+        "confidence": 0.6,
+        "filled_count": 3,
+        "total_fields": 5
+      },
+      {
+        "step": 2,
+        "title": "BIOS Bileşen Puanları",
+        "detail": "E(Olay)=0.5×0.30=0.15 | A(Aktör)=0.5×0.25=0.12 | G(Coğrafya)=0.0×0.20=0.00 | T(Zaman)=0.2×0.15=0.03 | C(Kaynak)=0.85×0.10=0.085",
+        "raw_score": 39.0,
+        "components": {
+          "E": 0.5,
+          "A": 0.5,
+          "G": 0.0,
+          "T": 0.2,
+          "C": 0.85
+        }
+      },
+      {
+        "step": 3,
+        "title": "Düzeltmeler",
+        "detail": "Düzeltme uygulanmadı",
+        "adjustments": {
+          "sector_mult": 1.0,
+          "industry_focus": 1.0,
+          "industry_bonus": 0.0,
+          "freshness_bonus": 0.0,
+          "confidence_penalty": false,
+          "graph_delta": 0.0
+        }
+      },
+      {
+        "step": 4,
+        "title": "Nihai Skor",
+        "detail": "Ham=39.0 → Düzeltmeli → Final=39 (Düşük Alaka)",
+        "final_score": 39,
+        "label": "Düşük Alaka",
+        "color": "gray"
+      }
+    ]
+  },
+  "synapse_score": 55,
+  "synapse_breakdown": [
+    {
+      "reason": "Ağ Taban Puanı",
+      "points": 5.0,
+      "type": "base"
+    },
+    {
+      "reason": "Bağlantı Yoğunluğu (10 bağ)",
+      "points": 19.2,
+      "type": "connectivity"
+    },
+    {
+      "reason": "Anlamsal Yakınlık (şirket:0, lokasyon:0, olay:10, sektör:0)",
+      "points": 7.2,
+      "type": "semantic"
+    },
+    {
+      "reason": "Momentum (poz:3, neg:7)",
+      "points": -4.5,
+      "type": "momentum"
+    },
+    {
+      "reason": "Tazelik (48s içinde komşu:9)",
+      "points": 7.0,
+      "type": "recency"
+    },
+    {
+      "reason": "Toplam",
+      "points": 55,
+      "type": "total"
+    }
+  ],
+  "graph_neighbors": [
+    {
+      "id": "69bcc2e4653560e5",
+      "title": "Emtia piyasalarında jeopolitik riskler ve merkez bankalarının kararları etkili oldu",
+      "company": null,
+      "event_type": "restructuring",
+      "signal_type": "negative",
+      "score": 41,
+      "relationship": "negative_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "bb4d6ec4ebd01b00",
+      "title": "TK Steel Europe: Thyssenkrupp stoppt Gespräche mit indischem Konkurrenten Jindal über Verkauf der Stahlsparte",
+      "company": "TK Steel Europe",
+      "event_type": "restructuring",
+      "signal_type": "negative",
+      "score": 39,
+      "relationship": "negative_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "d95f4f733ac121b5",
+      "title": "TK Steel Europe: Thyssenkrupp legt Gespräche mit indischem Konkurrenten Jindal über Verkauf der Stahlsparte auf Eis",
+      "company": "Thyssenkrupp",
+      "event_type": "restructuring",
+      "signal_type": "negative",
+      "score": 39,
+      "relationship": "negative_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "175b12632162cd25",
+      "title": "Thyssenkrupp: Kein Partner für Thyssen–Stahlsparte – Gespräche auf Eis",
+      "company": "Thyssenkrupp",
+      "event_type": "restructuring",
+      "signal_type": "negative",
+      "score": 39,
+      "relationship": "negative_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "81e8cc0117eebc50",
+      "title": "Thyssenkrupp, Jindal Steel Pause Talks on Steel Unit Stake",
+      "company": "Thyssenkrupp",
+      "event_type": "restructuring",
+      "signal_type": "negative",
+      "score": 39,
+      "relationship": "negative_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "efef361d2a7bc11a",
+      "title": "Chinese Court Rules Firms Can’t Lay Off Workers on AI Grounds",
+      "company": null,
+      "event_type": "restructuring",
+      "signal_type": "positive",
+      "score": 29,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "seed_tk_001",
+      "title": "ThyssenKrupp Steel announces 11,000 layoffs amid restructuring",
+      "company": "ThyssenKrupp",
+      "event_type": "restructuring",
+      "signal_type": "negative",
+      "score": 73,
+      "relationship": "negative_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "seed_siemens_001",
+      "title": "Siemens Energy to cut 4,100 jobs at Gamesa wind division",
+      "company": "Siemens Energy",
+      "event_type": "restructuring",
+      "signal_type": "negative",
+      "score": 77,
+      "relationship": "negative_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "e0e88ed8e586deac",
+      "title": "Understanding Identity System Protections in Modern IT and IoT Environments",
+      "company": null,
+      "event_type": "restructuring",
+      "signal_type": "positive",
+      "score": 26,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "35da28cb53ec4301",
+      "title": "Using IoT to Enable Predictive Facility Management in Large Enterprises",
+      "company": null,
+      "event_type": "restructuring",
+      "signal_type": "positive",
+      "score": 26,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,340 @@
+{
+  "title": "Rivian raises US (Georgia) plant capacity by 50%",
+  "original_url": "https://www.just-auto.com/news/rivian-raises-georgia-plant-capacity-50/",
+  "content": "Rivian plans to lift the initial production capacity of its forthcoming manufacturing site in Georgia to 300,000 vehicles a year, representing a 50% increase from the previously outlined 200,000 units. The updated plan for the facility at Stanton Springs North is aimed at reducing per-unit costs while preserving flexibility for additional capacity in later development phases. The company has also revised its loan arrangement with the US Department of Energy’s Office of Energy Dominance Financing, securing total funding of up to $4.5bn. This comprises $4bn in principal alongside $494m in capitalised interest. Rivian expects to begin accessing the financing in early 2027. Rivian founder and CEO RJ Scaringe said: “We are very excited to partner with the US Department of Energy to grow our manufacturing footprint in Georgia. “R2 dramatically expands our market opportunity. The thousands of dedicated people who will soon work in our Georgia plant will be instrumental to Rivian’s growth as we scale American manufacturing and work to ensure that the US retains its leadership in innovation and technology.” Vertical construction at the site is scheduled to begin in 2026, with vehicle production still targeted for late 2028. Preparatory work is under way, including development of the stamping press area, which the company identified as one of the most capital-intensive and technically demanding parts of the facility. Construction momentum is expected to build during the summer period as primary structures start to emerge. Separately, Rivian confirmed its collaboration with Uber, under which it anticipates producing up to 50,000 robotaxis at the Georgia plant from late 2028. In a separate development earlier this month, an electric vehicle startup spun out of Rivian secured $200m in a Series C funding round. The round was led by Greenoaks, with participation from DoorDash as a strategic investor, alongside Prysm Capital. The startup focuses on vertically integrated small elect",
+  "source_id": "rss_24c8e38e",
+  "source_name": "Just Auto",
+  "source_url": "https://www.just-auto.com/feed/",
+  "published_at": "2026-05-01T10:50:08+00:00",
+  "raw_hash": "0635531dffd01b3b",
+  "content_preview": "Rivian plans to lift the initial production capacity of its forthcoming manufacturing site in Georgia to 300,000 vehicles a year, representing a 50% increase from the previously outlined 200,000 units. The updated plan for the facility at Stanton Springs North is aimed at reducing per-unit costs whi",
+  "language": "en",
+  "content_hash": "6e80cd3210908bcc",
+  "company": "Rivian",
+  "from_location": null,
+  "to_location": "Georgia, US",
+  "id": "0635531dffd01b3b",
+  "url_hash": "0635531dffd01b3b",
+  "text": "Rivian raises US (Georgia) plant capacity by 50%. Rivian plans to lift the initial production capacity of its forthcoming manufacturing site in Georgia to 300,000 vehicles a year, representing a 50% increase from the previously outlined 200,000 units. The updated plan for the facility at Stanton Springs North is aimed at reducing per-unit costs while preserving flexibility for additional capacity in later development phases. The company has also revised its loan arrangement with the US Department of Energy’s Office of Energy Dominance Financing, securing total funding of up to $4.5bn. This comprises $4bn in principal alongside $494m in capitalised interest. Rivian expects to begin accessing the financing in early 2027. Rivian founder and CEO RJ Scaringe said: “We are very excited to partner with the US Department of Energy to grow our manufacturing footprint in Georgia. “R2 dramatically expands our market opportunity. The thousands of dedicated people who will soon work in our Georgia plant will be instrumental to Rivian’s growth as we scale American manufacturing and work to ensure that the US retains its leadership in innovation and technology.” Vertical construction at the site is scheduled to begin in 2026, with vehicle production still targeted for late 2028. Preparatory work is under way, including development of the stamping press area, which the company identified as one of the most capital-intensive and technically demanding parts of the facility. Construction momentum is expected to build during the summer period as primary structures start to emerge. Separately, Rivian confirmed its collaboration with Uber, under which it anticipates producing up to 50,000 robotaxis at the Georgia plant from late 2028. In a separate development earlier this month, an electric vehicle startup spun out of Rivian secured $200m in a Series C funding round. The round was led by Greenoaks, with participation from DoorDash as a strategic investor, alongside Prysm Capital. The startup focuses on vertically integrated small elect",
+  "fetched_at": "2026-05-02T19:20:13.138931+00:00",
+  "analysis_status": "processed",
+  "event_type": "expansion",
+  "summary_tr": "Rivian, ABD'nin Georgia eyaletindeki yeni üretim tesisinin başlangıç üretim kapasitesini %50 artırarak yıllık 200.000 adetten 300.000 adede çıkarmayı planlıyor. Bu genişleme, birim başına maliyetleri düşürmeyi hedeflerken, şirket ABD Enerji Bakanlığı'ndan 4.5 milyar dolara kadar finansman sağladı. İnşaatın 2026'da başlaması ve araç üretiminin 2028 sonlarında hedeflenmesiyle, bu yatırım ABD'de elektrikli araç üretimini ölçeklendirmeyi amaçlamaktadır.",
+  "sector": "Otomotiv",
+  "subsector": "Elektrikli Araç Üretimi",
+  "timeline": "Dikey inşaat 2026'da başlayacak, finansmana erişim 2027 başlarında, araç üretimi 2028 sonlarında hedefleniyor.",
+  "capex_eur": 4140000000.0,
+  "jobs_impact": null,
+  "line_type": "Araç üretim hattı",
+  "equipment_keywords": [
+    "stamping press area",
+    "robotaxis"
+  ],
+  "signal_type": "positive",
+  "ai_confidence": 0.75,
+  "reasoning": "Şirket, Georgia'daki yeni üretim tesisinin kapasitesini %50 oranında artırarak önemli bir büyüme ve genişleme sinyali vermektedir. Ayrıca, ABD Enerji Bakanlığı'ndan 4.5 milyar dolarlık finansman sağlanması ve Uber ile robotaxi üretimi için işbirliği yapılması, şirketin gelecekteki operasyonları için güçlü bir pozitif göstergedir.",
+  "assumptions": [
+    "USD - EUR dönüşüm oranı 1 USD = 0.92 EUR olarak kabul edilmiştir."
+  ],
+  "bios_fit": {
+    "score": 69,
+    "score_final": 69,
+    "raw_score": 68.75,
+    "confidence": 0.8,
+    "components": {
+      "E": 0.75,
+      "A": 0.75,
+      "G": 0.5,
+      "T": 0.7,
+      "C": 0.7
+    },
+    "adjustments": {
+      "sector_mult": 1.0,
+      "industry_focus": 1.2,
+      "industry_bonus": 0.0,
+      "freshness_bonus": 0.0,
+      "confidence_penalty": false,
+      "graph_delta": 0.0
+    },
+    "label": "İzlenecek",
+    "color": "blue",
+    "action": "watchlist",
+    "source_tier": "sector",
+    "audit_trail": [
+      {
+        "step": 1,
+        "title": "Alan Kontrolü",
+        "detail": "company=✅ | to_location=✅ | sector=✅ | event_type=✅ | from_location=❌",
+        "confidence": 0.8,
+        "filled_count": 4,
+        "total_fields": 5
+      },
+      {
+        "step": 2,
+        "title": "BIOS Bileşen Puanları",
+        "detail": "E(Olay)=0.75×0.30=0.22 | A(Aktör)=0.75×0.25=0.19 | G(Coğrafya)=0.5×0.20=0.10 | T(Zaman)=0.7×0.15=0.10 | C(Kaynak)=0.7×0.10=0.070",
+        "raw_score": 68.75,
+        "components": {
+          "E": 0.75,
+          "A": 0.75,
+          "G": 0.5,
+          "T": 0.7,
+          "C": 0.7
+        }
+      },
+      {
+        "step": 3,
+        "title": "Düzeltmeler",
+        "detail": "Düzeltme uygulanmadı",
+        "adjustments": {
+          "sector_mult": 1.0,
+          "industry_focus": 1.2,
+          "industry_bonus": 0.0,
+          "freshness_bonus": 0.0,
+          "confidence_penalty": false,
+          "graph_delta": 0.0
+        }
+      },
+      {
+        "step": 4,
+        "title": "Nihai Skor",
+        "detail": "Ham=68.75 → Düzeltmeli → Final=69 (İzlenecek)",
+        "final_score": 69,
+        "label": "İzlenecek",
+        "color": "blue"
+      }
+    ]
+  },
+  "graph_neighbors": [
+    {
+      "id": "731a9236658f49db",
+      "title": "Bakan Uraloğlu: Hızlı Tren Projesi&apos;nin Mersin- Adana arasını önümüzdeki sene hizmete açacağız",
+      "company": null,
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 56,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "c707f21db844d68f",
+      "title": "Nvidia’s Push Into Physical AI Sparks Rally in Asian Partners",
+      "company": "Nvidia Corp.",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 47,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "77f44acb12005fb0",
+      "title": "Globale Expansion auf der Überholspur: Exportvolumen von GAC in Übersee erreicht mit einem Anstieg von 133,9 % von Januar bis April im Vergleich zum Vorjahr neuen Höchststand",
+      "company": "GAC",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 59,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "8383fae61b0216c7",
+      "title": "Le volume des exportations de GAC atteint de nouveaux sommets, avec une hausse de 133,9 % en glissement annuel de janvier à avril, alors que son expansion mondiale s'accélère",
+      "company": "GAC",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 51,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "seed_northvolt_001",
+      "title": "Northvolt secures $5B for first circular gigafactory in Sweden",
+      "company": "Northvolt",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 80,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "seed_vw_002",
+      "title": "Volkswagen shifts EV production to new €2B Slovakia plant",
+      "company": "Volkswagen",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 87,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "6fed3367a5893fd2",
+      "title": "Hyundai unveils Pleos Connect for software-defined vehicle architecture",
+      "company": "Hyundai Motor",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 56,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_sector",
+        "same_event"
+      ]
+    },
+    {
+      "id": "49f3e402415fcbad",
+      "title": "Toyota plans three Maharashtra plants to lift India output – report",
+      "company": "Toyota Motor",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 56,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_sector",
+        "same_event"
+      ]
+    },
+    {
+      "id": "19649393a8163384",
+      "title": "Elektroautohersteller: Rivian reduziert Verluste und erhöht Kapazitätsplanung für neues Werk",
+      "company": "Rivian",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 63,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_company",
+        "same_sector",
+        "same_event"
+      ]
+    },
+    {
+      "id": "37f45ec030f5213f",
+      "title": "Apple Forecast Tops Estimates Even as Mac Shortages Linger",
+      "company": "Apple",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 59,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "119010a7cdd71dac",
+      "title": "Nexteer puts steer-by-wire into series production",
+      "company": "Nexteer Automotive",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 53,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_sector",
+        "same_event"
+      ]
+    },
+    {
+      "id": "4fbda1f1e738d884",
+      "title": "Aston Martin narrows losses despite rising debt in first quarter",
+      "company": "Aston Martin",
+      "event_type": "other",
+      "signal_type": "positive",
+      "score": 33,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "3b596f865f1978a2",
+      "title": "Telefónica and Sateliot target hybrid 5G-satellite coverage for defense and remote operations",
+      "company": "Telefónica España",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 44,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "b2e8fb1f5e95422d",
+      "title": "Cellular POS Terminals to Reach 247 Million by 2029 as Retail IoT Expands",
+      "company": null,
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 45,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "seed_stellantis_002",
+      "title": "Stellantis invests €1.5B in new EV hub in Mirafiori, Turin",
+      "company": "Stellantis",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 73,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "seed_intel_001",
+      "title": "Intel pauses €17B German chip fab in Magdeburg amid financial struggles",
+      "company": "Intel",
+      "event_type": "expansion",
+      "signal_type": "negative",
+      "score": 73,
+      "relationship": "positive_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    }
+  ],
+  "synapse_score": 85,
+  "synapse_breakdown": [
+    {
+      "reason": "Ağ Taban Puanı",
+      "points": 5.0,
+      "type": "base"
+    },
+    {
+      "reason": "Bağlantı Yoğunluğu (16 bağ)",
+      "points": 22.7,
+      "type": "connectivity"
+    },
+    {
+      "reason": "Anlamsal Yakınlık (şirket:1, lokasyon:0, olay:15, sektör:5)",
+      "points": 16.6,
+      "type": "semantic"
+    },
+    {
+      "reason": "Momentum (poz:15, neg:1)",
+      "points": 8.0,
+      "type": "momentum"
+    },
+    {
+      "reason": "Tazelik (48s içinde komşu:8)",
+      "points": 7.0,
+      "type": "recency"
+    },
+    {
+      "reason": "Toplam",
+      "points": 85,
+      "type": "total"
+    }
+  ]
+}

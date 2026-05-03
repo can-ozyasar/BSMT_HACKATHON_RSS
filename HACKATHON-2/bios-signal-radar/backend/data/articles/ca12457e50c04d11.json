@@ -1,0 +1,137 @@
+{
+  "title": "Vietnam Inflation Quickens as Iran War Raises Energy Costs",
+  "original_url": "https://www.bloomberg.com/news/articles/2026-05-03/vietnam-inflation-quickens-as-iran-war-drives-up-energy-costs",
+  "content": "Motorists in traffic in Hanoi, Vietnam, on Tuesday, March 21, 2023. Vietnam is scheduled to release it's annual gross domestic product (GDP) figures on March 29. Photographer: Linh Pham/Bloomberg",
+  "source_id": "rss_e8ff8006",
+  "source_name": "feeds.bloomberg.com",
+  "source_url": "https://feeds.bloomberg.com/markets/news.rss",
+  "published_at": "2026-05-03T02:08:57+00:00",
+  "raw_hash": "ca12457e50c04d11",
+  "content_preview": "Motorists in traffic in Hanoi, Vietnam, on Tuesday, March 21, 2023. Vietnam is scheduled to release it's annual gross domestic product (GDP) figures on March 29. Photographer: Linh Pham/Bloomberg",
+  "language": "en",
+  "content_hash": "f01a7e0c90c9162a",
+  "company": null,
+  "from_location": "Hanoi",
+  "to_location": null,
+  "id": "ca12457e50c04d11",
+  "url_hash": "ca12457e50c04d11",
+  "text": "Vietnam Inflation Quickens as Iran War Raises Energy Costs. Motorists in traffic in Hanoi, Vietnam, on Tuesday, March 21, 2023. Vietnam is scheduled to release it's annual gross domestic product (GDP) figures on March 29. Photographer: Linh Pham/Bloomberg",
+  "fetched_at": "2026-05-03T03:04:23.860001+00:00",
+  "analysis_status": "processed",
+  "event_type": null,
+  "summary_tr": "Vietnam'de İran Savaşı enerji maliyetlerini artırdı, enflasyon hızlandı.",
+  "sector": "Energy|Logistics",
+  "subsector": null,
+  "timeline": "2023-03-29",
+  "capex_eur": null,
+  "jobs_impact": null,
+  "line_type": null,
+  "equipment_keywords": [],
+  "signal_type": "negative",
+  "ai_confidence": 0.75,
+  "reasoning": "The article mentions the impact of the Iran war on energy costs, which is likely to increase inflation in Vietnam.",
+  "assumptions": [],
+  "bios_fit": {
+    "score": 25,
+    "score_final": 25,
+    "raw_score": 25.25,
+    "confidence": 0.4,
+    "components": {
+      "E": 0.1,
+      "A": 0.35,
+      "G": 0.1,
+      "T": 0.2,
+      "C": 0.85
+    },
+    "adjustments": {
+      "sector_mult": 1.0,
+      "industry_focus": 1.0,
+      "industry_bonus": 0.0,
+      "freshness_bonus": 0.0,
+      "confidence_penalty": false,
+      "graph_delta": 0.0
+    },
+    "label": "Düşük Alaka",
+    "color": "gray",
+    "action": "archive",
+    "source_tier": "tier1",
+    "audit_trail": [
+      {
+        "step": 1,
+        "title": "Alan Kontrolü",
+        "detail": "from_location=✅ | sector=✅ | company=❌ | to_location=❌ | event_type=❌",
+        "confidence": 0.4,
+        "filled_count": 2,
+        "total_fields": 5
+      },
+      {
+        "step": 2,
+        "title": "BIOS Bileşen Puanları",
+        "detail": "E(Olay)=0.1×0.30=0.03 | A(Aktör)=0.35×0.25=0.09 | G(Coğrafya)=0.1×0.20=0.02 | T(Zaman)=0.2×0.15=0.03 | C(Kaynak)=0.85×0.10=0.085",
+        "raw_score": 25.25,
+        "components": {
+          "E": 0.1,
+          "A": 0.35,
+          "G": 0.1,
+          "T": 0.2,
+          "C": 0.85
+        }
+      },
+      {
+        "step": 3,
+        "title": "Düzeltmeler",
+        "detail": "Düzeltme uygulanmadı",
+        "adjustments": {
+          "sector_mult": 1.0,
+          "industry_focus": 1.0,
+          "industry_bonus": 0.0,
+          "freshness_bonus": 0.0,
+          "confidence_penalty": false,
+          "graph_delta": 0.0
+        }
+      },
+      {
+        "step": 4,
+        "title": "Nihai Skor",
+        "detail": "Ham=25.25 → Düzeltmeli → Final=25 (Düşük Alaka)",
+        "final_score": 25,
+        "label": "Düşük Alaka",
+        "color": "gray"
+      }
+    ]
+  },
+  "synapse_score": 7,
+  "synapse_breakdown": [
+    {
+      "reason": "Ağ Taban Puanı",
+      "points": 5.0,
+      "type": "base"
+    },
+    {
+      "reason": "Bağlantı Yoğunluğu (0 bağ)",
+      "points": 0.0,
+      "type": "connectivity"
+    },
+    {
+      "reason": "Anlamsal Yakınlık (şirket:0, lokasyon:0, olay:0, sektör:0)",
+      "points": 0.0,
+      "type": "semantic"
+    },
+    {
+      "reason": "Momentum (poz:0, neg:0)",
+      "points": 0.0,
+      "type": "momentum"
+    },
+    {
+      "reason": "Tazelik (48s içinde komşu:0)",
+      "points": 0.0,
+      "type": "recency"
+    },
+    {
+      "reason": "Toplam",
+      "points": 7,
+      "type": "total"
+    }
+  ],
+  "graph_neighbors": []
+}

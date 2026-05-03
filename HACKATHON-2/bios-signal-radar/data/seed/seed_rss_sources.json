@@ -1,0 +1,16 @@
+[
+  {
+    "id": "rss_reuters",
+    "url": "https://www.reuters.com/tools/rss/business",
+    "name": "Reuters Business",
+    "status": "active",
+    "added_at": "2026-05-01T00:00:00Z"
+  },
+  {
+    "id": "rss_handelsblatt",
+    "url": "https://www.handelsblatt.com/contentexport/feed/unternehmen",
+    "name": "Handelsblatt Unternehmen",
+    "status": "active",
+    "added_at": "2026-05-01T00:00:00Z"
+  }
+]

@@ -1,0 +1,198 @@
+{
+  "title": "Inside the Booming Market for Dinosaur Fossils | Odd Lots",
+  "original_url": "https://www.bloomberg.com/news/videos/2026-05-02/inside-the-booming-market-for-dinosaur-fossils-video",
+  "content": "Two years ago, Citadel's Ken Griffin paid almost $45 million for a stegosaurus skeleton, making it the most expensive fossil ever sold at auction. So why are dinosaur bones joining the collections of millionaires instead of museums? How does the private market for fossils actually work? And how similar is it to the market for art and other antiquities? In this episode, we speak with Salomon Aaron, a director at London-based gallery David Aaron, where he is the gallery's in-house broker for dinosaur fossils. We talk about how fossils are found and priced, what it's like to work alongside dinosaur hunters, how his gallery identifies potential buyers, and why Joe thinks something about the birds-to-dinosaurs evolutionary pipeline is off. (Source: Bloomberg)",
+  "source_id": "rss_bloomberg_tech",
+  "source_name": "Bloomberg Technology",
+  "source_url": "https://feeds.bloomberg.com/technology/news.rss",
+  "published_at": "2026-05-02T08:12:58+00:00",
+  "raw_hash": "ef7c999bed71d11a",
+  "content_preview": "Two years ago, Citadel's Ken Griffin paid almost $45 million for a stegosaurus skeleton, making it the most expensive fossil ever sold at auction. So why are dinosaur bones joining the collections of millionaires instead of museums? How does the private market for fossils actually work? And how simi",
+  "language": "en",
+  "content_hash": "441edd47cc01cc10",
+  "company": "David Aaron",
+  "from_location": null,
+  "to_location": null,
+  "id": "ef7c999bed71d11a",
+  "url_hash": "ef7c999bed71d11a",
+  "text": "Inside the Booming Market for Dinosaur Fossils | Odd Lots. Two years ago, Citadel's Ken Griffin paid almost $45 million for a stegosaurus skeleton, making it the most expensive fossil ever sold at auction. So why are dinosaur bones joining the collections of millionaires instead of museums? How does the private market for fossils actually work? And how similar is it to the market for art and other antiquities? In this episode, we speak with Salomon Aaron, a director at London-based gallery David Aaron, where he is the gallery's in-house broker for dinosaur fossils. We talk about how fossils are found and priced, what it's like to work alongside dinosaur hunters, how his gallery identifies potential buyers, and why Joe thinks something about the birds-to-dinosaurs evolutionary pipeline is off. (Source: Bloomberg)",
+  "fetched_at": "2026-05-03T02:07:28.320634+00:00",
+  "analysis_status": "processed",
+  "event_type": null,
+  "summary_tr": "Müşteriler için dinozor kemikleri müzelerden ziyade koleksiyonlara katılıyor. Fosil marketinin nasıl çalıştığı ve sanat ve diğer antikiteklerle benzerliği üzerine konuşuyoruz.",
+  "sector": "Other",
+  "subsector": null,
+  "timeline": null,
+  "capex_eur": null,
+  "jobs_impact": null,
+  "line_type": null,
+  "equipment_keywords": [],
+  "signal_type": "neutral",
+  "ai_confidence": 0.75,
+  "reasoning": "The private market for fossils is driven by the demand from millionaires and collectors, similar to the market for art and other antiquities.",
+  "assumptions": [],
+  "bios_fit": {
+    "score": 27,
+    "score_final": 27,
+    "raw_score": 27.0,
+    "confidence": 0.4,
+    "components": {
+      "E": 0.1,
+      "A": 0.5,
+      "G": 0.0,
+      "T": 0.2,
+      "C": 0.85
+    },
+    "adjustments": {
+      "sector_mult": 1.0,
+      "industry_focus": 1.0,
+      "industry_bonus": 0.0,
+      "freshness_bonus": 0.0,
+      "confidence_penalty": false,
+      "graph_delta": 0.0
+    },
+    "label": "Düşük Alaka",
+    "color": "gray",
+    "action": "archive",
+    "source_tier": "tier1",
+    "audit_trail": [
+      {
+        "step": 1,
+        "title": "Alan Kontrolü",
+        "detail": "company=✅ | sector=✅ | from_location=❌ | to_location=❌ | event_type=❌",
+        "confidence": 0.4,
+        "filled_count": 2,
+        "total_fields": 5
+      },
+      {
+        "step": 2,
+        "title": "BIOS Bileşen Puanları",
+        "detail": "E(Olay)=0.1×0.30=0.03 | A(Aktör)=0.5×0.25=0.12 | G(Coğrafya)=0.0×0.20=0.00 | T(Zaman)=0.2×0.15=0.03 | C(Kaynak)=0.85×0.10=0.085",
+        "raw_score": 27.0,
+        "components": {
+          "E": 0.1,
+          "A": 0.5,
+          "G": 0.0,
+          "T": 0.2,
+          "C": 0.85
+        }
+      },
+      {
+        "step": 3,
+        "title": "Düzeltmeler",
+        "detail": "Düzeltme uygulanmadı",
+        "adjustments": {
+          "sector_mult": 1.0,
+          "industry_focus": 1.0,
+          "industry_bonus": 0.0,
+          "freshness_bonus": 0.0,
+          "confidence_penalty": false,
+          "graph_delta": 0.0
+        }
+      },
+      {
+        "step": 4,
+        "title": "Nihai Skor",
+        "detail": "Ham=27.0 → Düzeltmeli → Final=27 (Düşük Alaka)",
+        "final_score": 27,
+        "label": "Düşük Alaka",
+        "color": "gray"
+      }
+    ]
+  },
+  "synapse_score": 36,
+  "synapse_breakdown": [
+    {
+      "reason": "Ağ Taban Puanı",
+      "points": 5.0,
+      "type": "base"
+    },
+    {
+      "reason": "Bağlantı Yoğunluğu (5 bağ)",
+      "points": 14.3,
+      "type": "connectivity"
+    },
+    {
+      "reason": "Anlamsal Yakınlık (şirket:0, lokasyon:0, olay:0, sektör:5)",
+      "points": 2.7,
+      "type": "semantic"
+    },
+    {
+      "reason": "Momentum (poz:3, neg:2)",
+      "points": 3.0,
+      "type": "momentum"
+    },
+    {
+      "reason": "Tazelik (48s içinde komşu:0)",
+      "points": 0.0,
+      "type": "recency"
+    },
+    {
+      "reason": "Toplam",
+      "points": 36,
+      "type": "total"
+    }
+  ],
+  "graph_neighbors": [
+    {
+      "id": "3b596f865f1978a2",
+      "title": "Telefónica and Sateliot target hybrid 5G-satellite coverage for defense and remote operations",
+      "company": "Telefónica España",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 44,
+      "relationship": "neutral_to_positive",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "35da28cb53ec4301",
+      "title": "Using IoT to Enable Predictive Facility Management in Large Enterprises",
+      "company": null,
+      "event_type": "restructuring",
+      "signal_type": "positive",
+      "score": 26,
+      "relationship": "neutral_to_positive",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "b425319545a9db01",
+      "title": "İstanbul'u boşaltacak Anadolu planı! Fabrikalar taşınacak - babaocagi.com.tr",
+      "company": null,
+      "event_type": "relocation",
+      "signal_type": "negative",
+      "score": 56,
+      "relationship": "neutral_to_negative",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "57641511af83052d",
+      "title": "Türkiye’nin fabrikaları tırlarla Mısır’a taşınıyor - Hürseda Haber",
+      "company": null,
+      "event_type": "relocation",
+      "signal_type": "positive",
+      "score": 69,
+      "relationship": "neutral_to_positive",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "b7a8afd175de3af0",
+      "title": "Su krizi, içecek devini vurdu: Fabrika İzmir'den taşınıyor iddiası! - Gündeme Bakış",
+      "company": null,
+      "event_type": "relocation",
+      "signal_type": "negative",
+      "score": 49,
+      "relationship": "neutral_to_negative",
+      "reasons": [
+        "same_sector"
+      ]
+    }
+  ]
+}

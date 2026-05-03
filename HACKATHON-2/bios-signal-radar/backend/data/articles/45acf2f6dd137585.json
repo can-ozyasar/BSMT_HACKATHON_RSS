@@ -1,0 +1,139 @@
+{
+  "title": "Why Vibe Coding Isn’t the End of the Software Engineer",
+  "original_url": "https://www.bloomberg.com/news/videos/2026-05-02/why-vibe-coding-isn-t-the-end-of-the-software-engineer-video",
+  "content": "Generative AI has turned coding from a specialized skill into something anyone can do with a simple prompt. A warehouse owner is revolutionizing his shipping software with AI and a creative designer vibe coded her first app with zero technical experience. Computer programmers are doing it too, but a director at Google Cloud AI says vibe coding does not mean the end of serious engineering. As professionals and hobbyists alike are writing code with AI, hiring for junior developers is falling fast and researchers warn companies are making a dangerous short-term bet. (Source: Bloomberg)",
+  "source_id": "rss_bloomberg_tech",
+  "source_name": "Bloomberg Technology",
+  "source_url": "https://feeds.bloomberg.com/technology/news.rss",
+  "published_at": "2026-05-02T14:04:46+00:00",
+  "raw_hash": "45acf2f6dd137585",
+  "content_preview": "Generative AI has turned coding from a specialized skill into something anyone can do with a simple prompt. A warehouse owner is revolutionizing his shipping software with AI and a creative designer vibe coded her first app with zero technical experience. Computer programmers are doing it too, but a",
+  "language": "en",
+  "content_hash": "0bd27761d7df3a9d",
+  "company": null,
+  "from_location": null,
+  "to_location": null,
+  "id": "45acf2f6dd137585",
+  "url_hash": "45acf2f6dd137585",
+  "text": "Why Vibe Coding Isn’t the End of the Software Engineer. Generative AI has turned coding from a specialized skill into something anyone can do with a simple prompt. A warehouse owner is revolutionizing his shipping software with AI and a creative designer vibe coded her first app with zero technical experience. Computer programmers are doing it too, but a director at Google Cloud AI says vibe coding does not mean the end of serious engineering. As professionals and hobbyists alike are writing code with AI, hiring for junior developers is falling fast and researchers warn companies are making a dangerous short-term bet. (Source: Bloomberg)",
+  "fetched_at": "2026-05-03T02:06:26.539233+00:00",
+  "analysis_status": "processed",
+  "event_type": "other",
+  "summary_tr": "Sürümlü kodlama yazılım geliştirme devrimini dönüştürüyor; Google Cloud AI direktörü bunun ciddi mühendisliklerin sonu olmadığını diyor.",
+  "sector": "Software|Technology|null",
+  "subsector": null,
+  "timeline": "2023-2024, or null",
+  "capex_eur": null,
+  "jobs_impact": {
+    "junior_developers": "falling fast"
+  },
+  "line_type": null,
+  "equipment_keywords": [],
+  "signal_type": "neutral",
+  "ai_confidence": 0.75,
+  "reasoning": "The article highlights the impact of generative AI on software development, but a Google Cloud AI director's statement suggests that it doesn't necessarily mean the end of serious engineering.",
+  "assumptions": [],
+  "bios_fit": {
+    "score": 13,
+    "score_final": 13,
+    "raw_score": 24.5,
+    "confidence": 0.2,
+    "components": {
+      "E": 0.1,
+      "A": 0.1,
+      "G": 0.0,
+      "T": 0.7,
+      "C": 0.85
+    },
+    "adjustments": {
+      "sector_mult": 1.0,
+      "industry_focus": 1.0,
+      "industry_bonus": 0.0,
+      "freshness_bonus": 0.0,
+      "confidence_penalty": true,
+      "graph_delta": 0.0
+    },
+    "label": "Düşük Alaka",
+    "color": "gray",
+    "action": "archive",
+    "source_tier": "tier1",
+    "audit_trail": [
+      {
+        "step": 1,
+        "title": "Alan Kontrolü",
+        "detail": "sector=✅ | company=❌ | from_location=❌ | to_location=❌ | event_type=❌",
+        "confidence": 0.2,
+        "filled_count": 1,
+        "total_fields": 5
+      },
+      {
+        "step": 2,
+        "title": "BIOS Bileşen Puanları",
+        "detail": "E(Olay)=0.1×0.30=0.03 | A(Aktör)=0.1×0.25=0.03 | G(Coğrafya)=0.0×0.20=0.00 | T(Zaman)=0.7×0.15=0.10 | C(Kaynak)=0.85×0.10=0.085",
+        "raw_score": 24.5,
+        "components": {
+          "E": 0.1,
+          "A": 0.1,
+          "G": 0.0,
+          "T": 0.7,
+          "C": 0.85
+        }
+      },
+      {
+        "step": 3,
+        "title": "Düzeltmeler",
+        "detail": "Güven Cezası×0.50",
+        "adjustments": {
+          "sector_mult": 1.0,
+          "industry_focus": 1.0,
+          "industry_bonus": 0.0,
+          "freshness_bonus": 0.0,
+          "confidence_penalty": true,
+          "graph_delta": 0.0
+        }
+      },
+      {
+        "step": 4,
+        "title": "Nihai Skor",
+        "detail": "Ham=24.5 → Düzeltmeli → Final=13 (Düşük Alaka)",
+        "final_score": 13,
+        "label": "Düşük Alaka",
+        "color": "gray"
+      }
+    ]
+  },
+  "synapse_score": 7,
+  "synapse_breakdown": [
+    {
+      "reason": "Ağ Taban Puanı",
+      "points": 5.0,
+      "type": "base"
+    },
+    {
+      "reason": "Bağlantı Yoğunluğu (0 bağ)",
+      "points": 0.0,
+      "type": "connectivity"
+    },
+    {
+      "reason": "Anlamsal Yakınlık (şirket:0, lokasyon:0, olay:0, sektör:0)",
+      "points": 0.0,
+      "type": "semantic"
+    },
+    {
+      "reason": "Momentum (poz:0, neg:0)",
+      "points": 0.0,
+      "type": "momentum"
+    },
+    {
+      "reason": "Tazelik (48s içinde komşu:0)",
+      "points": 0.0,
+      "type": "recency"
+    },
+    {
+      "reason": "Toplam",
+      "points": 7,
+      "type": "total"
+    }
+  ],
+  "graph_neighbors": []
+}

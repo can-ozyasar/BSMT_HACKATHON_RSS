@@ -1,0 +1,137 @@
+{
+  "title": "BSX Deadline: BSX Investors Have Opportunity to Lead Boston Scientific Corporation Securities Fraud Lawsuit",
+  "original_url": "https://www.prnewswire.com/news-releases/bsx-deadline-bsx-investors-have-opportunity-to-lead-boston-scientific-corporation-securities-fraud-lawsuit-302760431.html",
+  "content": "NEW YORK, May 2, 2026 /PRNewswire/ -- Why: Rosen Law Firm, a global investor rights law firm, reminds purchasers of common stock of Boston Scientific Corporation (NYSE: BSX) between July 23, 2025 and February 3, 2026, inclusive (the \"Class Period\"), of the important May 4, 2026 lead...",
+  "source_id": "rss_f089920f",
+  "source_name": "PR Newswire",
+  "source_url": "https://www.prnewswire.com/rss/news-releases-list.rss",
+  "published_at": "2026-05-02T21:00:00+00:00",
+  "raw_hash": "2aff80d862466b3c",
+  "content_preview": "NEW YORK, May 2, 2026 /PRNewswire/ -- Why: Rosen Law Firm, a global investor rights law firm, reminds purchasers of common stock of Boston Scientific Corporation (NYSE: BSX) between July 23, 2025 and February 3, 2026, inclusive (the \"Class Period\"), of the important May 4, 2026 lead...",
+  "language": "en",
+  "content_hash": "394bba057bcf2792",
+  "company": "Boston Scientific Corporation",
+  "from_location": "New York",
+  "to_location": null,
+  "id": "2aff80d862466b3c",
+  "url_hash": "2aff80d862466b3c",
+  "text": "BSX Deadline: BSX Investors Have Opportunity to Lead Boston Scientific Corporation Securities Fraud Lawsuit. NEW YORK, May 2, 2026 /PRNewswire/ -- Why: Rosen Law Firm, a global investor rights law firm, reminds purchasers of common stock of Boston Scientific Corporation (NYSE: BSX) between July 23, 2025 and February 3, 2026, inclusive (the \"Class Period\"), of the important May 4, 2026 lead...",
+  "fetched_at": "2026-05-02T23:51:51.728355+00:00",
+  "analysis_status": "processed",
+  "event_type": "lawsuit",
+  "summary_tr": null,
+  "sector": "Healthcare|Medical Devices|null",
+  "subsector": null,
+  "timeline": "July 23, 2025 - February 3, 2026",
+  "capex_eur": null,
+  "jobs_impact": null,
+  "line_type": null,
+  "equipment_keywords": [],
+  "signal_type": "negative",
+  "ai_confidence": 0.75,
+  "reasoning": "The lawsuit is a negative signal for the company, indicating potential securities fraud.",
+  "assumptions": [],
+  "bios_fit": {
+    "score": 44,
+    "score_final": 44,
+    "raw_score": 44.25,
+    "confidence": 0.8,
+    "components": {
+      "E": 0.1,
+      "A": 0.75,
+      "G": 0.1,
+      "T": 1.0,
+      "C": 0.55
+    },
+    "adjustments": {
+      "sector_mult": 1.0,
+      "industry_focus": 1.0,
+      "industry_bonus": 0.0,
+      "freshness_bonus": 0.0,
+      "confidence_penalty": false,
+      "graph_delta": 0.0
+    },
+    "label": "Düşük Alaka",
+    "color": "gray",
+    "action": "archive",
+    "source_tier": "general",
+    "audit_trail": [
+      {
+        "step": 1,
+        "title": "Alan Kontrolü",
+        "detail": "company=✅ | from_location=✅ | sector=✅ | event_type=✅ | to_location=❌",
+        "confidence": 0.8,
+        "filled_count": 4,
+        "total_fields": 5
+      },
+      {
+        "step": 2,
+        "title": "BIOS Bileşen Puanları",
+        "detail": "E(Olay)=0.1×0.30=0.03 | A(Aktör)=0.75×0.25=0.19 | G(Coğrafya)=0.1×0.20=0.02 | T(Zaman)=1.0×0.15=0.15 | C(Kaynak)=0.55×0.10=0.055",
+        "raw_score": 44.25,
+        "components": {
+          "E": 0.1,
+          "A": 0.75,
+          "G": 0.1,
+          "T": 1.0,
+          "C": 0.55
+        }
+      },
+      {
+        "step": 3,
+        "title": "Düzeltmeler",
+        "detail": "Düzeltme uygulanmadı",
+        "adjustments": {
+          "sector_mult": 1.0,
+          "industry_focus": 1.0,
+          "industry_bonus": 0.0,
+          "freshness_bonus": 0.0,
+          "confidence_penalty": false,
+          "graph_delta": 0.0
+        }
+      },
+      {
+        "step": 4,
+        "title": "Nihai Skor",
+        "detail": "Ham=44.25 → Düzeltmeli → Final=44 (Düşük Alaka)",
+        "final_score": 44,
+        "label": "Düşük Alaka",
+        "color": "gray"
+      }
+    ]
+  },
+  "synapse_score": 7,
+  "synapse_breakdown": [
+    {
+      "reason": "Ağ Taban Puanı",
+      "points": 5.0,
+      "type": "base"
+    },
+    {
+      "reason": "Bağlantı Yoğunluğu (0 bağ)",
+      "points": 0.0,
+      "type": "connectivity"
+    },
+    {
+      "reason": "Anlamsal Yakınlık (şirket:0, lokasyon:0, olay:0, sektör:0)",
+      "points": 0.0,
+      "type": "semantic"
+    },
+    {
+      "reason": "Momentum (poz:0, neg:0)",
+      "points": 0.0,
+      "type": "momentum"
+    },
+    {
+      "reason": "Tazelik (48s içinde komşu:0)",
+      "points": 0.0,
+      "type": "recency"
+    },
+    {
+      "reason": "Toplam",
+      "points": 7,
+      "type": "total"
+    }
+  ],
+  "graph_neighbors": []
+}

@@ -1,0 +1,138 @@
+{
+  "title": "Köylünün suyla imtihanı, mezarlar bir görülüyor bir kayboluyor",
+  "original_url": "https://www.haberler.com/cevre/koylunun-suyla-imtihani-mezarlar-bir-goruluyor-bir-19798943-haberi/",
+  "content": "Sivas&apos;ın Hafik ilçesinde bulunan Pusat-Özen Barajı&apos;nda kuraklıkla ortaya çıkan ve köylülerin düzenlediği köy mezarlığı, su seviyesinin artmasıyla yeniden sular altında kaldı, köy sakinleri yürüyerek gittikleri mezarlığa geçmişte olduğu gibi uzaktan bakmak zorunda kaldı.",
+  "source_id": "rss_9d9d554e",
+  "source_name": "Fabrika",
+  "source_url": "https://rss.haberler.com/rss.asp?kategori=fabrika",
+  "published_at": "2026-05-03T08:44:51+00:00",
+  "raw_hash": "499a36b4eed2c816",
+  "content_preview": "Sivas&apos;ın Hafik ilçesinde bulunan Pusat-Özen Barajı&apos;nda kuraklıkla ortaya çıkan ve köylülerin düzenlediği köy mezarlığı, su seviyesinin artmasıyla yeniden sular altında kaldı, köy sakinleri yürüyerek gittikleri mezarlığa geçmişte olduğu gibi uzaktan bakmak zorunda kaldı.",
+  "language": "tr",
+  "content_hash": "427357ef25eb22c3",
+  "company": null,
+  "from_location": "Hafik ilçesi, Sivas",
+  "to_location": null,
+  "id": "499a36b4eed2c816",
+  "url_hash": "499a36b4eed2c816",
+  "simhash_fp": 11376789387944598426,
+  "text": "Köylünün suyla imtihanı, mezarlar bir görülüyor bir kayboluyor. Sivas&apos;ın Hafik ilçesinde bulunan Pusat-Özen Barajı&apos;nda kuraklıkla ortaya çıkan ve köylülerin düzenlediği köy mezarlığı, su seviyesinin artmasıyla yeniden sular altında kaldı, köy sakinleri yürüyerek gittikleri mezarlığa geçmişte olduğu gibi uzaktan bakmak zorunda kaldı.",
+  "fetched_at": "2026-05-03T08:57:22.273070+00:00",
+  "analysis_status": "processed",
+  "event_type": null,
+  "summary_tr": "Sivas'ın Hafik ilçesindeki Pusat-Özen Barajı'nın su seviyesi yükseliyor, köy halkının organize ettiği mezarlığa sel baskın ediyor. Köy halkı şimdi mezarlıktan uzak bir yerde bakmak zorunda kalıyor.",
+  "sector": null,
+  "subsector": null,
+  "timeline": null,
+  "capex_eur": null,
+  "jobs_impact": null,
+  "line_type": null,
+  "equipment_keywords": [],
+  "signal_type": "negative",
+  "ai_confidence": 0.75,
+  "reasoning": "The article reports on a natural disaster (flood) affecting a cemetery, which is not an industrial event.",
+  "assumptions": [],
+  "bios_fit": {
+    "score": 19,
+    "score_final": 19,
+    "raw_score": 37.75,
+    "confidence": 0.2,
+    "components": {
+      "E": 0.1,
+      "A": 0.25,
+      "G": 1.0,
+      "T": 0.2,
+      "C": 0.55
+    },
+    "adjustments": {
+      "sector_mult": 1.0,
+      "industry_focus": 1.0,
+      "industry_bonus": 0.0,
+      "freshness_bonus": 0.0,
+      "confidence_penalty": true,
+      "graph_delta": 0.0
+    },
+    "label": "Düşük Alaka",
+    "color": "gray",
+    "action": "archive",
+    "source_tier": "general",
+    "audit_trail": [
+      {
+        "step": 1,
+        "title": "Alan Kontrolü",
+        "detail": "from_location=✅ | company=❌ | to_location=❌ | sector=❌ | event_type=❌",
+        "confidence": 0.2,
+        "filled_count": 1,
+        "total_fields": 5
+      },
+      {
+        "step": 2,
+        "title": "BIOS Bileşen Puanları",
+        "detail": "E(Olay)=0.1×0.30=0.03 | A(Aktör)=0.25×0.25=0.06 | G(Coğrafya)=1.0×0.20=0.20 | T(Zaman)=0.2×0.15=0.03 | C(Kaynak)=0.55×0.10=0.055",
+        "raw_score": 37.75,
+        "components": {
+          "E": 0.1,
+          "A": 0.25,
+          "G": 1.0,
+          "T": 0.2,
+          "C": 0.55
+        }
+      },
+      {
+        "step": 3,
+        "title": "Düzeltmeler",
+        "detail": "Güven Cezası×0.50",
+        "adjustments": {
+          "sector_mult": 1.0,
+          "industry_focus": 1.0,
+          "industry_bonus": 0.0,
+          "freshness_bonus": 0.0,
+          "confidence_penalty": true,
+          "graph_delta": 0.0
+        }
+      },
+      {
+        "step": 4,
+        "title": "Nihai Skor",
+        "detail": "Ham=37.75 → Düzeltmeli → Final=19 (Düşük Alaka)",
+        "final_score": 19,
+        "label": "Düşük Alaka",
+        "color": "gray"
+      }
+    ]
+  },
+  "synapse_score": 7,
+  "synapse_breakdown": [
+    {
+      "reason": "Ağ Taban Puanı",
+      "points": 5.0,
+      "type": "base"
+    },
+    {
+      "reason": "Bağlantı Yoğunluğu (0 bağ)",
+      "points": 0.0,
+      "type": "connectivity"
+    },
+    {
+      "reason": "Anlamsal Yakınlık (şirket:0, lokasyon:0, olay:0, sektör:0)",
+      "points": 0.0,
+      "type": "semantic"
+    },
+    {
+      "reason": "Momentum (poz:0, neg:0)",
+      "points": 0.0,
+      "type": "momentum"
+    },
+    {
+      "reason": "Tazelik (48s içinde komşu:0)",
+      "points": 0.0,
+      "type": "recency"
+    },
+    {
+      "reason": "Toplam",
+      "points": 7,
+      "type": "total"
+    }
+  ],
+  "graph_neighbors": []
+}

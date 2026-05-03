@@ -1,0 +1,344 @@
+{
+  "title": "Nexteer puts steer-by-wire into series production",
+  "original_url": "https://www.just-auto.com/news/nexteer-puts-steer-by-wire-into-series-production/",
+  "content": "Steering systems specialist Nexteer Automotive says it has started series production of its steer-by-wire (SbW) system—its first SbW program in series production. The system launched on a production passenger vehicle for a leading Chinese new energy vehicle (NEV) manufacturer, helping to bring the world’s first production passenger vehicle with a full drive‑by‑wire chassis to market. Nexteer says the vehicle features Nexteer’s steer‑by‑wire (SbW) system as a key enabler. The SbW featured in this vehicle marks Nexteer’s first SbW system in series production, representing a ‘major step forward for the technology — moving from development and validation to full-scale production’. Certified in late 2025, this system achieved ASIL D functional safety approval from DAkkS (German Accreditation Body) through close collaboration with the OEM. This certification reflects global top-tier performance in fault diagnosis, redundancy, and safety monitoring, Nexteer says. According to Nexteer, key features include: Multi-layered redundancy design: Dual controllers, dual power supplies, multiple communication links, and dual actuation paths — achieving redundancy at system, hardware, and software levels. This ensures that in the event of a single fault, the backup path takes over within milliseconds with no loss of steering function. Full‑scenario functional safety mechanism: Multi‑level monitoring and fault handling strategies covering sensors, controllers, actuators, and communication links. Adjustable steering ratio: Automatically adjusts steering angle and effort based on vehicle speed and driving mode, balancing agility and comfort. Intuitive road‑feel simulation technology: Software‑defined steering feedback delivers a more responsive and precise driving experience, adaptable to a wide range of driving scenarios. Open interface for autonomous driving: As a key actuation layer for ADAS and autonomous driving systems, it provides real‑time, precise control capabilities, supporti",
+  "source_id": "rss_24c8e38e",
+  "source_name": "Just Auto",
+  "source_url": "https://www.just-auto.com/feed/",
+  "published_at": "2026-04-30T16:49:32+00:00",
+  "raw_hash": "119010a7cdd71dac",
+  "content_preview": "Steering systems specialist Nexteer Automotive says it has started series production of its steer-by-wire (SbW) system—its first SbW program in series production. The system launched on a production passenger vehicle for a leading Chinese new energy vehicle (NEV) manufacturer, helping to bring the w",
+  "language": "en",
+  "content_hash": "56ed02da1dcbe806",
+  "company": "Nexteer Automotive",
+  "from_location": null,
+  "to_location": "China",
+  "id": "119010a7cdd71dac",
+  "url_hash": "119010a7cdd71dac",
+  "text": "Nexteer puts steer-by-wire into series production. Steering systems specialist Nexteer Automotive says it has started series production of its steer-by-wire (SbW) system—its first SbW program in series production. The system launched on a production passenger vehicle for a leading Chinese new energy vehicle (NEV) manufacturer, helping to bring the world’s first production passenger vehicle with a full drive‑by‑wire chassis to market. Nexteer says the vehicle features Nexteer’s steer‑by‑wire (SbW) system as a key enabler. The SbW featured in this vehicle marks Nexteer’s first SbW system in series production, representing a ‘major step forward for the technology — moving from development and validation to full-scale production’. Certified in late 2025, this system achieved ASIL D functional safety approval from DAkkS (German Accreditation Body) through close collaboration with the OEM. This certification reflects global top-tier performance in fault diagnosis, redundancy, and safety monitoring, Nexteer says. According to Nexteer, key features include: Multi-layered redundancy design: Dual controllers, dual power supplies, multiple communication links, and dual actuation paths — achieving redundancy at system, hardware, and software levels. This ensures that in the event of a single fault, the backup path takes over within milliseconds with no loss of steering function. Full‑scenario functional safety mechanism: Multi‑level monitoring and fault handling strategies covering sensors, controllers, actuators, and communication links. Adjustable steering ratio: Automatically adjusts steering angle and effort based on vehicle speed and driving mode, balancing agility and comfort. Intuitive road‑feel simulation technology: Software‑defined steering feedback delivers a more responsive and precise driving experience, adaptable to a wide range of driving scenarios. Open interface for autonomous driving: As a key actuation layer for ADAS and autonomous driving systems, it provides real‑time, precise control capabilities, supporti",
+  "fetched_at": "2026-05-02T19:20:52.040323+00:00",
+  "analysis_status": "processed",
+  "event_type": "expansion",
+  "summary_tr": "Direksiyon sistemleri uzmanı Nexteer Automotive, direksiyon-tel-ile (steer-by-wire - SbW) sisteminin seri üretimine başladığını duyurdu. Bu sistem, Çinli önde gelen bir yeni enerji aracı (NEV) üreticisi için bir binek araçta kullanılarak dünyanın ilk tam tel-ile-sürüş şasili binek aracının pazara sunulmasına yardımcı oldu. Sistem, geliştirme ve doğrulama aşamasından tam ölçekli üretime geçerek teknoloji için önemli bir adım teşkil etmektedir ve ASIL D fonksiyonel güvenlik onayı almıştır.",
+  "sector": "Otomotiv",
+  "subsector": "Direksiyon Sistemleri, Yeni Enerji Araçları (NEV)",
+  "timeline": "Current",
+  "capex_eur": null,
+  "jobs_impact": null,
+  "line_type": "Steer-by-Wire (SbW) sistemleri",
+  "equipment_keywords": [
+    "steer-by-wire system",
+    "dual controllers",
+    "dual power supplies",
+    "communication links",
+    "dual actuation paths",
+    "sensors",
+    "actuators",
+    "ADAS",
+    "autonomous driving systems"
+  ],
+  "signal_type": "positive",
+  "ai_confidence": 0.75,
+  "reasoning": "Nexteer'in gelişmiş steer-by-wire (SbW) sisteminin seri üretimine başlaması, şirketin teknolojik kapasitesinde ve pazar erişiminde önemli bir genişlemeyi temsil etmektedir. Bu, özellikle Çinli bir NEV üreticisi ile yapılan anlaşma ve ASIL D güvenlik sertifikası, şirketin inovasyonunu ve rekabet gücünü artırdığını göstermektedir.",
+  "assumptions": [],
+  "bios_fit": {
+    "score": 53,
+    "score_final": 53,
+    "raw_score": 53.25,
+    "confidence": 0.8,
+    "components": {
+      "E": 0.75,
+      "A": 0.75,
+      "G": 0.1,
+      "T": 0.2,
+      "C": 0.7
+    },
+    "adjustments": {
+      "sector_mult": 1.0,
+      "industry_focus": 1.2,
+      "industry_bonus": 0.0,
+      "freshness_bonus": 0.0,
+      "confidence_penalty": false,
+      "graph_delta": 0.0
+    },
+    "label": "Şartlı İlgi",
+    "color": "yellow",
+    "action": "monitor",
+    "source_tier": "sector",
+    "audit_trail": [
+      {
+        "step": 1,
+        "title": "Alan Kontrolü",
+        "detail": "company=✅ | to_location=✅ | sector=✅ | event_type=✅ | from_location=❌",
+        "confidence": 0.8,
+        "filled_count": 4,
+        "total_fields": 5
+      },
+      {
+        "step": 2,
+        "title": "BIOS Bileşen Puanları",
+        "detail": "E(Olay)=0.75×0.30=0.22 | A(Aktör)=0.75×0.25=0.19 | G(Coğrafya)=0.1×0.20=0.02 | T(Zaman)=0.2×0.15=0.03 | C(Kaynak)=0.7×0.10=0.070",
+        "raw_score": 53.25,
+        "components": {
+          "E": 0.75,
+          "A": 0.75,
+          "G": 0.1,
+          "T": 0.2,
+          "C": 0.7
+        }
+      },
+      {
+        "step": 3,
+        "title": "Düzeltmeler",
+        "detail": "Düzeltme uygulanmadı",
+        "adjustments": {
+          "sector_mult": 1.0,
+          "industry_focus": 1.2,
+          "industry_bonus": 0.0,
+          "freshness_bonus": 0.0,
+          "confidence_penalty": false,
+          "graph_delta": 0.0
+        }
+      },
+      {
+        "step": 4,
+        "title": "Nihai Skor",
+        "detail": "Ham=53.25 → Düzeltmeli → Final=53 (Şartlı İlgi)",
+        "final_score": 53,
+        "label": "Şartlı İlgi",
+        "color": "yellow"
+      }
+    ]
+  },
+  "synapse_score": 77,
+  "synapse_breakdown": [
+    {
+      "reason": "Ağ Taban Puanı",
+      "points": 5.0,
+      "type": "base"
+    },
+    {
+      "reason": "Bağlantı Yoğunluğu (16 bağ)",
+      "points": 22.7,
+      "type": "connectivity"
+    },
+    {
+      "reason": "Anlamsal Yakınlık (şirket:0, lokasyon:0, olay:15, sektör:5)",
+      "points": 11.0,
+      "type": "semantic"
+    },
+    {
+      "reason": "Momentum (poz:15, neg:1)",
+      "points": 8.0,
+      "type": "momentum"
+    },
+    {
+      "reason": "Tazelik (48s içinde komşu:9)",
+      "points": 7.0,
+      "type": "recency"
+    },
+    {
+      "reason": "Toplam",
+      "points": 77,
+      "type": "total"
+    }
+  ],
+  "graph_neighbors": [
+    {
+      "id": "731a9236658f49db",
+      "title": "Bakan Uraloğlu: Hızlı Tren Projesi&apos;nin Mersin- Adana arasını önümüzdeki sene hizmete açacağız",
+      "company": null,
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 56,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "c707f21db844d68f",
+      "title": "Nvidia’s Push Into Physical AI Sparks Rally in Asian Partners",
+      "company": "Nvidia Corp.",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 47,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "77f44acb12005fb0",
+      "title": "Globale Expansion auf der Überholspur: Exportvolumen von GAC in Übersee erreicht mit einem Anstieg von 133,9 % von Januar bis April im Vergleich zum Vorjahr neuen Höchststand",
+      "company": "GAC",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 59,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "8383fae61b0216c7",
+      "title": "Le volume des exportations de GAC atteint de nouveaux sommets, avec une hausse de 133,9 % en glissement annuel de janvier à avril, alors que son expansion mondiale s'accélère",
+      "company": "GAC",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 51,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "seed_northvolt_001",
+      "title": "Northvolt secures $5B for first circular gigafactory in Sweden",
+      "company": "Northvolt",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 80,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "seed_vw_002",
+      "title": "Volkswagen shifts EV production to new €2B Slovakia plant",
+      "company": "Volkswagen",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 87,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "6fed3367a5893fd2",
+      "title": "Hyundai unveils Pleos Connect for software-defined vehicle architecture",
+      "company": "Hyundai Motor",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 56,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_sector",
+        "same_event"
+      ]
+    },
+    {
+      "id": "0635531dffd01b3b",
+      "title": "Rivian raises US (Georgia) plant capacity by 50%",
+      "company": "Rivian",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 69,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_sector",
+        "same_event"
+      ]
+    },
+    {
+      "id": "49f3e402415fcbad",
+      "title": "Toyota plans three Maharashtra plants to lift India output – report",
+      "company": "Toyota Motor",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 56,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_sector",
+        "same_event"
+      ]
+    },
+    {
+      "id": "19649393a8163384",
+      "title": "Elektroautohersteller: Rivian reduziert Verluste und erhöht Kapazitätsplanung für neues Werk",
+      "company": "Rivian",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 63,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_sector",
+        "same_event"
+      ]
+    },
+    {
+      "id": "37f45ec030f5213f",
+      "title": "Apple Forecast Tops Estimates Even as Mac Shortages Linger",
+      "company": "Apple",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 59,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "4fbda1f1e738d884",
+      "title": "Aston Martin narrows losses despite rising debt in first quarter",
+      "company": "Aston Martin",
+      "event_type": "other",
+      "signal_type": "positive",
+      "score": 33,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "3b596f865f1978a2",
+      "title": "Telefónica and Sateliot target hybrid 5G-satellite coverage for defense and remote operations",
+      "company": "Telefónica España",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 44,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "b2e8fb1f5e95422d",
+      "title": "Cellular POS Terminals to Reach 247 Million by 2029 as Retail IoT Expands",
+      "company": null,
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 45,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "seed_stellantis_002",
+      "title": "Stellantis invests €1.5B in new EV hub in Mirafiori, Turin",
+      "company": "Stellantis",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 73,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "seed_intel_001",
+      "title": "Intel pauses €17B German chip fab in Magdeburg amid financial struggles",
+      "company": "Intel",
+      "event_type": "expansion",
+      "signal_type": "negative",
+      "score": 73,
+      "relationship": "positive_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    }
+  ]
+}

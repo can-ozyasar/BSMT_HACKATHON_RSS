@@ -1,0 +1,346 @@
+{
+  "title": "Hyundai unveils Pleos Connect for software-defined vehicle architecture",
+  "original_url": "https://www.just-auto.com/news/hyundai-unveils-pleos-connect/",
+  "content": "Hyundai Motor has introduced Pleos Connect, a new in-vehicle infotainment platform, which will debut on the Grandeur sedan in South Korea later this month. The platform is the group’s first major release under its move to a software-defined vehicle architecture. The company intends to roll out the platform across approximately 20 million vehicles spanning the Hyundai Motor, Kia and Genesis marques by 2030, with longer-term ambitions centred on what it terms artificial intelligence–defined vehicles. Central to the system is Gleo AI, a voice assistant built on a large language model. The assistant supports simultaneous processing of multiple commands, context-aware interpretation, web search functionality, and direct control of vehicle systems such as climate and navigation. It is also capable of identifying the origin of commands within the cabin, enabling zone-specific responses to different occupants. Hyundai Motor feature & CCS sub-division senior vice president and head Jongwon Lee said: “Pleos Connect is a next-generation infotainment system that offers customers an elevated mobility experience by combining a mobile-friendly platform with advanced AI technology. With the new Gleo AI and an open app market, users will experience the limitless potential of future mobility.” The cockpit layout features two screens. The primary display is divided into a driving information panel, an application zone and a shortcut bar for frequently used functions. A secondary, narrower screen sits within the driver’s eyeline, presenting speed, media and navigation data. Steering wheel and dashboard-mounted physical controls are retained alongside the touchscreen interface, and a three-finger gesture allows drivers to reposition or dismiss application windows without redirecting their attention from the road. Hyundai said the navigation system has been redesigned based on analysis of existing user behaviour, with a modular layout enabling maps and other applications to run concurren",
+  "source_id": "rss_24c8e38e",
+  "source_name": "Just Auto",
+  "source_url": "https://www.just-auto.com/feed/",
+  "published_at": "2026-05-01T13:59:56+00:00",
+  "raw_hash": "6fed3367a5893fd2",
+  "content_preview": "Hyundai Motor has introduced Pleos Connect, a new in-vehicle infotainment platform, which will debut on the Grandeur sedan in South Korea later this month. The platform is the group’s first major release under its move to a software-defined vehicle architecture. The company intends to roll out the p",
+  "language": "en",
+  "content_hash": "3f0213dd5dac11fd",
+  "company": "Hyundai Motor",
+  "from_location": null,
+  "to_location": "South Korea",
+  "id": "6fed3367a5893fd2",
+  "url_hash": "6fed3367a5893fd2",
+  "text": "Hyundai unveils Pleos Connect for software-defined vehicle architecture. Hyundai Motor has introduced Pleos Connect, a new in-vehicle infotainment platform, which will debut on the Grandeur sedan in South Korea later this month. The platform is the group’s first major release under its move to a software-defined vehicle architecture. The company intends to roll out the platform across approximately 20 million vehicles spanning the Hyundai Motor, Kia and Genesis marques by 2030, with longer-term ambitions centred on what it terms artificial intelligence–defined vehicles. Central to the system is Gleo AI, a voice assistant built on a large language model. The assistant supports simultaneous processing of multiple commands, context-aware interpretation, web search functionality, and direct control of vehicle systems such as climate and navigation. It is also capable of identifying the origin of commands within the cabin, enabling zone-specific responses to different occupants. Hyundai Motor feature & CCS sub-division senior vice president and head Jongwon Lee said: “Pleos Connect is a next-generation infotainment system that offers customers an elevated mobility experience by combining a mobile-friendly platform with advanced AI technology. With the new Gleo AI and an open app market, users will experience the limitless potential of future mobility.” The cockpit layout features two screens. The primary display is divided into a driving information panel, an application zone and a shortcut bar for frequently used functions. A secondary, narrower screen sits within the driver’s eyeline, presenting speed, media and navigation data. Steering wheel and dashboard-mounted physical controls are retained alongside the touchscreen interface, and a three-finger gesture allows drivers to reposition or dismiss application windows without redirecting their attention from the road. Hyundai said the navigation system has been redesigned based on analysis of existing user behaviour, with a modular layout enabling maps and other applications to run concurren",
+  "fetched_at": "2026-05-02T19:20:00.357615+00:00",
+  "analysis_status": "processed",
+  "event_type": "expansion",
+  "summary_tr": "Hyundai Motor, yazılım tanımlı araç mimarisine geçişi kapsamında Pleos Connect adlı yeni araç içi bilgi-eğlence platformunu tanıttı. Bu platform, Güney Kore'de Grandeur sedan modelinde piyasaya sürülecek ve 2030 yılına kadar Hyundai, Kia ve Genesis markalarında yaklaşık 20 milyon araca entegre edilecek. Sistem, büyük dil modeli tabanlı Gleo AI sesli asistanını kullanarak müşteri deneyimini geliştirmeyi hedefliyor.",
+  "sector": "Otomotiv",
+  "subsector": "Yazılım Tanımlı Araçlar, Araç İçi Bilgi-Eğlence Sistemleri, Yapay Zeka",
+  "timeline": "Bu ay sonu (ilk lansman), 2030'a kadar (genel yayılım)",
+  "capex_eur": null,
+  "jobs_impact": null,
+  "line_type": "Araç içi bilgi-eğlence platformu",
+  "equipment_keywords": [
+    "Pleos Connect",
+    "Gleo AI",
+    "büyük dil modeli",
+    "yazılım tanımlı araç mimarisi",
+    "yapay zeka tanımlı araçlar",
+    "araç içi bilgi-eğlence sistemi",
+    "kokpit düzeni",
+    "ekranlar",
+    "navigasyon sistemi",
+    "direksiyon kontrolleri",
+    "dokunmatik arayüz"
+  ],
+  "signal_type": "positive",
+  "ai_confidence": 0.75,
+  "reasoning": "Hyundai, yeni nesil bir araç içi bilgi-eğlence platformu ve yazılım tanımlı araç mimarisi ile teknolojik yeteneklerini genişletiyor. Bu, şirketin ürün yelpazesine önemli bir değer katıyor ve gelecekteki mobilite çözümlerine yatırım yaptığını gösteriyor. Yapay zeka entegrasyonu ve geniş çaplı dağıtım hedefi, olayın büyüklüğünü ve potansiyel etkisini artırıyor.",
+  "assumptions": [],
+  "bios_fit": {
+    "score": 56,
+    "score_final": 56,
+    "raw_score": 56.25,
+    "confidence": 0.8,
+    "components": {
+      "E": 0.75,
+      "A": 0.75,
+      "G": 0.1,
+      "T": 0.4,
+      "C": 0.7
+    },
+    "adjustments": {
+      "sector_mult": 1.0,
+      "industry_focus": 1.2,
+      "industry_bonus": 0.0,
+      "freshness_bonus": 0.0,
+      "confidence_penalty": false,
+      "graph_delta": 0.0
+    },
+    "label": "Şartlı İlgi",
+    "color": "yellow",
+    "action": "monitor",
+    "source_tier": "sector",
+    "audit_trail": [
+      {
+        "step": 1,
+        "title": "Alan Kontrolü",
+        "detail": "company=✅ | to_location=✅ | sector=✅ | event_type=✅ | from_location=❌",
+        "confidence": 0.8,
+        "filled_count": 4,
+        "total_fields": 5
+      },
+      {
+        "step": 2,
+        "title": "BIOS Bileşen Puanları",
+        "detail": "E(Olay)=0.75×0.30=0.22 | A(Aktör)=0.75×0.25=0.19 | G(Coğrafya)=0.1×0.20=0.02 | T(Zaman)=0.4×0.15=0.06 | C(Kaynak)=0.7×0.10=0.070",
+        "raw_score": 56.25,
+        "components": {
+          "E": 0.75,
+          "A": 0.75,
+          "G": 0.1,
+          "T": 0.4,
+          "C": 0.7
+        }
+      },
+      {
+        "step": 3,
+        "title": "Düzeltmeler",
+        "detail": "Düzeltme uygulanmadı",
+        "adjustments": {
+          "sector_mult": 1.0,
+          "industry_focus": 1.2,
+          "industry_bonus": 0.0,
+          "freshness_bonus": 0.0,
+          "confidence_penalty": false,
+          "graph_delta": 0.0
+        }
+      },
+      {
+        "step": 4,
+        "title": "Nihai Skor",
+        "detail": "Ham=56.25 → Düzeltmeli → Final=56 (Şartlı İlgi)",
+        "final_score": 56,
+        "label": "Şartlı İlgi",
+        "color": "yellow"
+      }
+    ]
+  },
+  "synapse_score": 77,
+  "synapse_breakdown": [
+    {
+      "reason": "Ağ Taban Puanı",
+      "points": 5.0,
+      "type": "base"
+    },
+    {
+      "reason": "Bağlantı Yoğunluğu (16 bağ)",
+      "points": 22.7,
+      "type": "connectivity"
+    },
+    {
+      "reason": "Anlamsal Yakınlık (şirket:0, lokasyon:0, olay:15, sektör:5)",
+      "points": 11.0,
+      "type": "semantic"
+    },
+    {
+      "reason": "Momentum (poz:15, neg:1)",
+      "points": 8.0,
+      "type": "momentum"
+    },
+    {
+      "reason": "Tazelik (48s içinde komşu:8)",
+      "points": 7.0,
+      "type": "recency"
+    },
+    {
+      "reason": "Toplam",
+      "points": 77,
+      "type": "total"
+    }
+  ],
+  "graph_neighbors": [
+    {
+      "id": "731a9236658f49db",
+      "title": "Bakan Uraloğlu: Hızlı Tren Projesi&apos;nin Mersin- Adana arasını önümüzdeki sene hizmete açacağız",
+      "company": null,
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 56,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "c707f21db844d68f",
+      "title": "Nvidia’s Push Into Physical AI Sparks Rally in Asian Partners",
+      "company": "Nvidia Corp.",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 47,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "77f44acb12005fb0",
+      "title": "Globale Expansion auf der Überholspur: Exportvolumen von GAC in Übersee erreicht mit einem Anstieg von 133,9 % von Januar bis April im Vergleich zum Vorjahr neuen Höchststand",
+      "company": "GAC",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 59,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "8383fae61b0216c7",
+      "title": "Le volume des exportations de GAC atteint de nouveaux sommets, avec une hausse de 133,9 % en glissement annuel de janvier à avril, alors que son expansion mondiale s'accélère",
+      "company": "GAC",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 51,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "seed_northvolt_001",
+      "title": "Northvolt secures $5B for first circular gigafactory in Sweden",
+      "company": "Northvolt",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 80,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "seed_vw_002",
+      "title": "Volkswagen shifts EV production to new €2B Slovakia plant",
+      "company": "Volkswagen",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 87,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "0635531dffd01b3b",
+      "title": "Rivian raises US (Georgia) plant capacity by 50%",
+      "company": "Rivian",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 69,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_sector",
+        "same_event"
+      ]
+    },
+    {
+      "id": "49f3e402415fcbad",
+      "title": "Toyota plans three Maharashtra plants to lift India output – report",
+      "company": "Toyota Motor",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 56,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_sector",
+        "same_event"
+      ]
+    },
+    {
+      "id": "19649393a8163384",
+      "title": "Elektroautohersteller: Rivian reduziert Verluste und erhöht Kapazitätsplanung für neues Werk",
+      "company": "Rivian",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 63,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_sector",
+        "same_event"
+      ]
+    },
+    {
+      "id": "37f45ec030f5213f",
+      "title": "Apple Forecast Tops Estimates Even as Mac Shortages Linger",
+      "company": "Apple",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 59,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "119010a7cdd71dac",
+      "title": "Nexteer puts steer-by-wire into series production",
+      "company": "Nexteer Automotive",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 53,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_sector",
+        "same_event"
+      ]
+    },
+    {
+      "id": "4fbda1f1e738d884",
+      "title": "Aston Martin narrows losses despite rising debt in first quarter",
+      "company": "Aston Martin",
+      "event_type": "other",
+      "signal_type": "positive",
+      "score": 33,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "3b596f865f1978a2",
+      "title": "Telefónica and Sateliot target hybrid 5G-satellite coverage for defense and remote operations",
+      "company": "Telefónica España",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 44,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "b2e8fb1f5e95422d",
+      "title": "Cellular POS Terminals to Reach 247 Million by 2029 as Retail IoT Expands",
+      "company": null,
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 45,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "seed_stellantis_002",
+      "title": "Stellantis invests €1.5B in new EV hub in Mirafiori, Turin",
+      "company": "Stellantis",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 73,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "seed_intel_001",
+      "title": "Intel pauses €17B German chip fab in Magdeburg amid financial struggles",
+      "company": "Intel",
+      "event_type": "expansion",
+      "signal_type": "negative",
+      "score": 73,
+      "relationship": "positive_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    }
+  ]
+}

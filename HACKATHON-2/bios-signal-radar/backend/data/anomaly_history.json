@@ -1,0 +1,452 @@
+[
+  {
+    "entity": "Thyssenkrupp",
+    "entity_type": "company",
+    "article_id": "175b12632162cd25",
+    "timestamp": "2026-05-02T14:59:51+00:00"
+  },
+  {
+    "entity": "Rivian",
+    "entity_type": "company",
+    "article_id": "19649393a8163384",
+    "timestamp": "2026-05-01T08:24:54+00:00"
+  },
+  {
+    "entity": "Georgia/ABD",
+    "entity_type": "location",
+    "article_id": "19649393a8163384",
+    "timestamp": "2026-05-01T08:24:54+00:00"
+  },
+  {
+    "entity": "Berkshire Hathaway",
+    "entity_type": "company",
+    "article_id": "1aaa2d671f45cf40",
+    "timestamp": "2026-05-02T18:16:31+00:00"
+  },
+  {
+    "entity": "Omaha, Nebraska, US",
+    "entity_type": "location",
+    "article_id": "1aaa2d671f45cf40",
+    "timestamp": "2026-05-02T18:16:31+00:00"
+  },
+  {
+    "entity": "Thyssenkrupp",
+    "entity_type": "company",
+    "article_id": "81e8cc0117eebc50",
+    "timestamp": "2026-05-02T13:28:30+00:00"
+  },
+  {
+    "entity": "Çinli Rafineriler",
+    "entity_type": "company",
+    "article_id": "1628c82a31a708a1",
+    "timestamp": "2026-05-02T13:35:33+00:00"
+  },
+  {
+    "entity": "Yara",
+    "entity_type": "company",
+    "article_id": "ba1176d936024e71",
+    "timestamp": "2026-05-01T13:12:10+00:00"
+  },
+  {
+    "entity": "İran",
+    "entity_type": "location",
+    "article_id": "ba1176d936024e71",
+    "timestamp": "2026-05-01T13:12:10+00:00"
+  },
+  {
+    "entity": "Hyundai Motor",
+    "entity_type": "company",
+    "article_id": "6fed3367a5893fd2",
+    "timestamp": "2026-05-01T13:59:56+00:00"
+  },
+  {
+    "entity": "South Korea",
+    "entity_type": "location",
+    "article_id": "6fed3367a5893fd2",
+    "timestamp": "2026-05-01T13:59:56+00:00"
+  },
+  {
+    "entity": "Rivian",
+    "entity_type": "company",
+    "article_id": "0635531dffd01b3b",
+    "timestamp": "2026-05-01T10:50:08+00:00"
+  },
+  {
+    "entity": "Georgia, US",
+    "entity_type": "location",
+    "article_id": "0635531dffd01b3b",
+    "timestamp": "2026-05-01T10:50:08+00:00"
+  },
+  {
+    "entity": "Toyota Motor",
+    "entity_type": "company",
+    "article_id": "49f3e402415fcbad",
+    "timestamp": "2026-05-01T10:46:08+00:00"
+  },
+  {
+    "entity": "Maharashtra, India",
+    "entity_type": "location",
+    "article_id": "49f3e402415fcbad",
+    "timestamp": "2026-05-01T10:46:08+00:00"
+  },
+  {
+    "entity": "Posco Holdings",
+    "entity_type": "company",
+    "article_id": "e166fe29fd21da65",
+    "timestamp": "2026-05-01T08:23:02+00:00"
+  },
+  {
+    "entity": "Avustralya",
+    "entity_type": "location",
+    "article_id": "e166fe29fd21da65",
+    "timestamp": "2026-05-01T08:23:02+00:00"
+  },
+  {
+    "entity": "Nexteer Automotive",
+    "entity_type": "company",
+    "article_id": "119010a7cdd71dac",
+    "timestamp": "2026-04-30T16:49:32+00:00"
+  },
+  {
+    "entity": "China",
+    "entity_type": "location",
+    "article_id": "119010a7cdd71dac",
+    "timestamp": "2026-04-30T16:49:32+00:00"
+  },
+  {
+    "entity": "Aston Martin",
+    "entity_type": "company",
+    "article_id": "4fbda1f1e738d884",
+    "timestamp": "2026-04-30T16:34:59+00:00"
+  },
+  {
+    "entity": "Boston Scientific Corporation",
+    "entity_type": "company",
+    "article_id": "2aff80d862466b3c",
+    "timestamp": "2026-05-02T21:00:00+00:00"
+  },
+  {
+    "entity": "New York",
+    "entity_type": "location",
+    "article_id": "2aff80d862466b3c",
+    "timestamp": "2026-05-02T21:00:00+00:00"
+  },
+  {
+    "entity": "GAC",
+    "entity_type": "company",
+    "article_id": "77f44acb12005fb0",
+    "timestamp": "2026-05-02T18:31:00+00:00"
+  },
+  {
+    "entity": "Overseas",
+    "entity_type": "location",
+    "article_id": "77f44acb12005fb0",
+    "timestamp": "2026-05-02T18:31:00+00:00"
+  },
+  {
+    "entity": "GAC",
+    "entity_type": "company",
+    "article_id": "8383fae61b0216c7",
+    "timestamp": "2026-05-02T18:27:00+00:00"
+  },
+  {
+    "entity": "Taylorsville, Indiana",
+    "entity_type": "location",
+    "article_id": "2a9473bcc422d2d4",
+    "timestamp": "2026-05-02T15:51:00+00:00"
+  },
+  {
+    "entity": "CIP",
+    "entity_type": "company",
+    "article_id": "a1a9707e115ba74f",
+    "timestamp": "2026-05-01T09:49:10+00:00"
+  },
+  {
+    "entity": "Taiwan",
+    "entity_type": "location",
+    "article_id": "8af892e9fc0b73c2",
+    "timestamp": "2026-05-01T07:08:42+00:00"
+  },
+  {
+    "entity": "TotalEnergies",
+    "entity_type": "company",
+    "article_id": "5a94098b0e3d3450",
+    "timestamp": "2026-04-30T13:24:16+00:00"
+  },
+  {
+    "entity": "Philippines",
+    "entity_type": "location",
+    "article_id": "5a94098b0e3d3450",
+    "timestamp": "2026-04-30T13:24:16+00:00"
+  },
+  {
+    "entity": "US Department of Energy (DoE)",
+    "entity_type": "company",
+    "article_id": "100ed191970f77dc",
+    "timestamp": "2026-04-30T09:28:07+00:00"
+  },
+  {
+    "entity": "Fugro",
+    "entity_type": "company",
+    "article_id": "f1695e900c9d5823",
+    "timestamp": "2026-04-30T07:51:38+00:00"
+  },
+  {
+    "entity": "Turkey",
+    "entity_type": "location",
+    "article_id": "f1695e900c9d5823",
+    "timestamp": "2026-04-30T07:51:38+00:00"
+  },
+  {
+    "entity": "Strait of Hormuz",
+    "entity_type": "location",
+    "article_id": "10c96a4e5f940a70",
+    "timestamp": "2026-05-02T23:00:00+00:00"
+  },
+  {
+    "entity": "San Diego",
+    "entity_type": "location",
+    "article_id": "5d2a0f82b74b4216",
+    "timestamp": "2026-05-02T18:20:00+00:00"
+  },
+  {
+    "entity": "Telefónica España",
+    "entity_type": "company",
+    "article_id": "3b596f865f1978a2",
+    "timestamp": "2026-04-29T17:17:11+00:00"
+  },
+  {
+    "entity": "Japan",
+    "entity_type": "location",
+    "article_id": "891f62717c40dc36",
+    "timestamp": "2026-04-29T14:02:07+00:00"
+  },
+  {
+    "entity": "seven countries",
+    "entity_type": "location",
+    "article_id": "930e7ec3ca581afc",
+    "timestamp": "2026-04-29T13:39:57+00:00"
+  },
+  {
+    "entity": "Wireless Logic",
+    "entity_type": "company",
+    "article_id": "bb8f11a12e257507",
+    "timestamp": "2026-04-28T15:43:45+00:00"
+  },
+  {
+    "entity": "Iberian Peninsula",
+    "entity_type": "location",
+    "article_id": "bb8f11a12e257507",
+    "timestamp": "2026-04-28T15:43:45+00:00"
+  },
+  {
+    "entity": "Japan's finance minister",
+    "entity_type": "company",
+    "article_id": "bd4276418e3fc927",
+    "timestamp": "2026-05-03T00:52:43+00:00"
+  },
+  {
+    "entity": "Tokyo, Japan",
+    "entity_type": "location",
+    "article_id": "bd4276418e3fc927",
+    "timestamp": "2026-05-03T00:52:43+00:00"
+  },
+  {
+    "entity": "Legazpi City, Albay province, Philippines",
+    "entity_type": "location",
+    "article_id": "1d9c3cf03ec8453c",
+    "timestamp": "2026-05-03T00:55:25+00:00"
+  },
+  {
+    "entity": "Nvidia Corp.",
+    "entity_type": "company",
+    "article_id": "c707f21db844d68f",
+    "timestamp": "2026-05-03T00:00:00+00:00"
+  },
+  {
+    "entity": "Ben McKenzie",
+    "entity_type": "company",
+    "article_id": "497b8e1c67554285",
+    "timestamp": "2026-05-02T15:35:23+00:00"
+  },
+  {
+    "entity": "David Aaron",
+    "entity_type": "company",
+    "article_id": "ef7c999bed71d11a",
+    "timestamp": "2026-05-02T08:12:58+00:00"
+  },
+  {
+    "entity": "David Aaron",
+    "entity_type": "company",
+    "article_id": "ef7c999bed71d11a",
+    "timestamp": "2026-05-02T08:12:58+00:00"
+  },
+  {
+    "entity": "Arlington, Virginia",
+    "entity_type": "location",
+    "article_id": "e789b5dc97c16bb6",
+    "timestamp": "2026-05-01T11:03:32+00:00"
+  },
+  {
+    "entity": "Arlington, Virginia",
+    "entity_type": "location",
+    "article_id": "e789b5dc97c16bb6",
+    "timestamp": "2026-05-01T11:03:32+00:00"
+  },
+  {
+    "entity": "Tesla",
+    "entity_type": "company",
+    "article_id": "0f6d3bcdc8ce0b48",
+    "timestamp": "2026-05-02T00:24:04+00:00"
+  },
+  {
+    "entity": "Oakland, California",
+    "entity_type": "location",
+    "article_id": "0f6d3bcdc8ce0b48",
+    "timestamp": "2026-05-02T00:24:04+00:00"
+  },
+  {
+    "entity": "Tesla",
+    "entity_type": "company",
+    "article_id": "0f6d3bcdc8ce0b48",
+    "timestamp": "2026-05-02T00:24:04+00:00"
+  },
+  {
+    "entity": "Oakland, California",
+    "entity_type": "location",
+    "article_id": "0f6d3bcdc8ce0b48",
+    "timestamp": "2026-05-02T00:24:04+00:00"
+  },
+  {
+    "entity": "Apple",
+    "entity_type": "company",
+    "article_id": "4e3febbcf808f473",
+    "timestamp": "2026-05-01T20:31:40+00:00"
+  },
+  {
+    "entity": "Apple",
+    "entity_type": "company",
+    "article_id": "4e3febbcf808f473",
+    "timestamp": "2026-05-01T20:31:40+00:00"
+  },
+  {
+    "entity": "Debra Lee",
+    "entity_type": "company",
+    "article_id": "8c063c31fbfe7e12",
+    "timestamp": "2026-05-01T20:45:28+00:00"
+  },
+  {
+    "entity": "Apple",
+    "entity_type": "company",
+    "article_id": "37f45ec030f5213f",
+    "timestamp": "2026-04-30T20:35:02+00:00"
+  },
+  {
+    "entity": "Shopify Inc.",
+    "entity_type": "company",
+    "article_id": "cd7ca7e657b5d7c2",
+    "timestamp": "2026-05-01T11:15:00+00:00"
+  },
+  {
+    "entity": "Hanoi",
+    "entity_type": "location",
+    "article_id": "ca12457e50c04d11",
+    "timestamp": "2026-05-03T02:08:57+00:00"
+  },
+  {
+    "entity": "Anti-Graft Agency",
+    "entity_type": "company",
+    "article_id": "0a5e7c16a44260f5",
+    "timestamp": "2026-05-03T02:42:42+00:00"
+  },
+  {
+    "entity": "Kuala Lumpur, Malaysia",
+    "entity_type": "location",
+    "article_id": "0a5e7c16a44260f5",
+    "timestamp": "2026-05-03T02:42:42+00:00"
+  },
+  {
+    "entity": "Thyssenkrupp",
+    "entity_type": "company",
+    "article_id": "d95f4f733ac121b5",
+    "timestamp": "2026-05-03T05:35:39+00:00"
+  },
+  {
+    "entity": "TK Steel Europe",
+    "entity_type": "company",
+    "article_id": "bb4d6ec4ebd01b00",
+    "timestamp": "2026-05-03T05:35:39+00:00"
+  },
+  {
+    "entity": "Novorossiysk Limanı",
+    "entity_type": "location",
+    "article_id": "9b7dd7826158389f",
+    "timestamp": "2026-05-03T08:21:15+00:00"
+  },
+  {
+    "entity": "Novorossiysk Limanı",
+    "entity_type": "location",
+    "article_id": "9b7dd7826158389f",
+    "timestamp": "2026-05-03T08:21:15+00:00"
+  },
+  {
+    "entity": "null",
+    "entity_type": "location",
+    "article_id": "69bcc2e4653560e5",
+    "timestamp": "2026-05-03T08:19:53+00:00"
+  },
+  {
+    "entity": "null",
+    "entity_type": "location",
+    "article_id": "69bcc2e4653560e5",
+    "timestamp": "2026-05-03T08:19:53+00:00"
+  },
+  {
+    "entity": "Kahramanmaraş",
+    "entity_type": "location",
+    "article_id": "c37b32837e07be08",
+    "timestamp": "2026-05-03T08:42:51+00:00"
+  },
+  {
+    "entity": "İran",
+    "entity_type": "location",
+    "article_id": "d2c4db530f3bd962",
+    "timestamp": "2026-05-03T08:36:53+00:00"
+  },
+  {
+    "entity": "AİLE ve Sosyal Hizmetler Bakanlığı",
+    "entity_type": "company",
+    "article_id": "a71dada6f3e1f210",
+    "timestamp": "2026-05-03T08:49:04+00:00"
+  },
+  {
+    "entity": "Adana",
+    "entity_type": "location",
+    "article_id": "731a9236658f49db",
+    "timestamp": "2026-05-03T08:48:50+00:00"
+  },
+  {
+    "entity": "Hafik ilçesi, Sivas",
+    "entity_type": "location",
+    "article_id": "499a36b4eed2c816",
+    "timestamp": "2026-05-03T08:44:51+00:00"
+  },
+  {
+    "entity": "Beşiktaş",
+    "entity_type": "location",
+    "article_id": "df90ca7a75038979",
+    "timestamp": "2026-05-03T08:41:11+00:00"
+  },
+  {
+    "entity": "Hakkari",
+    "entity_type": "location",
+    "article_id": "e536e8416c6ec4a9",
+    "timestamp": "2026-05-03T08:40:03+00:00"
+  },
+  {
+    "entity": "Bodrum",
+    "entity_type": "location",
+    "article_id": "12fc72937c193d64",
+    "timestamp": "2026-05-03T08:37:53+00:00"
+  }
+]

@@ -1,0 +1,324 @@
+{
+  "id": "seed_intel_001",
+  "title": "Intel pauses €17B German chip fab in Magdeburg amid financial struggles",
+  "content": "Intel Corporation has officially paused construction on its €17 billion semiconductor manufacturing facility in Magdeburg, Germany. The company cited declining revenues and a need to preserve capital. The pause puts 3,000 construction jobs at risk and delays what would have been Europe's largest chip factory by at least two years.",
+  "url": "https://feeds.a.dj.com/rss/intel-magdeburg-chip-factory-pause-2024",
+  "original_url": "https://feeds.a.dj.com/rss/intel-magdeburg-chip-factory-pause-2024",
+  "source_id": "seed",
+  "source_name": "Wall Street Journal",
+  "source_url": "https://feeds.a.dj.com",
+  "published_at": "2026-04-25T13:00:00Z",
+  "fetched_at": "2026-04-25T14:00:00Z",
+  "analysis_status": "processed",
+  "event_type": "expansion",
+  "summary_tr": "Intel, Almanya'nın Magdeburg şehrindeki 17 milyar Euroluk çip fabrikası inşaatını durdurdu. Şirket azalan gelirlerini ve sermayeyi koruma ihtiyacını gerekçe gösterdi. Avrupa'nın en büyük çip fabrikası olacak tesisin açılışı en az iki yıl erteleniyor.",
+  "company": "Intel",
+  "from_location": null,
+  "to_location": "Magdeburg, Germany",
+  "sector": "Electronics",
+  "subsector": "Semiconductors",
+  "timeline": "2028+",
+  "capex_eur": 17000000000,
+  "jobs_impact": -3000,
+  "signal_type": "negative",
+  "ai_confidence": 0.97,
+  "raw_hash": "seed_intel_001",
+  "url_hash": "seed_intel_001_url",
+  "bios_fit": {
+    "score": 73,
+    "score_final": 73,
+    "raw_score": 72.75,
+    "confidence": 0.8,
+    "components": {
+      "E": 0.75,
+      "A": 0.75,
+      "G": 1.0,
+      "T": 0.4,
+      "C": 0.55
+    },
+    "adjustments": {
+      "sector_mult": 1.0,
+      "industry_focus": 1.0,
+      "industry_bonus": 0.0,
+      "freshness_bonus": 0.0,
+      "confidence_penalty": false,
+      "graph_delta": 0.0
+    },
+    "label": "İzlenecek",
+    "color": "blue",
+    "action": "watchlist",
+    "source_tier": "general",
+    "audit_trail": [
+      {
+        "step": 1,
+        "title": "Alan Kontrolü",
+        "detail": "company=✅ | to_location=✅ | sector=✅ | event_type=✅ | from_location=❌",
+        "confidence": 0.8,
+        "filled_count": 4,
+        "total_fields": 5
+      },
+      {
+        "step": 2,
+        "title": "BIOS Bileşen Puanları",
+        "detail": "E(Olay)=0.75×0.30=0.22 | A(Aktör)=0.75×0.25=0.19 | G(Coğrafya)=1.0×0.20=0.20 | T(Zaman)=0.4×0.15=0.06 | C(Kaynak)=0.55×0.10=0.055",
+        "raw_score": 72.75,
+        "components": {
+          "E": 0.75,
+          "A": 0.75,
+          "G": 1.0,
+          "T": 0.4,
+          "C": 0.55
+        }
+      },
+      {
+        "step": 3,
+        "title": "Düzeltmeler",
+        "detail": "Düzeltme uygulanmadı",
+        "adjustments": {
+          "sector_mult": 1.0,
+          "industry_focus": 1.0,
+          "industry_bonus": 0.0,
+          "freshness_bonus": 0.0,
+          "confidence_penalty": false,
+          "graph_delta": 0.0
+        }
+      },
+      {
+        "step": 4,
+        "title": "Nihai Skor",
+        "detail": "Ham=72.75 → Düzeltmeli → Final=73 (İzlenecek)",
+        "final_score": 73,
+        "label": "İzlenecek",
+        "color": "blue"
+      }
+    ]
+  },
+  "synapse_score": 75,
+  "synapse_breakdown": [
+    {
+      "reason": "Ağ Taban Puanı",
+      "points": 5.0,
+      "type": "base"
+    },
+    {
+      "reason": "Bağlantı Yoğunluğu (16 bağ)",
+      "points": 22.7,
+      "type": "connectivity"
+    },
+    {
+      "reason": "Anlamsal Yakınlık (şirket:0, lokasyon:0, olay:15, sektör:2)",
+      "points": 10.0,
+      "type": "semantic"
+    },
+    {
+      "reason": "Momentum (poz:15, neg:1)",
+      "points": 8.0,
+      "type": "momentum"
+    },
+    {
+      "reason": "Tazelik (48s içinde komşu:10)",
+      "points": 7.0,
+      "type": "recency"
+    },
+    {
+      "reason": "Toplam",
+      "points": 75,
+      "type": "total"
+    }
+  ],
+  "graph_neighbors": [
+    {
+      "id": "731a9236658f49db",
+      "title": "Bakan Uraloğlu: Hızlı Tren Projesi&apos;nin Mersin- Adana arasını önümüzdeki sene hizmete açacağız",
+      "company": null,
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 56,
+      "relationship": "positive_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "c707f21db844d68f",
+      "title": "Nvidia’s Push Into Physical AI Sparks Rally in Asian Partners",
+      "company": "Nvidia Corp.",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 47,
+      "relationship": "positive_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "77f44acb12005fb0",
+      "title": "Globale Expansion auf der Überholspur: Exportvolumen von GAC in Übersee erreicht mit einem Anstieg von 133,9 % von Januar bis April im Vergleich zum Vorjahr neuen Höchststand",
+      "company": "GAC",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 59,
+      "relationship": "positive_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "8383fae61b0216c7",
+      "title": "Le volume des exportations de GAC atteint de nouveaux sommets, avec une hausse de 133,9 % en glissement annuel de janvier à avril, alors que son expansion mondiale s'accélère",
+      "company": "GAC",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 51,
+      "relationship": "positive_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "seed_northvolt_001",
+      "title": "Northvolt secures $5B for first circular gigafactory in Sweden",
+      "company": "Northvolt",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 80,
+      "relationship": "positive_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "4e3febbcf808f473",
+      "title": "Apple Raises Mac Mini’s Starting Price to $799 After AI Frenzy Drains Supply",
+      "company": "Apple",
+      "event_type": "price_change",
+      "signal_type": "negative",
+      "score": 27,
+      "relationship": "negative_to_negative",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "seed_vw_002",
+      "title": "Volkswagen shifts EV production to new €2B Slovakia plant",
+      "company": "Volkswagen",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 87,
+      "relationship": "positive_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "6fed3367a5893fd2",
+      "title": "Hyundai unveils Pleos Connect for software-defined vehicle architecture",
+      "company": "Hyundai Motor",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 56,
+      "relationship": "positive_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "0635531dffd01b3b",
+      "title": "Rivian raises US (Georgia) plant capacity by 50%",
+      "company": "Rivian",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 69,
+      "relationship": "positive_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "49f3e402415fcbad",
+      "title": "Toyota plans three Maharashtra plants to lift India output – report",
+      "company": "Toyota Motor",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 56,
+      "relationship": "positive_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "19649393a8163384",
+      "title": "Elektroautohersteller: Rivian reduziert Verluste und erhöht Kapazitätsplanung für neues Werk",
+      "company": "Rivian",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 63,
+      "relationship": "positive_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "37f45ec030f5213f",
+      "title": "Apple Forecast Tops Estimates Even as Mac Shortages Linger",
+      "company": "Apple",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 59,
+      "relationship": "positive_to_negative",
+      "reasons": [
+        "same_sector",
+        "same_event"
+      ]
+    },
+    {
+      "id": "119010a7cdd71dac",
+      "title": "Nexteer puts steer-by-wire into series production",
+      "company": "Nexteer Automotive",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 53,
+      "relationship": "positive_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "3b596f865f1978a2",
+      "title": "Telefónica and Sateliot target hybrid 5G-satellite coverage for defense and remote operations",
+      "company": "Telefónica España",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 44,
+      "relationship": "positive_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "b2e8fb1f5e95422d",
+      "title": "Cellular POS Terminals to Reach 247 Million by 2029 as Retail IoT Expands",
+      "company": null,
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 45,
+      "relationship": "positive_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "seed_stellantis_002",
+      "title": "Stellantis invests €1.5B in new EV hub in Mirafiori, Turin",
+      "company": "Stellantis",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 73,
+      "relationship": "positive_to_negative",
+      "reasons": [
+        "same_event"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "title": "One year on from Iberian blackout, what has the industry learned about resilience? Wireless Logic comments",
+  "original_url": "https://iotbusinessnews.com/2026/04/28/one-year-on-from-iberian-blackout-what-has-the-industry-learned-about-resilience-wireless-logic-comments/",
+  "content": "28 April marks one year since the Iberian Peninsula blackout , Europe’s largest grid failure in the last 20 years, which left nearly 60 million without power. A year on, it remains a stark reminder of how catastrophic outages can be when resilience mechanisms aren’t fully in place. The IoT energy market is projected to reach $62.8 billion globally by 2030. Whilst last year’s blackout was not linked to the IoT, as IoT adoption grows in an increasingly digitalised sector, early decisions around network infrastructure, security and scalability are crucial for ensuring uptime. Iain Davidson , head of product marketing, Wireless Logic , offers insight into what the industry has learned a year on from the outage: “The role of IoT in the energy ecosystem and smart grid is growing rapidly. However, it is only an asset to the sector if it is truly resilient and secure. Last year’s Iberian Peninsula blackout demonstrated how quickly disruption can occur when complex infrastructure is placed under stress. As seen, if systems, equipment or infrastructure suffer downtime, severe disruption can occur on a vast scale. One year later, the focus must be on embedding proactive resilience measures from the outset”. “Energy companies and suppliers should prioritise proactively and continuously monitor infrastructure, devices and applications. They should also implement predictive maintenance and real-time monitoring and threat detection supported by AI-driven analytics to identify and mitigate problems before they occur. This includes issues which begin as operational, environmental and cyber-security breaches. In addition, networks and systems should be designed with redundancy to handle demand fluctuations and include automated and immediate failover to maintain continuity during failures”. “Crucially, the industry must implement operational and cyber resilience procedures and test them regularly. Resilience and security must be built in end-to-end across IoT devices, networks, softw",
+  "source_id": "rss_iot_business",
+  "source_name": "IoT Business News",
+  "source_url": "https://iotbusinessnews.com/feed/",
+  "published_at": "2026-04-28T15:43:45+00:00",
+  "raw_hash": "bb8f11a12e257507",
+  "content_preview": "28 April marks one year since the Iberian Peninsula blackout , Europe’s largest grid failure in the last 20 years, which left nearly 60 million without power. A year on, it remains a stark reminder of how catastrophic outages can be when resilience mechanisms aren’t fully in place. The IoT energy ma",
+  "language": "en",
+  "content_hash": "f7c3db59e902b935",
+  "company": "Wireless Logic",
+  "from_location": "Iberian Peninsula",
+  "to_location": null,
+  "id": "bb8f11a12e257507",
+  "url_hash": "bb8f11a12e257507",
+  "text": "One year on from Iberian blackout, what has the industry learned about resilience? Wireless Logic comments. 28 April marks one year since the Iberian Peninsula blackout , Europe’s largest grid failure in the last 20 years, which left nearly 60 million without power. A year on, it remains a stark reminder of how catastrophic outages can be when resilience mechanisms aren’t fully in place. The IoT energy market is projected to reach $62.8 billion globally by 2030. Whilst last year’s blackout was not linked to the IoT, as IoT adoption grows in an increasingly digitalised sector, early decisions around network infrastructure, security and scalability are crucial for ensuring uptime. Iain Davidson , head of product marketing, Wireless Logic , offers insight into what the industry has learned a year on from the outage: “The role of IoT in the energy ecosystem and smart grid is growing rapidly. However, it is only an asset to the sector if it is truly resilient and secure. Last year’s Iberian Peninsula blackout demonstrated how quickly disruption can occur when complex infrastructure is placed under stress. As seen, if systems, equipment or infrastructure suffer downtime, severe disruption can occur on a vast scale. One year later, the focus must be on embedding proactive resilience measures from the outset”. “Energy companies and suppliers should prioritise proactively and continuously monitor infrastructure, devices and applications. They should also implement predictive maintenance and real-time monitoring and threat detection supported by AI-driven analytics to identify and mitigate problems before they occur. This includes issues which begin as operational, environmental and cyber-security breaches. In addition, networks and systems should be designed with redundancy to handle demand fluctuations and include automated and immediate failover to maintain continuity during failures”. “Crucially, the industry must implement operational and cyber resilience procedures and test them regularly. Resilience and security must be built in end-to-end across IoT devices, networks, softw",
+  "fetched_at": "2026-05-03T00:24:54.260772+00:00",
+  "analysis_status": "processed",
+  "event_type": "relocation|closure|expansion|new_plant|tender|layoff|acquisition|restructuring|supply_chain|other",
+  "summary_tr": null,
+  "sector": "Energy",
+  "subsector": "IoT energy market",
+  "timeline": "28 April (1 year since Iberian blackout)",
+  "capex_eur": null,
+  "jobs_impact": null,
+  "line_type": null,
+  "equipment_keywords": [
+    "IoT devices",
+    "networks",
+    "AI-driven analytics"
+  ],
+  "signal_type": "neutral",
+  "ai_confidence": 0.75,
+  "reasoning": "The industry has learned the importance of proactive resilience measures, predictive maintenance, and real-time monitoring to prevent downtime and ensure uptime.",
+  "assumptions": [],
+  "bios_fit": {
+    "score": 32,
+    "score_final": 32,
+    "raw_score": 32.25,
+    "confidence": 0.8,
+    "components": {
+      "E": 0.1,
+      "A": 0.75,
+      "G": 0.1,
+      "T": 0.2,
+      "C": 0.55
+    },
+    "adjustments": {
+      "sector_mult": 1.0,
+      "industry_focus": 1.0,
+      "industry_bonus": 0.0,
+      "freshness_bonus": 0.0,
+      "confidence_penalty": false,
+      "graph_delta": 0.0
+    },
+    "label": "Düşük Alaka",
+    "color": "gray",
+    "action": "archive",
+    "source_tier": "general",
+    "audit_trail": [
+      {
+        "step": 1,
+        "title": "Alan Kontrolü",
+        "detail": "company=✅ | from_location=✅ | sector=✅ | event_type=✅ | to_location=❌",
+        "confidence": 0.8,
+        "filled_count": 4,
+        "total_fields": 5
+      },
+      {
+        "step": 2,
+        "title": "BIOS Bileşen Puanları",
+        "detail": "E(Olay)=0.1×0.30=0.03 | A(Aktör)=0.75×0.25=0.19 | G(Coğrafya)=0.1×0.20=0.02 | T(Zaman)=0.2×0.15=0.03 | C(Kaynak)=0.55×0.10=0.055",
+        "raw_score": 32.25,
+        "components": {
+          "E": 0.1,
+          "A": 0.75,
+          "G": 0.1,
+          "T": 0.2,
+          "C": 0.55
+        }
+      },
+      {
+        "step": 3,
+        "title": "Düzeltmeler",
+        "detail": "Düzeltme uygulanmadı",
+        "adjustments": {
+          "sector_mult": 1.0,
+          "industry_focus": 1.0,
+          "industry_bonus": 0.0,
+          "freshness_bonus": 0.0,
+          "confidence_penalty": false,
+          "graph_delta": 0.0
+        }
+      },
+      {
+        "step": 4,
+        "title": "Nihai Skor",
+        "detail": "Ham=32.25 → Düzeltmeli → Final=32 (Düşük Alaka)",
+        "final_score": 32,
+        "label": "Düşük Alaka",
+        "color": "gray"
+      }
+    ]
+  },
+  "synapse_score": 57,
+  "synapse_breakdown": [
+    {
+      "reason": "Ağ Taban Puanı",
+      "points": 5.0,
+      "type": "base"
+    },
+    {
+      "reason": "Bağlantı Yoğunluğu (9 bağ)",
+      "points": 18.4,
+      "type": "connectivity"
+    },
+    {
+      "reason": "Anlamsal Yakınlık (şirket:0, lokasyon:0, olay:2, sektör:8)",
+      "points": 6.6,
+      "type": "semantic"
+    },
+    {
+      "reason": "Momentum (poz:5, neg:4)",
+      "points": 4.0,
+      "type": "momentum"
+    },
+    {
+      "reason": "Tazelik (48s içinde komşu:4)",
+      "points": 6.0,
+      "type": "recency"
+    },
+    {
+      "reason": "Toplam",
+      "points": 57,
+      "type": "total"
+    }
+  ],
+  "graph_neighbors": [
+    {
+      "id": "9b7dd7826158389f",
+      "title": "Zelenskiy, Novorossiysk Limanı girişinde &quot;Rus gölge filosuna&quot; ait iki tankere saldırdıklarını bildirdi",
+      "company": null,
+      "event_type": "supply_chain",
+      "signal_type": "negative",
+      "score": 36,
+      "relationship": "negative_to_neutral",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "10c96a4e5f940a70",
+      "title": "Hormuz Deadlock Persists as Trump Faces War-Powers Deadline at Home",
+      "company": null,
+      "event_type": "relocation|closure",
+      "signal_type": "negative",
+      "score": 22,
+      "relationship": "negative_to_neutral",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "c493924b0d14be13",
+      "title": "Russian to Plead Guilty in Oil and Gas Facility Hack",
+      "company": null,
+      "event_type": "tender",
+      "signal_type": "negative",
+      "score": 31,
+      "relationship": "negative_to_neutral",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "a1a9707e115ba74f",
+      "title": "CIP acquires Ørsted’s onshore business in Europe",
+      "company": "CIP",
+      "event_type": "acquisition",
+      "signal_type": "positive",
+      "score": 41,
+      "relationship": "positive_to_neutral",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "8af892e9fc0b73c2",
+      "title": "Northland inks 30-year CPPA with TSMC for Hai Long wind project",
+      "company": null,
+      "event_type": "new_plant",
+      "signal_type": "positive",
+      "score": 46,
+      "relationship": "positive_to_neutral",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "5a94098b0e3d3450",
+      "title": "TotalEnergies, Nextnorth begin 440MWp solar project in Philippines",
+      "company": "TotalEnergies",
+      "event_type": "new_plant",
+      "signal_type": "positive",
+      "score": 56,
+      "relationship": "positive_to_neutral",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "100ed191970f77dc",
+      "title": "US DoE moves to release $430m for hydropower upgrades",
+      "company": "US Department of Energy (DoE)",
+      "event_type": "relocation|closure|expansion|new_plant|tender|layoff|acquisition|restructuring|supply_chain|other",
+      "signal_type": "positive",
+      "score": 24,
+      "relationship": "positive_to_neutral",
+      "reasons": [
+        "same_sector",
+        "same_event"
+      ]
+    },
+    {
+      "id": "f1695e900c9d5823",
+      "title": "Fugro wins geotechnical contract for FengMiao II offshore wind farm",
+      "company": "Fugro",
+      "event_type": "new_plant",
+      "signal_type": "positive",
+      "score": 74,
+      "relationship": "positive_to_neutral",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "930e7ec3ca581afc",
+      "title": "Equipment Theft Becomes a $13M Problem Driving IoT Asset Tracking Adoption",
+      "company": null,
+      "event_type": "relocation|closure|expansion|new_plant|tender|layoff|acquisition|restructuring|supply_chain|other",
+      "signal_type": "negative",
+      "score": 30,
+      "relationship": "negative_to_neutral",
+      "reasons": [
+        "same_event"
+      ]
+    }
+  ]
+}

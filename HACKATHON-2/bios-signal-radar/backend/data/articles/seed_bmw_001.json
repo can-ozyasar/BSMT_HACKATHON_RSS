@@ -1,0 +1,312 @@
+{
+  "id": "seed_bmw_001",
+  "title": "BMW opens €1.7B gigafactory for battery cells in Leipzig",
+  "content": "BMW Group has inaugurated its new €1.7 billion battery cell production facility in Leipzig, Germany. The 40,000 sqm plant employs 1,500 workers and will produce cylindrical cells for the Neue Klasse electric platform. At full capacity, the factory will supply cells for 300,000 vehicles annually.",
+  "url": "https://www.automobilwoche.de/artikel/bmw-gigafactory-batteriezellen-leipzig-17-milliarden/",
+  "original_url": "https://www.automobilwoche.de/artikel/bmw-gigafactory-batteriezellen-leipzig-17-milliarden/",
+  "source_id": "seed",
+  "source_name": "Automobilwoche",
+  "source_url": "https://automobilwoche.de",
+  "published_at": "2026-05-02T09:00:00Z",
+  "fetched_at": "2026-05-02T10:00:00Z",
+  "analysis_status": "processed",
+  "event_type": "new_plant",
+  "summary_tr": "BMW Group, Leipzig'de 1.7 milyar Euro yatırımla yeni batarya hücresi üretim tesisini açtı. 40.000 m² alana sahip fabrika 1.500 kişiyi istihdam ediyor ve yıllık 300.000 araçlık kapasite sunacak.",
+  "company": "BMW",
+  "from_location": null,
+  "to_location": "Leipzig, Germany",
+  "sector": "Automotive",
+  "subsector": "Battery cells",
+  "timeline": "2026 Q2",
+  "capex_eur": 1700000000,
+  "jobs_impact": 1500,
+  "signal_type": "positive",
+  "ai_confidence": 0.98,
+  "raw_hash": "seed_bmw_001",
+  "url_hash": "seed_bmw_001_url",
+  "bios_fit": {
+    "score": 86,
+    "score_final": 86,
+    "raw_score": 86.25,
+    "confidence": 0.8,
+    "components": {
+      "E": 0.9,
+      "A": 0.75,
+      "G": 1.0,
+      "T": 1.0,
+      "C": 0.55
+    },
+    "adjustments": {
+      "sector_mult": 1.0,
+      "industry_focus": 1.0,
+      "industry_bonus": 0.0,
+      "freshness_bonus": 0.0,
+      "confidence_penalty": false,
+      "graph_delta": 0.0
+    },
+    "label": "Yüksek Fırsat",
+    "color": "green",
+    "action": "reach_out",
+    "source_tier": "general",
+    "audit_trail": [
+      {
+        "step": 1,
+        "title": "Alan Kontrolü",
+        "detail": "company=✅ | to_location=✅ | sector=✅ | event_type=✅ | from_location=❌",
+        "confidence": 0.8,
+        "filled_count": 4,
+        "total_fields": 5
+      },
+      {
+        "step": 2,
+        "title": "BIOS Bileşen Puanları",
+        "detail": "E(Olay)=0.9×0.30=0.27 | A(Aktör)=0.75×0.25=0.19 | G(Coğrafya)=1.0×0.20=0.20 | T(Zaman)=1.0×0.15=0.15 | C(Kaynak)=0.55×0.10=0.055",
+        "raw_score": 86.25,
+        "components": {
+          "E": 0.9,
+          "A": 0.75,
+          "G": 1.0,
+          "T": 1.0,
+          "C": 0.55
+        }
+      },
+      {
+        "step": 3,
+        "title": "Düzeltmeler",
+        "detail": "Düzeltme uygulanmadı",
+        "adjustments": {
+          "sector_mult": 1.0,
+          "industry_focus": 1.0,
+          "industry_bonus": 0.0,
+          "freshness_bonus": 0.0,
+          "confidence_penalty": false,
+          "graph_delta": 0.0
+        }
+      },
+      {
+        "step": 4,
+        "title": "Nihai Skor",
+        "detail": "Ham=86.25 → Düzeltmeli → Final=86 (Yüksek Fırsat)",
+        "final_score": 86,
+        "label": "Yüksek Fırsat",
+        "color": "green"
+      }
+    ]
+  },
+  "graph_neighbors": [
+    {
+      "id": "77f44acb12005fb0",
+      "title": "Globale Expansion auf der Überholspur: Exportvolumen von GAC in Übersee erreicht mit einem Anstieg von 133,9 % von Januar bis April im Vergleich zum Vorjahr neuen Höchststand",
+      "company": "GAC",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 59,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "8383fae61b0216c7",
+      "title": "Le volume des exportations de GAC atteint de nouveaux sommets, avec une hausse de 133,9 % en glissement annuel de janvier à avril, alors que son expansion mondiale s'accélère",
+      "company": "GAC",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 51,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "2a9473bcc422d2d4",
+      "title": "Performance Brokerage Services Advises on the Sale of Carver Toyota of Columbus in Taylorsville, Indiana to Carlock Automotive Group",
+      "company": null,
+      "event_type": "acquisition",
+      "signal_type": "positive",
+      "score": 46,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "efef361d2a7bc11a",
+      "title": "Chinese Court Rules Firms Can’t Lay Off Workers on AI Grounds",
+      "company": null,
+      "event_type": "restructuring",
+      "signal_type": "positive",
+      "score": 29,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "seed_vw_001",
+      "title": "Volkswagen to close two German plants, cutting 35,000 jobs",
+      "company": "Volkswagen",
+      "event_type": "closure",
+      "signal_type": "negative",
+      "score": 76,
+      "relationship": "positive_to_negative",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "seed_vw_002",
+      "title": "Volkswagen shifts EV production to new €2B Slovakia plant",
+      "company": "Volkswagen",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 87,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "8af892e9fc0b73c2",
+      "title": "Northland inks 30-year CPPA with TSMC for Hai Long wind project",
+      "company": null,
+      "event_type": "new_plant",
+      "signal_type": "positive",
+      "score": 46,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "seed_stellantis_001",
+      "title": "Stellantis closes Vauxhall Ellesmere Port plant after EV pivot fails",
+      "company": "Stellantis",
+      "event_type": "closure",
+      "signal_type": "negative",
+      "score": 68,
+      "relationship": "positive_to_negative",
+      "reasons": [
+        "same_sector"
+      ]
+    },
+    {
+      "id": "5a94098b0e3d3450",
+      "title": "TotalEnergies, Nextnorth begin 440MWp solar project in Philippines",
+      "company": "TotalEnergies",
+      "event_type": "new_plant",
+      "signal_type": "positive",
+      "score": 56,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "seed_bmw_002",
+      "title": "BMW relocates motorcycle production from Berlin to Hungary",
+      "company": "BMW",
+      "event_type": "relocation",
+      "signal_type": "negative",
+      "score": 91,
+      "relationship": "positive_to_negative",
+      "reasons": [
+        "same_company",
+        "same_sector"
+      ]
+    },
+    {
+      "id": "f1695e900c9d5823",
+      "title": "Fugro wins geotechnical contract for FengMiao II offshore wind farm",
+      "company": "Fugro",
+      "event_type": "new_plant",
+      "signal_type": "positive",
+      "score": 74,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "891f62717c40dc36",
+      "title": "Japan Trials Put Wi-Fi HaLow’s Long-Range IoT Claims to the Test",
+      "company": null,
+      "event_type": "new_plant",
+      "signal_type": "positive",
+      "score": 46,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "35166282cb234b16",
+      "title": "IoT Platforms: Key Capabilities, Vendor Landscape and Selection Criteria",
+      "company": null,
+      "event_type": "new_plant",
+      "signal_type": "positive",
+      "score": 38,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_event"
+      ]
+    },
+    {
+      "id": "seed_stellantis_002",
+      "title": "Stellantis invests €1.5B in new EV hub in Mirafiori, Turin",
+      "company": "Stellantis",
+      "event_type": "expansion",
+      "signal_type": "positive",
+      "score": 73,
+      "relationship": "positive_to_positive",
+      "reasons": [
+        "same_sector"
+      ]
+    }
+  ],
+  "synapse_score": 80,
+  "synapse_breakdown": [
+    {
+      "reason": "Ağ Taban Puanı",
+      "points": 5.0,
+      "type": "base"
+    },
+    {
+      "reason": "Bağlantı Yoğunluğu (14 bağ)",
+      "points": 21.7,
+      "type": "connectivity"
+    },
+    {
+      "reason": "Anlamsal Yakınlık (şirket:1, lokasyon:0, olay:5, sektör:9)",
+      "points": 14.4,
+      "type": "semantic"
+    },
+    {
+      "reason": "Momentum (poz:11, neg:3)",
+      "points": 8.0,
+      "type": "momentum"
+    },
+    {
+      "reason": "Tazelik (48s içinde komşu:6)",
+      "points": 7.0,
+      "type": "recency"
+    },
+    {
+      "reason": "Toplam",
+      "points": 80,
+      "type": "total"
+    }
+  ],
+  "synapse_ai": {
+    "synapse_ai_score": 85,
+    "reasoning_tr": "BMW'nin Leipzig'deki yeni batarya hücresi üretim tesisini açması, pozitif bir gelişme. GAC ve Volkswagen gibi şirketlerin de benzer gelişmeler yaşaması, BMW için olumlu bir işaret. Ancak, Volkswagen'un kapatma olayına rağmen, BMW'nin pozitif bir gelişme yaşaması, skoru düşürdü.",
+    "key_factors": [
+      "BMW",
+      "Leipzig",
+      "GAC",
+      "Volkswagen"
+    ],
+    "model": "ollama",
+    "computed_at": "2026-05-03T06:20:11.086125+00:00"
+  }
+}

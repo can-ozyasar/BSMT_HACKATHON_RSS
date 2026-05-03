@@ -1,0 +1,138 @@
+{
+  "title": "İran&apos;da dolar, ulusal para birimi karşısında tarihi zirveye çıktı",
+  "original_url": "https://www.haberler.com/ekonomi/iran-da-dolar-ulusal-para-birimi-karsisinda-tarihi-19798926-haberi/",
+  "content": "İran&apos;da ABD doları, serbest piyasada tarihinin en yüksek seviyesine çıkarak 184 bin tümen seviyesini gördü.",
+  "source_id": "rss_9d9d554e",
+  "source_name": "Fabrika",
+  "source_url": "https://rss.haberler.com/rss.asp?kategori=fabrika",
+  "published_at": "2026-05-03T08:36:53+00:00",
+  "raw_hash": "d2c4db530f3bd962",
+  "content_preview": "İran&apos;da ABD doları, serbest piyasada tarihinin en yüksek seviyesine çıkarak 184 bin tümen seviyesini gördü.",
+  "language": "tr",
+  "content_hash": "3fe176c68ee5d14a",
+  "company": null,
+  "from_location": "İran",
+  "to_location": null,
+  "id": "d2c4db530f3bd962",
+  "url_hash": "d2c4db530f3bd962",
+  "simhash_fp": 5452518504453981308,
+  "text": "İran&apos;da dolar, ulusal para birimi karşısında tarihi zirveye çıktı. İran&apos;da ABD doları, serbest piyasada tarihinin en yüksek seviyesine çıkarak 184 bin tümen seviyesini gördü.",
+  "fetched_at": "2026-05-03T08:48:12.044982+00:00",
+  "analysis_status": "processed",
+  "event_type": null,
+  "summary_tr": "İran'da ABD doları, serbest piyasada tarihi zirveye çıktı. 184 bin tümen seviyesine ulaştı.",
+  "sector": null,
+  "subsector": null,
+  "timeline": null,
+  "capex_eur": null,
+  "jobs_impact": null,
+  "line_type": null,
+  "equipment_keywords": [],
+  "signal_type": "negative",
+  "ai_confidence": 0.75,
+  "reasoning": "The article reports a historical high for the US dollar against the national currency in Iran, which is considered negative.",
+  "assumptions": [],
+  "bios_fit": {
+    "score": 10,
+    "score_final": 10,
+    "raw_score": 19.75,
+    "confidence": 0.2,
+    "components": {
+      "E": 0.1,
+      "A": 0.25,
+      "G": 0.1,
+      "T": 0.2,
+      "C": 0.55
+    },
+    "adjustments": {
+      "sector_mult": 1.0,
+      "industry_focus": 1.0,
+      "industry_bonus": 0.0,
+      "freshness_bonus": 0.0,
+      "confidence_penalty": true,
+      "graph_delta": 0.0
+    },
+    "label": "Düşük Alaka",
+    "color": "gray",
+    "action": "archive",
+    "source_tier": "general",
+    "audit_trail": [
+      {
+        "step": 1,
+        "title": "Alan Kontrolü",
+        "detail": "from_location=✅ | company=❌ | to_location=❌ | sector=❌ | event_type=❌",
+        "confidence": 0.2,
+        "filled_count": 1,
+        "total_fields": 5
+      },
+      {
+        "step": 2,
+        "title": "BIOS Bileşen Puanları",
+        "detail": "E(Olay)=0.1×0.30=0.03 | A(Aktör)=0.25×0.25=0.06 | G(Coğrafya)=0.1×0.20=0.02 | T(Zaman)=0.2×0.15=0.03 | C(Kaynak)=0.55×0.10=0.055",
+        "raw_score": 19.75,
+        "components": {
+          "E": 0.1,
+          "A": 0.25,
+          "G": 0.1,
+          "T": 0.2,
+          "C": 0.55
+        }
+      },
+      {
+        "step": 3,
+        "title": "Düzeltmeler",
+        "detail": "Güven Cezası×0.50",
+        "adjustments": {
+          "sector_mult": 1.0,
+          "industry_focus": 1.0,
+          "industry_bonus": 0.0,
+          "freshness_bonus": 0.0,
+          "confidence_penalty": true,
+          "graph_delta": 0.0
+        }
+      },
+      {
+        "step": 4,
+        "title": "Nihai Skor",
+        "detail": "Ham=19.75 → Düzeltmeli → Final=10 (Düşük Alaka)",
+        "final_score": 10,
+        "label": "Düşük Alaka",
+        "color": "gray"
+      }
+    ]
+  },
+  "synapse_score": 7,
+  "synapse_breakdown": [
+    {
+      "reason": "Ağ Taban Puanı",
+      "points": 5.0,
+      "type": "base"
+    },
+    {
+      "reason": "Bağlantı Yoğunluğu (0 bağ)",
+      "points": 0.0,
+      "type": "connectivity"
+    },
+    {
+      "reason": "Anlamsal Yakınlık (şirket:0, lokasyon:0, olay:0, sektör:0)",
+      "points": 0.0,
+      "type": "semantic"
+    },
+    {
+      "reason": "Momentum (poz:0, neg:0)",
+      "points": 0.0,
+      "type": "momentum"
+    },
+    {
+      "reason": "Tazelik (48s içinde komşu:0)",
+      "points": 0.0,
+      "type": "recency"
+    },
+    {
+      "reason": "Toplam",
+      "points": 7,
+      "type": "total"
+    }
+  ],
+  "graph_neighbors": []
+}
