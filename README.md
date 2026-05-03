@@ -1,4 +1,4 @@
-# BIOS Signal Radar 🛰️
+# Synapse 🛰️
 
 **Avrupa Endüstriyel Haber Tarama Ajanı** — RSS tabanlı, yapay zekâ destekli, gerçek zamanlı haber analiz ve fırsat takip sistemi.
 
